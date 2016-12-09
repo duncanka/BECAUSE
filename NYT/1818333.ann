@@ -1,0 +1,70 @@
+T1	Purpose 256 258	to
+E1	Purpose:T1 Effect:T3 Cause:T2
+A1	Degree E1 Facilitate
+T2	Argument 259 277	take back the city
+T3	Argument 205 255	make a show of increased American force in Baghdad
+T4	Consequence 472 479	because
+E2	Consequence:T4 Cause:T19 Effect:T18
+A2	Degree E2 Facilitate
+T5	Consequence 489 493	make
+E3	Consequence:T5 Effect:T21 Cause:T20
+A3	Degree E3 Facilitate
+T6	Purpose 870 872	to
+E4	Purpose:T6 Cause:T23 Effect:T22
+A4	Degree E4 Facilitate
+T7	Consequence 873 876	let
+E5	Consequence:T7 Effect:T24
+A5	Degree E5 Facilitate
+T8	Consequence 1237 1240	let
+E6	Consequence:T8 Effect:T26 Cause:T25
+A6	Degree E6 Facilitate
+T9	Consequence 2498 2502	made
+E7	Consequence:T9 Effect:T10 Cause:T11
+A7	Degree E7 Facilitate
+T10	Argument 2503 2505;2506 2525	it worth adding troops
+T11	Argument 2438 2497	the economic commitments by both Iraq and the United States
+T12	Consequence 3859 3865	helped
+E8	Consequence:T12 Effect:T34 Cause:T33
+A8	Degree E8 Facilitate
+T13	Consequence 4414 4421	lead to
+E9	Consequence:T13 Effect:T36 Cause:T35
+A9	Degree E9 Facilitate
+T14	Consequence 4611 4618	without
+E10	Consequence:T14 Cause:T38 Effect:T37
+A10	Degree E10 Inhibit
+T15	Consequence 4706 4713	without
+E11	Consequence:T15 Cause:T40 Effect:T39
+A11	Degree E11 Inhibit
+T16	Consequence 4912 4917;4943 4945	allow to
+E12	Consequence:T16 Effect:T41
+A12	Degree E12 Facilitate
+T17	Purpose 5765 5767	to
+E13	Purpose:T17 Cause:T43 Effect:T42
+A13	Degree E13 Facilitate
+T18	Argument 416 470	to send more troops to Iraq could be counterproductive
+T19	Argument 480 543	it might make the Iraqi government less likely to defend itself
+T20	Argument 480 482	it
+R1	Coref Arg1:T20 Arg2:T30	
+T21	Argument 494 514;515 543	the Iraqi government less likely to defend itself
+T22	Argument 857 869	pulling back
+T23	Argument 873 908	let the Iraqi factions fight it out
+T24	Argument 877 895;896 908	the Iraqi factions fight it out
+T25	Argument 1205 1207	we
+T26	Argument 1241 1253;1254 1277	the factions fight it out themselves
+T27	Motivation 3180 3182	If
+E14	Motivation:T27 Cause:T28 Effect:T29
+A14	Degree E14 Facilitate
+T28	Argument 3183 3228	General Casey feels like he needs more troops
+T29	Argument 3230 3245	we'll send them
+T33	Argument 3824 3858	Mr. Rumsfeld's departure on Nov. 8
+T34	Argument 3869 4014	empower Mr. Hadley, along with his deputy at the National Security Council, Jack D. Crouch, as they ran the review process inside the White House
+T35	Argument 4383 4407	political reconciliation
+T36	Argument 4422 4431	stability
+T37	Argument 4587 4610	You can't have security
+T38	Argument 4619 4650	political and economic progress
+T39	Argument 4656 4705	it's hard to have political and economic progress
+T40	Argument 4714 4722	security
+T41	Argument 4918 4942;4946 4959	Iraqi-vs.-Iraqi fighting settle itself
+T42	Argument 5724 5763	General Pace traveled to Crawford, Tex.
+T43	Argument 5768 5802	meet with Mr. Bush after Christmas
+T30	Argument 416 443	to send more troops to Iraq

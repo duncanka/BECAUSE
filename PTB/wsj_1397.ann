@@ -1,0 +1,5 @@
+T3	Consequence 5852 5854	If
+E3	Consequence:T3 Cause:T8 Effect:T9
+A3	Degree E3 Facilitate
+T8	Argument 5855 5922	the show's creators could just let themselves be quiet for a little
+T9	Argument 5924 5947	they might just hear it

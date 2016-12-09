@@ -1,0 +1,40 @@
+T2	Motivation 634 638	over
+E1	Motivation:T2 Cause:T11 Effect:T10
+A1	Degree E1 Facilitate
+T4	Consequence 909 918	needed to
+E2	Consequence:T4 Cause:T12 Effect:T13
+A2	Degree E2 Facilitate
+T7	Purpose 2255 2257	to
+E4	Purpose:T7 Cause:T15 Effect:T14
+A4	Degree E4 Facilitate
+T5	Purpose 4105 4108	for
+E3	Purpose:T5 Effect:T16 Cause:T17
+A3	Degree E3 Facilitate
+T9	Consequence 5362 5364	of
+E5	Consequence:T9 Cause:T20 Effect:T21
+A5	Degree E5 Facilitate
+T8	Consequence 5247 5249	of
+E6	Consequence:T8 Cause:T19 Effect:T18
+A6	Degree E6 Facilitate
+T10	Argument 569 633	Workers at six mines in Arctic Circle coal fields called strikes
+T11	Argument 639 681	a series of economic and political demands
+T12	Argument 885 908	the two-thirds majority
+T13	Argument 919 1052	overturn the president's veto of legislation renewing support of Medicaid abortions for poor women who are victims of rape and incest
+T15	Argument 2258 2299	develop a space-based anti-missile system
+T16	Argument 4058 4104	subpoena ex-President Reagan's personal papers
+T17	Argument 4109 4160	use in the defense case against Iran-Contra charges
+T18	Argument 5174 5227	Died: Mary McCarthy, 77, novelist and literary critic
+T19	Argument 5250 5256	cancer
+T20	Argument 5365 5379	a heart attack
+T21	Argument 5264 5342	Marion Harper, 73, founder and ex-chief executive of Interpublic Group of Cos.
+T1	Purpose 450 452;465 475	in attempt to
+E7	Purpose:T1 Effect:T6 Cause:T22
+A7	Degree E7 Facilitate
+T6	Argument 342 448	the Soviet State Bank announced a 90% devaluation of the ruble against the dollar for private transactions
+T22	Argument 476 513	curb a black market for hard currency
+T14	Argument 2193 2254	provide more than $3.8 billion during the current fiscal year
+T3	Consequence 813 819	easing
+E8	Consequence:T3 Effect:T24 Cause:T23
+A8	Degree E8 Facilitate
+T23	Argument 806 812	a bill
+T24	Argument 820 836	abortion funding

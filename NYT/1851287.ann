@@ -1,0 +1,7 @@
+T1	Inference 1126 1130	make
+E1	Inference:T1 Effect:T3 Cause:T2
+A1	Degree E1 Facilitate
+T2	Argument 1114 1119	which
+T3	Argument 1131 1135;1136 1207	this the first coffee table able to tell you to get a coaster for that drink
+T4	Argument 1042 1062;1077 1112	Surface will be able to recognize objects placed upon it
+R1	Coref Arg1:T2 Arg2:T4	

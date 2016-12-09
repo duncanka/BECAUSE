@@ -1,0 +1,21 @@
+T1	Consequence 1046 1050	have
+E1	Consequence:T1 Cause:T5 Effect:T6
+A1	Degree E1 Facilitate
+T2	Motivation 2080 2083	for
+E2	Motivation:T2 Cause:T8 Effect:T7
+A2	Degree E2 Facilitate
+T3	Consequence 5688 5690;5693 5699	as result
+E3	Consequence:T3 Effect:T9
+A3	Degree E3 Facilitate
+T4	Argument 952 1039	the book's sharp and sustained attacks on Mr. Abrams, a lion of the legal establishment
+T5	Argument 1041 1045	that
+T6	Argument 1051 1072	media lawyers buzzing
+R1	Coref Arg1:T5 Arg2:T4	
+T7	Argument 2065 2079	I should pause
+T8	Argument 2084 2100	some disclosures
+T9	Argument 5657 5687	Nothing of consequence changed
+T10	Consequence 4806 4812;4853 4856	blamed for
+E4	Consequence:T10 Cause:T11 Effect:T12
+A4	Degree E4 Facilitate
+T11	Argument 4813 4851	Jim Kelly, then Time's managing editor
+T12	Argument 4857 4878	the magazine's stance

@@ -1,0 +1,10 @@
+T1	Purpose 813 815	to
+E1	Purpose:T1 Cause:T4 Effect:T3
+A1	Degree E1 Facilitate
+T3	Argument 772 812	Britain, France and Israel invaded Egypt
+T4	Argument 816 836	seize the Suez Canal
+T2	Consequence 1778 1787	result of
+E2	Consequence:T2 Cause:T6 Effect:T5
+A2	Degree E2 Facilitate
+T5	Argument 1724 1760	The spot dislocations that showed up
+T6	Argument 1788 1824	confusion (much of it in Washington)

@@ -1,0 +1,50 @@
+T1	Purpose 463 465	to
+E1	Purpose:T1 Cause:T11 Effect:T12
+A1	Degree E1 Facilitate
+T2	Purpose 1096 1098	to
+E2	Purpose:T2 Cause:T14 Effect:T13
+A2	Degree E2 Facilitate
+T3	Purpose 3016 3018	to
+E3	Purpose:T3 Cause:T16 Effect:T15
+A3	Degree E3 Facilitate
+T4	Consequence 3608 3617	enough to
+E4	Consequence:T4 Cause:T17 Effect:T18
+A4	Degree E4 Facilitate
+T5	Consequence 3849 3854	cause
+E5	Consequence:T5 Cause:T19 Effect:T20
+A5	Degree E5 Facilitate
+T6	Consequence 5202 5204	If
+E6	Consequence:T6 Cause:T21 Effect:T22
+A6	Degree E6 Facilitate
+T7	Consequence 5301 5303	if
+E7	Consequence:T7 Cause:T23 Effect:T24
+A7	Degree E7 Facilitate
+T8	Consequence 5417 5423	led to
+E8	Consequence:T8 Effect:T26 Cause:T25
+A8	Degree E8 Facilitate
+T9	Motivation 6517 6524	because
+E9	Motivation:T9 Cause:T28 Effect:T27
+A9	Degree E9 Facilitate
+T10	Consequence 6602 6609	because
+E10	Consequence:T10 Cause:T30 Effect:T29
+A10	Degree E10 Facilitate
+T11	Argument 408 462	attacking several insurgent strongholds simultaneously
+T12	Argument 466 507	tamp down violence throughout the country
+T13	Argument 1045 1095	Sunni Arab tribes joined forces with the Americans
+T14	Argument 1099 1123	drive out Qaeda fighters
+T15	Argument 2979 3015	Helicopters took part in the assault
+T16	Argument 3019 3040	cut off escape routes
+T17	Argument 3599 3614	powerful enough
+T18	Argument 3618 3655	destroy or disable an armored vehicle
+T19	Argument 3822 3827	three
+T20	Argument 3855 3865	casualties
+T21	Argument 5205 5222	you work together
+T22	Argument 5223 5295	you can secure Iraq, and the occupation will have no choice but to leave
+T23	Argument 5304 5320	you stay divided
+T24	Argument 5321 5368	Al Qaeda will stay and the occupation will stay
+T25	Argument 5395 5416	the assault on Baquba
+T26	Argument 5424 5482	the deaths of at least four insurgents by Monday afternoon
+T27	Argument 6377 6515	American troops have intensified their focus on finding and dismantling places where those weapons are built, like the towns raided Monday
+T28	Argument 6525 6579	the weapons were especially hard to stop at the border
+T29	Argument 6583 6601	It's hard to catch
+T30	Argument 6610 6663	they are shipped as components, not completed weapons

@@ -1,0 +1,92 @@
+T1	Motivation 69 73	over
+E1	Motivation:T1 Cause:T17 Effect:T16
+A1	Degree E1 Facilitate
+T2	Purpose 1916 1919	for
+E2	Purpose:T2 Cause:T19 Effect:T18
+A2	Degree E2 Facilitate
+T3	Motivation 1940 1942	if
+E3	Motivation:T3 Cause:T21 Effect:T20
+A3	Degree E3 Facilitate
+T4	Motivation 2036 2038	so
+E4	Motivation:T4 Cause:T22 Effect:T23
+A4	Degree E4 Facilitate
+T5	Motivation 2807 2814	because
+E5	Motivation:T5 Cause:T25 Effect:T24
+A5	Degree E5 Facilitate
+T6	Consequence 3296 3304;3310 3312	allowing to
+E6	Consequence:T6 Cause:T26 Effect:T27
+A6	Degree E6 Facilitate
+T7	Consequence 3296 3304;3349 3351	allowing to
+E7	Consequence:T7 Cause:T26 Effect:T28
+A7	Degree E7 Facilitate
+T9	Consequence 4802 4808	making
+E8	Consequence:T9 Cause:T29 Effect:T30
+A8	Degree E8 Facilitate
+T10	Motivation 4896 4903	because
+E9	Motivation:T10 Effect:T31 Cause:T32
+A9	Degree E9 Facilitate
+T11	Consequence 4945 4950;4956 4958	allow to
+E10	Consequence:T11 Cause:T33 Effect:T34
+A10	Degree E10 Facilitate
+T12	Inference 4981 4983	If
+E11	Inference:T12 Cause:T35 Effect:T36
+A11	Degree E11 Facilitate
+T13	Motivation 5833 5840	because
+E12	Motivation:T13 Effect:T37 Cause:T38
+A12	Degree E12 Facilitate
+T14	Motivation 6147 6156;6164 6166	encourage to
+E13	Motivation:T14 Cause:T39 Effect:T42
+A13	Degree E13 Facilitate
+T16	Argument 28 68	increasing anger from fellow Republicans
+T17	Argument 74 121	his support of the immigration bill in Congress
+T18	Argument 1888 1915	they wouldn't play politics
+T19	Argument 1920 1939	their own interests
+T20	Argument 1888 1939	they wouldn't play politics for their own interests
+T21	Argument 1943 2015	the cost of their ambition was to make this problem even harder to solve
+T22	Argument 2036 2044	so badly
+T23	Argument 2050 2107	you would intentionally make our country's problems worse
+T24	Argument 2772 2806	the McCain campaign is lashing out
+T25	Argument 2815 2885	they are feeling the political pressure and they don't know what to do
+T26	Argument 3221 3223	it
+T27	Argument 3305 3309;3313 3344	them apply for temporary ``Z visas''
+T28	Argument 3305 3309;3352 3469	them push for more permanent status by paying fines and having the heads of households return to their countries of origin
+T29	Argument 4770 4792	the current compromise
+T30	Argument 4809 4827;4828 4874	illegal immigrants pay hefty fines and wait years for citizenship
+T31	Argument 4770 4895	the current compromise, despite making illegal immigrants pay hefty fines and wait years for citizenship, was not good enough
+T32	Argument 4904 4976	workers could apply for visas that would allow them to stay indefinitely
+T33	Argument 4934 4938	that
+T34	Argument 4951 4955;4959 4976	them stay indefinitely
+T35	Argument 4984 5013	that is not a form of amnesty
+T36	Argument 5015 5035	I don't know what is
+T37	Argument 5677 5831	he objects to the provision in the bill that calls for ``Z visas,'' which illegal immigrants would have to apply for as a first step in becoming a citizen
+T38	Argument 5854 5974	the visas could be endlessly renewed and there would be no incentive for people to take the next step toward citizenship
+T39	Argument 6131 6135	that
+T40	Argument 4928 4933	visas
+R1	Coref Arg1:T33 Arg2:T40	
+T41	Argument 6096 6130	what kind of system he has in mind
+T42	Argument 6157 6163;6167 6179	people come forward
+T8	Consequence 3403 3409	having
+E14	Consequence:T8 Effect:T15 Cause:T43
+A14	Degree E14 Facilitate
+T15	Argument 3410 3433;3434 3469	the heads of households return to their countries of origin
+T44	Consequence 1977 1981	make
+E15	Consequence:T44 Effect:T45
+A15	Degree E15 Facilitate
+T45	Argument 1982 1994;1995 2015	this problem even harder to solve
+T43	Argument 3305 3309	them
+T46	Motivation 3898 3905	because
+E16	Motivation:T46 Effect:T47 Cause:T48
+A16	Degree E16 Facilitate
+T47	Argument 3868 3897	he cannot support the measure
+T48	Argument 3906 4000	it does not set as its primary goal registering and tracking the people already here illegally
+R2	Coref Arg1:T39 Arg2:T41	
+T49	Motivation 6198 6201	for
+E17	Motivation:T49 Effect:T50 Cause:T51
+A17	Degree E17 Facilitate
+T50	Argument 6184 6197	penalize them
+T51	Argument 6202 6222	being here illegally
+T52	Consequence 7428 7432	make
+E18	Consequence:T52 Cause:T54 Effect:T53
+A18	Degree E18 Facilitate
+T53	Argument 7433 7435;7436 7441;7452 7501	it clear that he was not going to back away from the issue
+T54	Argument 7338 7348	Mr. McCain

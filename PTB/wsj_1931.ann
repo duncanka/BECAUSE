@@ -1,0 +1,30 @@
+T1	Motivation 1151 1162	in light of
+E1	Motivation:T1 Effect:T7 Cause:T8
+A1	Degree E1 Facilitate
+T2	Purpose 1772 1774;1778 1787	in effort to
+E2	Purpose:T2 Effect:T9 Cause:T10
+A2	Degree E2 Facilitate
+T3	Consequence 1809 1814	avert
+E3	Consequence:T3 Effect:T11
+A3	Degree E3 Facilitate
+T4	Consequence 2070 2080;2092 2096	preventing from
+E4	Consequence:T4 Cause:T12 Effect:T13
+A4	Degree E4 Inhibit
+T5	Motivation 2157 2166	reason to
+E5	Motivation:T5 Effect:T14
+A5	Degree E5 Facilitate
+T6	Consequence 3438 3440	If
+E6	Consequence:T6 Cause:T15 Effect:T16
+A6	Degree E6 Facilitate
+T7	Argument 1084 1150	Mr. Woodland doesn't predict a significant climb for the U.S. unit
+T8	Argument 1163 1210	recent moves in interest rates around the world
+T9	Argument 1718 1771	the Fed has injected reserves into the banking system
+T10	Argument 1788 1854	calm the markets and avert a repeat of 1987's stock market debacle
+T11	Argument 1815 1854	a repeat of 1987's stock market debacle
+T12	Argument 2051 2065	the earthquake
+T13	Argument 2081 2091;2097 2123	many banks operating at full capacity
+T14	Argument 2167 2197	keep liquidity at a high level
+T15	Argument 3441 3483	the figures show a hefty rise in inflation
+T16	Argument 3485 3530	they could militate against easing by the Fed
+T17	Note 2943 2947	over
+#1	AnnotatorNotes T17	Precipitating action, or topic?

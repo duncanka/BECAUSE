@@ -1,0 +1,37 @@
+T1	Consequence 287 294	because
+E1	Consequence:T1 Effect:T8 Cause:T9
+A1	Degree E1 Facilitate
+T2	Consequence 1956 1962	helped
+E2	Consequence:T2 Cause:T10 Effect:T11
+A2	Degree E2 Facilitate
+T3	Consequence 2214 2219;2225 2227	needs to
+E3	Consequence:T3 Cause:T12 Effect:T13
+A3	Degree E3 Facilitate
+T4	Purpose 2298 2300	To
+E4	Purpose:T4 Cause:T14 Effect:T15
+A4	Degree E4 Facilitate
+T5	Consequence 3678 3685	because
+E5	Consequence:T5 Effect:T16 Cause:T17
+A5	Degree E5 Facilitate
+T7	Purpose 6319 6321	to
+E7	Purpose:T7 Cause:T21 Effect:T20
+A7	Degree E7 Facilitate
+T8	Argument 202 286	Mr. Dinkins, the Manhattan borough president, can afford more bumbling and stumbling
+T9	Argument 295 367	he holds a comfortable 20-point lead in most of the public-opinion polls
+T10	Argument 1932 1955	whose last big campaign
+T11	Argument 1963 1997	put George Bush in the White House
+T12	Argument 2220 2224	cash
+T13	Argument 2228 2296	keep Mr. Ailes's commercials on the air beyond Wednesday or Thursday
+T14	Argument 2301 2319	help out this week
+T15	Argument 2321 2486	the White House is dispatching chief of staff John Sununu and three Cabinet members -- HUD's Jack Kemp, Transportation's Samuel Skinner and Treasury's Nicholas Brady
+T16	Argument 3608 3670	He defeated the contentious Mr. Koch in the Democratic primary
+T17	Argument 3686 3759	he seemed to offer hope he could heal the city's racial and ethnic wounds
+T20	Argument 6301 6318	he sold the stock
+T21	Argument 6322 6420	avoid conflict-of-interest problems in his role as a voting member of the city's Board of Estimate
+T6	Note 5477 5479	to
+#1	AnnotatorNotes T6	"Paid X to Y" is a separate construction about business, not causation.
+T18	Motivation 7311 7316	makes
+E6	Motivation:T18 Effect:T19 Cause:T22
+A6	Degree E6 Facilitate
+T19	Argument 7317 7323;7324 7378	people think, maybe this guy isn't so squeaky clean after all
+T22	Argument 7308 7310	It

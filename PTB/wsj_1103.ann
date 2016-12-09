@@ -1,0 +1,34 @@
+T1	Consequence 159 166	because
+E1	Consequence:T1 Cause:T7 Effect:T6
+A1	Degree E1 Facilitate
+T2	Purpose 1628 1630	to
+E2	Purpose:T2 Effect:T8 Cause:T9
+A2	Degree E2 Facilitate
+T4	Motivation 2290 2296;2308 2310	forced to
+E4	Motivation:T4 Cause:T10 Effect:T11
+A4	Degree E4 Facilitate
+T5	Consequence 2393 2399	led to
+E5	Consequence:T5 Effect:T13 Cause:T12
+A5	Degree E5 Facilitate
+T6	Argument 0 148	Boston Co., the upper-crust financial services concern that was rocked by a management scandal late last year, has had a sharp drop in profitability
+T7	Argument 167 210	a high-risk bet on interest rates backfired
+T8	Argument 1583 1627	Boston Safe Deposit ``has taken some actions
+T9	Argument 1631 1704	better control asset-liability management and improve controls in general
+T10	Argument 2240 2289	An accounting controversy at the end of last year
+T12	Argument 2371 2392	The resulting scandal
+T13	Argument 2400 2435	the firing of James N. von Germeten
+T11	Argument 2297 2307;2311 2369	Boston Co. admit it had overstated pretax profits by some $44 million
+T15	Consequence 2393 2396;2467 2469	led to
+E3	Consequence:T15 Effect:T16 Cause:T12
+A3	Degree E3 Facilitate
+T16	Argument 2470 2541	the resignations of the company's chief financial officer and treasurer
+T14	Consequence 2927 2931;2940 2944	stem from
+E6	Consequence:T14 Effect:T17 Cause:T18
+A6	Degree E6 Facilitate
+T17	Argument 2886 2926	the problems in the securities portfolio
+T18	Argument 2945 2970	positions taken last year
+T3	Purpose 2631 2633;2637 2646	in effort to
+E7	Purpose:T3 Effect:T19 Cause:T20
+A7	Degree E7 Facilitate
+T19	Argument 2574 2629	improperly deferring expenses and booking revenue early
+T20	Argument 2647 2714	dress up results -- and perhaps bolster performance-related bonuses

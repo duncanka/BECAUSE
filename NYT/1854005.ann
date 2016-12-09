@@ -1,0 +1,22 @@
+T1	Argument 477 590	Those voters are likely to play a more important role in nominating a candidate in the next presidential election
+T2	Argument 599 721	several states with large Hispanic populations, including New Jersey, have moved their primaries or caucuses to early 2008
+T3	Consequence 591 598	because
+E1	Consequence:T3 Cause:T2 Effect:T1
+A1	Degree E1 Facilitate
+T4	Argument 1569 1645	The endorsement by Mr. Menendez, a Cuban-American raised in Union City, N.J.
+T5	Consequence 1652 1656	help
+E2	Consequence:T5 Effect:T6 Cause:T4
+A2	Degree E2 Facilitate
+T6	Argument 1657 1705	Mrs. Clinton solidify her standing in New Jersey
+T7	Consequence 1870 1872;1875 1884	as result of
+E3	Consequence:T7 Cause:T8 Effect:T9
+A3	Degree E3 Facilitate
+T8	Argument 1885 1986	their efforts to secure recovery aid for New York and New Jersey after the Sept. 11 terrorist attacks
+T9	Argument 1787 1860	Mr. Menendez has developed a close working relationship with Mrs. Clinton
+T10	Consequence 2092 2110;2149 2151	made it harder for to
+E4	Consequence:T10 Effect:T13 Cause:T11
+A4	Degree E4 Facilitate
+T11	Argument 2076 2080	that
+T12	Argument 2056 2075	an immigration bill
+R1	Coref Arg1:T11 Arg2:T12	
+T13	Argument 2111 2148;2152 2182	legal immigrants in the United States bring over spouses or children

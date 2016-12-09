@@ -1,0 +1,108 @@
+T2	Argument 73 132	the three-year federal investigation into tax shelter fraud
+T3	Argument 133 137	that
+T4	Argument 150 247	the indictment of four current and former partners of the accounting firm Ernst & Young this week
+T5	Purpose 884 895	in order to
+E1	Purpose:T5 Cause:T31 Effect:T30
+A1	Degree E1 Facilitate
+T6	Motivation 1111 1115;944 946	then if
+E2	Motivation:T6 Effect:T35 Cause:T34
+A2	Degree E2 Facilitate
+T7	Purpose 981 983	to
+E3	Purpose:T7 Cause:T33 Effect:T32
+A3	Degree E3 Facilitate
+T9	Consequence 1356 1373	make it easier to
+E5	Consequence:T9 Cause:T37 Effect:T38
+A5	Degree E5 Facilitate
+T10	Consequence 1716 1723	creates
+E6	Consequence:T10 Cause:T39 Effect:T40
+A6	Degree E6 Facilitate
+T11	Consequence 1891 1896;1900 1902	cause to
+E7	Consequence:T11 Cause:T41 Effect:T42
+A7	Degree E7 Facilitate
+T12	Consequence 2864 2870;2875 2877	enough to
+E8	Consequence:T12 Cause:T43 Effect:T44
+A8	Degree E8 Facilitate
+T13	Purpose 3554 3556	to
+E9	Purpose:T13 Effect:T45 Cause:T46
+A9	Degree E9 Facilitate
+T14	Consequence 3744 3751	because
+E10	Consequence:T14 Cause:T48 Effect:T47
+A10	Degree E10 Facilitate
+T15	Purpose 4026 4028	to
+E11	Purpose:T15 Effect:T49 Cause:T50
+A11	Degree E11 Facilitate
+T17	Consequence 62 72	because of
+E13	Consequence:T17 Cause:T29 Effect:T28
+A13	Degree E13 Facilitate
+T18	Purpose 4614 4616	to
+E14	Purpose:T18 Cause:T54 Effect:T53
+A14	Degree E14 Facilitate
+T20	Argument 5653 5673	conducting a spinoff
+T22	Consequence 5770 5772	if
+E15	Consequence:T22 Cause:T56 Effect:T55
+A15	Degree E15 Facilitate
+T23	Consequence 6110 6114	make
+E16	Consequence:T23 Effect:T57
+A16	Degree E16 Facilitate
+T24	Motivation 6166 6173	because
+E17	Motivation:T24 Cause:T59 Effect:T58
+A17	Degree E17 Facilitate
+T25	Motivation 6329 6335;6350 6352	compel to
+E18	Motivation:T25 Cause:T61 Effect:T62
+A18	Degree E18 Facilitate
+T26	Motivation 7737 7744	because
+E19	Motivation:T26 Cause:T64 Effect:T63
+A19	Degree E19 Facilitate
+T27	Purpose 8309 8311	to
+E20	Purpose:T27 Cause:T66 Effect:T65
+A20	Degree E20 Facilitate
+T29	Argument 73 247	the three-year federal investigation into tax shelter fraud that resulted in the indictment of four current and former partners of the accounting firm Ernst & Young this week
+T28	Argument 47 49	it
+T30	Argument 767 882	a transaction must have genuine economic substance, as well as a legitimate business purpose other than tax savings
+T31	Argument 896 925	reap a legitimate tax benefit
+T32	Argument 947 980	a tax shelter does fancy footwork
+T33	Argument 984 1039	follow, or appear to follow, the letter of the tax code
+T34	Argument 947 1109	a tax shelter does fancy footwork to follow, or appear to follow, the letter of the tax code but violates its spirit by existing mainly to generate tax deductions
+T35	Argument 1116 1180	it is a sham shelter in the eyes of the Internal Revenue Service
+T37	Argument 1222 1349	making the doctrine into a law, rather than keeping it a common sense principle and leaving its interpretation up to the courts
+T38	Argument 1374 1434	crack down on abusive shelters and raise billions of dollars
+T39	Argument 1694 1715	Codifying it into law
+T40	Argument 1724 1802	rigidity that defeats the function that the doctrine has played over the years
+T41	Argument 1876 1885	Codifying
+T42	Argument 1897 1899;1903 1963	us look to the words and letters, rather than underlying spirit
+T43	Argument 2856 2870	nuanced enough
+T44	Argument 2871 2874;2878 2900	not be a blanket provision
+T45	Argument 3508 3553	which increasingly rely on smart tax planning
+T46	Argument 3557 3578	bolster their profits
+T47	Argument 3598 3743	a number of companies, including Coltec Industries, United Parcel Service and Black & Decker, have had their tax shelters ruled invalid by courts
+T48	Argument 3752 3801	they did not meet the economic substance doctrine
+T49	Argument 4006 4025	used by the company
+T50	Argument 4029 4054	generate the claimed loss
+T51	Argument 4223 4293	the shifts were intended to create artificial losses with tax benefits
+T52	Argument 4304 4329	lacked economic substance
+T53	Argument 4587 4613	that could be carried back
+T54	Argument 4617 4645	wipe out prior capital gains
+T55	Argument 5573 5769	such legitimate and common transactions as liquidating a controlled subsidiary, conducting a spinoff for antitrust reasons, and stock repurchases through surplus funds could be deemed illegitimate
+T56	Argument 5773 5852	the economic substance doctrine were turned into a law with profit requirements
+T57	Argument 6115 6133;6134 6139	economic substance a law
+T58	Argument 6098 6151	Pressure to make economic substance a law is building
+T59	Argument 6174 6285	a Joint Committee on Taxation has estimated that doing so could raise nearly $17 billion a year in unpaid taxes
+T60	Argument 6292 6319	new ``pay as you go'' rules
+T61	Argument 6320 6324	that
+T62	Argument 6336 6345;6346 6349;6353 6420	lawmakers not increase the federal deficit with any new spending or tax proposals
+R1	Coref Arg1:T61 Arg2:T60	
+T63	Argument 7685 7736	Congress will enact economic substance codification
+T64	Argument 7745 7793	a large revenue estimate has been attached to it
+T65	Argument 8273 8308	U.P.S. engaged in sham transactions
+T66	Argument 8312 8375	avoid hundreds of millions of dollars in corporate income taxes
+T1	Consequence 138 149	resulted in
+E12	Consequence:T1 Cause:T3 Effect:T4
+A12	Degree E12 Facilitate
+R2	Coref Arg1:T3 Arg2:T2	
+T16	Consequence 4299 4303	thus
+E21	Consequence:T16 Cause:T51 Effect:T52
+A21	Degree E21 Facilitate
+T19	Motivation 5674 5677;5688 5695	for reasons
+E22	Motivation:T19 Effect:T20 Cause:T21
+A22	Degree E22 Facilitate
+T21	Argument 5678 5695	antitrust reasons

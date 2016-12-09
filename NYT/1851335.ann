@@ -1,0 +1,10 @@
+T4	Purpose 3396 3398	to
+E2	Purpose:T4 Effect:T6 Cause:T5
+A2	Degree E2 Facilitate
+T5	Argument 3399 3469	discuss how its basic concepts could be applied to government agencies
+T6	Argument 3197 3394	he met yesterday in Los Angeles with Chief William J. Bratton of the Police Department, who was police commissioner when Mr. Giuliani was mayor of New York and an originator of the Compstat program
+T1	Purpose 3785 3787	to
+E1	Purpose:T1 Effect:T2 Cause:T3
+A1	Degree E1 Facilitate
+T2	Argument 3662 3670;3776 3784	Compstat was used
+T3	Argument 3788 3864	hold police commanders responsible for upticks in crime under their commands

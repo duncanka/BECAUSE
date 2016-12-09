@@ -1,0 +1,30 @@
+T1	Purpose 607 609	to
+E1	Purpose:T1 Effect:T7 Cause:T8
+A1	Degree E1 Facilitate
+T2	Consequence 637 643;653 655	enough to
+E2	Consequence:T2 Cause:T9 Effect:T10
+A2	Degree E2 Facilitate
+T3	Motivation 2148 2155	because
+E3	Motivation:T3 Effect:T11 Cause:T12
+A3	Degree E3 Facilitate
+T4	Consequence 2290 2297	because
+E4	Consequence:T4 Effect:T13 Cause:T14
+A4	Degree E4 Facilitate
+T5	Purpose 2727 2729	to
+E5	Purpose:T5 Effect:T15 Cause:T16
+A5	Degree E5 Facilitate
+T6	Consequence 2730 2739	make sure
+E6	Consequence:T6 Effect:T17 Cause:T18
+A6	Degree E6 Facilitate
+T7	Argument 576 606	The hearing is being conducted
+T8	Argument 610 786	determine whether there is enough evidence to refer charges to a court-martial for one of the marines, Lance Cpl. Justin L. Sharratt, who is accused of killing three of the men
+T9	Argument 637 652	enough evidence
+T10	Argument 656 786	refer charges to a court-martial for one of the marines, Lance Cpl. Justin L. Sharratt, who is accused of killing three of the men
+T11	Argument 2130 2147	I felt threatened
+T12	Argument 2156 2235	the first two individuals had rifles and I assumed they had some sort of weapon
+T13	Argument 2252 2289	I did not get shot by the first Iraqi
+T14	Argument 2306 2356	he had a malfunction of either his weapon or round
+T15	Argument 2600 2726	Sergeant Wuterich, who had been behind him, had entered the room and shot five to seven rounds into the ``bodies on the ground
+T16	Argument 2730 2805	make sure that none were capable of grabbing a weapon and firing back at us
+T17	Argument 2740 2805	that none were capable of grabbing a weapon and firing back at us
+T18	Argument 2600 2617	Sergeant Wuterich

@@ -1,0 +1,14 @@
+T1	Motivation 441 448	because
+E1	Motivation:T1 Cause:T3 Effect:T2
+A1	Degree E1 Facilitate
+T2	Argument 417 440	the plane had been sent
+T3	Argument 449 485	commercial flights had been canceled
+T4	Note 1359 1370	In response
+T5	Argument 806 823	medical treatment
+T6	Argument 721 801	Mr. Conté, who has ruled Guinea since seizing power in 1984, has traveled abroad
+T7	Purpose 802 805	for
+E2	Purpose:T7 Cause:T5 Effect:T6
+A2	Degree E2 Facilitate
+T8	Note 824 834	frequently
+#1	AnnotatorNotes T8	Include in annotation?
+#2	AnnotatorNotes T4	Questionable

@@ -1,0 +1,37 @@
+T1	Consequence 890 895;921 923	needs to
+E1	Consequence:T1 Cause:T7 Effect:T8
+A1	Degree E1 Facilitate
+T2	Consequence 1102 1107;1117 1123	makes harder
+E2	Consequence:T2 Cause:T9 Effect:T10
+A2	Degree E2 Inhibit
+T4	Purpose 2372 2374	To
+E3	Purpose:T4 Cause:T11 Effect:T12
+A3	Degree E3 Facilitate
+T5	Consequence 2375 2379	help
+E4	Consequence:T5 Effect:T13 Cause:T18
+A4	Degree E4 Facilitate
+T6	Purpose 2769 2771	to
+E5	Purpose:T6 Cause:T15 Effect:T14
+A5	Degree E5 Facilitate
+T7	Argument 896 920	the support of Democrats
+T8	Argument 924 981	pass the tax cut through the Democratic-controlled Senate
+T9	Argument 1069 1101	Having only a Republican measure
+T10	Argument 1108 1116	the task
+T11	Argument 2375 2413	help lay the groundwork for that fight
+T12	Argument 2415 2581	President Bush plans early next week to meet at the White House with some 20 Democratic senators who favor cutting the capital-gains tax or are undecided on the issue
+T13	Argument 2380 2413	lay the groundwork for that fight
+T14	Argument 2741 2768	offer additional amendments
+T15	Argument 2772 2782	improve it
+T3	Consequence 1936 1940	made
+E6	Consequence:T3 Cause:T16 Effect:T17
+A6	Degree E6 Inhibit
+T16	Argument 1926 1935	That vote
+T17	Argument 1941 1943;1944 2068	it unlikely that a capital-gains tax cut would be included in the final bill, now being drafted by House and Senate negotiators
+T21	Consequence 1374 1380;1390 1392	enough to
+E8	Consequence:T21 Effect:T23 Cause:T22
+A8	Degree E8 Facilitate
+T22	Argument 1374 1389	enough senators
+T23	Argument 1393 1461	overcome any procedural hurdle the Democratic leadership might erect
+T24	Note 1705 1729	increases the likelihood
+#1	AnnotatorNotes T24	Questionable
+T18	Argument 2415 2429	President Bush

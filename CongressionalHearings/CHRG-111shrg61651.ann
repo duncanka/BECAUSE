@@ -1,0 +1,119 @@
+T1	Consequence 1471 1478	Because
+E1	Consequence:T1 Cause:T16 Effect:T17
+T2	Consequence 2053 2055	If
+E2	Consequence:T2 Cause:T18 Effect:T19
+T3	Motivation 2368 2375	because
+E3	Motivation:T3 Effect:T20 Cause:T21
+T4	Consequence 2402 2404	If
+E4	Consequence:T4 Cause:T22 Effect:T23
+T5	Inference 4604 4611	because
+E5	Inference:T5 Effect:T30 Cause:T29
+T6	Consequence 4759 4765	unless
+E6	Consequence:T6 Cause:T32 Effect:T31
+T7	Consequence 3250 3252	if
+E7	Consequence:T7 Cause:T24 Effect:T25
+T8	Motivation 5534 5541	because
+E8	Motivation:T8 Effect:T33 Cause:T34
+T9	Purpose 6288 6296	so as to
+E9	Purpose:T9 Effect:T35 Cause:T36
+T10	Inference 6405 6415	because of
+E10	Inference:T10 Cause:T37
+T11	Purpose 6695 6698	for
+E11	Purpose:T11 Cause:T39 Effect:T38
+T12	Motivation 7273 7280	because
+E12	Motivation:T12 Effect:T40 Cause:T41
+T13	Motivation 7670 7677	because
+E13	Motivation:T13 Effect:T42 Cause:T43
+T14	Motivation 7718 7725	because
+E14	Motivation:T14 Effect:T42 Cause:T44
+T15	Consequence 9422 9429;9504 9506	reasons is
+E15	Consequence:T15 Cause:T48 Effect:T49
+T16	Argument 1479 1510	these banks are too big to fail
+T17	Argument 1512 1650	they have lower funding costs, they are able to attract more capital, they make more money over the cycle, and they continue to get larger
+A1	Degree E1 Facilitate
+T18	Argument 2056 2165	we allow our biggest banks to continue to build on these unfair market advantages and the lower funding costs
+T19	Argument 2167 2201	we will head in the same direction
+A2	Degree E2 Facilitate
+T20	Argument 2207 2366	I think I would suggest to you that you consider imposing a size cap on banks relative not to total normal assets or liabilities, which is the Volcker proposal
+T21	Argument 2376 2400	that is not bubble-proof
+A3	Degree E3 Facilitate
+T22	Argument 2405 2508	you have a massive increase in house prices, real estate prices, such as happened in Japan in the 1980s
+T23	Argument 2510 2580	you will have a big increase in the normal size of bank balance sheets
+A4	Degree E4 Facilitate
+T24	Argument 3253 3351	you were to impose a size cap of, say, 3 or 5 percent of GDP, no bank can be larger than that size
+T25	Argument 3353 3445	that would return our biggest banks roughly to the position that they had in the early 1990s
+A5	Degree E7 Facilitate
+T29	Argument 4612 4714	they have to pay a lot more money--they pay higher interest for funds, their cost of capital is higher
+T30	Argument 4540 4602	the community banks are disadvantaged by the current situation
+A7	Degree E5 Facilitate
+T31	Argument 4732 4758	This dynamic will continue
+T32	Argument 4766 4796	you put an effective cap on it
+A8	Degree E6 Disentail
+T33	Argument 5517 5533	I don't say this
+T34	Argument 5542 5637	I think the absence of that rule was central to the difficulties that we have just come through
+A9	Degree E8 Facilitate
+T35	Argument 6268 6287	compartmentalize it
+T36	Argument 6297 6321	limit economic spillover
+A10	Degree E9 Facilitate
+T37	Argument 6416 6489	the impact that it has on the culture and the makeup of the various firms
+#2	AnnotatorNotes E10	He seems to have forgotten to get around to the effect.
+T38	Argument 6676 6694	that have to exist
+T39	Argument 6699 6721	the particular purpose
+A11	Degree E11 Facilitate
+T40	Argument 7263 7272	I do this
+T41	Argument 7281 7366	I think the culture from the capital markets that rubs off has to do with risk taking
+A12	Degree E12 Facilitate
+T42	Argument 7521 7664	I believe as a part of a comprehensive reform that Mr. Volcker's idea with regard to separation of some of these functions makes a lot of sense
+T43	Argument 7678 7712	I am concerned about the economics
+A13	Degree E13 Facilitate
+A14	Degree E14 Facilitate
+T44	Argument 7726 7844	I am concerned of the nature of the impact that these various activities have on the players and the financial markets
+T45	Argument 9031 9075	the issue of size, I think, is also relevant
+T46	Motivation 9081 9083	so
+E17	Motivation:T46 Effect:T47 Cause:T45
+A15	Degree E17 Facilitate
+T47	Argument 9084 9361	I think the two keys to Mr. Volcker's suggestion, that of segregation of function within the industry and particularly the protection of the large deposit-taking institutions and the idea of being concerned about size, have merit and deserve the consideration of this Committee
+T48	Argument 9435 9503	JPMorgan Chase did better than many others during this recent crisis
+T49	Argument 9507 9599	they did not have embedded in that institution a real money market activity, a trading house
+A16	Degree E15 Facilitate
+#6	AnnotatorNotes E1	Gold
+#7	AnnotatorNotes E2	Gold
+#8	AnnotatorNotes E3	Gold
+#9	AnnotatorNotes E7	Gold
+#10	AnnotatorNotes E11	Gold
+#1	AnnotatorNotes E5	Gold
+#11	AnnotatorNotes E8	Gold
+A6	Degree E10 Facilitate
+T26	Purpose 5254 5256	to
+E16	Purpose:T26 Effect:T27 Cause:T28
+A17	Degree E16 Facilitate
+T27	Argument 5237 5253	I really am here
+T28	Argument 5257 5317	voice support for Mr. Volcker's suggestion, the Volcker Rule
+T50	Consequence 2059 2064;2083 2085	allow to
+E18	Consequence:T50 Effect:T52 Cause:T51
+A18	Degree E18 Enable
+T51	Argument 2056 2058	we
+T52	Argument 2065 2082;2086 2165	our biggest banks continue to build on these unfair market advantages and the lower funding costs
+T53	Note 1311 1313	So
+#3	AnnotatorNotes T53	Discourse (not based on previous evidence)
+T54	Motivation 7518 7520	So
+E19	Motivation:T54 Effect:T55
+A19	Degree E19 Facilitate
+T55	Argument 7521 7844	I believe as a part of a comprehensive reform that Mr. Volcker's idea with regard to separation of some of these functions makes a lot of sense, not because I am concerned about the economics, but because I am concerned of the nature of the impact that these various activities have on the players and the financial markets
+T56	Consequence 8150 8153;8158 8160	too to
+E20	Consequence:T56 Effect:T58 Cause:T57
+A20	Degree E20 Inhibit
+T57	Argument 8150 8157	too big
+T58	Argument 8161 8165	fail
+T59	Argument 8249 8256	too big
+T60	Argument 8260 8264	fail
+T61	Consequence 8249 8252;8257 8259	too to
+E21	Consequence:T61 Cause:T59 Effect:T60
+A21	Degree E21 Inhibit
+T62	Motivation 8379 8381	so
+E22	Motivation:T62 Effect:T63
+A22	Degree E22 Facilitate
+T63	Argument 8382 8437	this is where I believe we must be concerned about size
+T64	Inference 9028 9030	So
+E23	Inference:T64 Effect:T45
+A23	Degree E23 Facilitate

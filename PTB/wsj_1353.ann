@@ -1,0 +1,32 @@
+T2	Motivation 2394 2401	because
+E2	Motivation:T2 Cause:T9 Effect:T10
+A2	Degree E2 Facilitate
+T3	Consequence 2593 2600	causing
+E3	Consequence:T3 Effect:T12 Cause:T11
+A3	Degree E3 Facilitate
+T4	Purpose 2848 2850	to
+E4	Purpose:T4 Cause:T13 Effect:T14
+A4	Degree E4 Facilitate
+T5	Consequence 3756 3760	help
+E5	Consequence:T5 Effect:T16 Cause:T15
+A5	Degree E5 Facilitate
+T6	Motivation 4556 4559	for
+E6	Motivation:T6 Cause:T18 Effect:T17
+A6	Degree E6 Facilitate
+T9	Argument 2402 2451	high winds had been predicted at the landing site
+T10	Argument 2332 2393	The five astronauts returned to Earth about three hours early
+T11	Argument 2495 2505	Explosions
+T12	Argument 2601 2634	a fire visible from 10 miles away
+T13	Argument 2851 2898	ease differences over guidelines for CIA agents
+T14	Argument 2779 2847	Bush is conferring with leaders of the Senate Intelligence Committee
+T15	Argument 3717 3744	Iran's President Rafsanjani
+T16	Argument 3761 3805	gain freedom for Western hostages in Lebanon
+T17	Argument 4494 4555	Australia and Canada also assailed the British prime minister
+T18	Argument 4560 4629	criticizing the 49-nation group's call for Pretoria to ease apartheid
+T19	Argument 3816 3830	the assistance
+T20	Motivation 3835 3848	contingent on
+E7	Motivation:T20 Effect:T19 Cause:T21
+A7	Degree E7 Facilitate
+T21	Argument 3849 3967	U.S. aid in resolving the cases of three Iranians kidnapped in Lebanon in 1982 or the release of frozen Iranian assets
+T1	Note 736 738	to
+#1	AnnotatorNotes T1	whose purpose would be

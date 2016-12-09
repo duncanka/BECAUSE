@@ -1,0 +1,40 @@
+T1	Consequence 274 280	hamper
+E1	Consequence:T1 Effect:T9 Cause:T8
+A1	Degree E1 Inhibit
+T2	Consequence 2249 2256	because
+E2	Consequence:T2 Cause:T11 Effect:T10
+A2	Degree E2 Facilitate
+T3	Consequence 3362 3364	so
+E3	Consequence:T3 Cause:T12 Effect:T13
+A3	Degree E3 Facilitate
+T4	Consequence 5155 5169	sufficient for
+E4	Consequence:T4 Cause:T22 Effect:T15
+A4	Degree E4 Facilitate
+T5	Consequence 5808 5814	led to
+E5	Consequence:T5 Cause:T16 Effect:T17
+A5	Degree E5 Facilitate
+T7	Purpose 6584 6586	so
+E7	Purpose:T7 Cause:T21 Effect:T20
+A7	Degree E7 Facilitate
+T8	Argument 211 267	The reluctance of some states to let Drexel off the hook
+T9	Argument 281 369	the firm's attempts to polish its image after its guilty plea to six felonies last month
+T10	Argument 2203 2248	a revoked brokerage license could be a burden
+T11	Argument 2257 2339	it must be disclosed in many of the transactions in which Drexel could be involved
+T12	Argument 3307 3360	his state hadn't received any complaints about Drexel
+T13	Argument 3365 3399	it really couldn't press the issue
+T15	Argument 5170 5180	settlement
+T14	Argument 5756 5802	Drexel's highly profitable junk-bond operation
+T16	Argument 5803 5807	that
+T17	Argument 5815 5844	the firm's legal difficulties
+R1	Coref Arg1:T16 Arg2:T14	
+T20	Argument 6551 6583	We need to have somebody worried
+T21	Argument 6587 6611	they don't do this again
+T22	Argument 5155 5165	sufficient
+T26	Argument 5937 5949	not doing so
+T27	Motivation 5925 5936	reasons for
+E9	Motivation:T27 Effect:T26
+A9	Degree E9 Facilitate
+T6	Note 6036 6038	if
+#1	AnnotatorNotes T6	Hypothetical
+T18	Note 1364 1378	in the wake of
+#2	AnnotatorNotes T18	Questionable

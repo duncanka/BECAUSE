@@ -1,0 +1,55 @@
+T1	Purpose 78 80;84 93	in effort to
+E1	Purpose:T1 Effect:T12 Cause:T13
+A1	Degree E1 Facilitate
+T2	Consequence 94 98	spur
+E2	Consequence:T2 Effect:T14 Cause:T33
+A2	Degree E2 Facilitate
+T3	Consequence 280 282	if
+E3	Consequence:T3 Cause:T15 Effect:T16
+A3	Degree E3 Facilitate
+T4	Consequence 526 528	if
+E4	Consequence:T4 Cause:T18 Effect:T17
+A4	Degree E4 Facilitate
+T6	Consequence 941 951	because of
+E5	Consequence:T6 Cause:T20 Effect:T19
+A5	Degree E5 Facilitate
+T9	Consequence 2105 2112;2117 2126	make it easier to
+E6	Consequence:T9 Cause:T21 Effect:T22
+A6	Degree E6 Facilitate
+T10	Consequence 2291 2297	caused
+E7	Consequence:T10 Cause:T24 Effect:T23
+A7	Degree E7 Facilitate
+T11	Consequence 3744 3752	hindered
+E8	Consequence:T11 Cause:T26 Effect:T25
+A8	Degree E8 Inhibit
+T12	Argument 0 77	Steve Jobs took a step back from the frontier of personal-computer technology
+T13	Argument 94 132	spur sales of Next Inc. 's new machine
+T14	Argument 99 132	sales of Next Inc. 's new machine
+T15	Argument 283 369	the buyer chooses a hard-disk drive as an alternative to Next's optical-storage device
+T16	Argument 211 278	lowering the entry-level price for a Next machine by $1,500, or 23%
+T17	Argument 371 525	The hard drive, which is the storage device of choice for virtually every desktop computer user, also now will supplement Next's futuristic optical device
+T18	Argument 529 550	buyers pay full price
+T19	Argument 904 940	the computer was proving a hard sell
+T20	Argument 952 1039	its high price, a lack of software and an optical data-storage device that was too slow
+T21	Argument 2039 2062	Optical-storage devices
+T23	Argument 2280 2290	the delays
+T24	Argument 2301 2319	the optical device
+T25	Argument 3700 3735	Broad acceptance of Next's computer
+T26	Argument 3756 3798	difficulty in distributing software for it
+T22	Argument 2127 2178	edit film clips or audio recordings with a computer
+T5	Purpose 627 642	in the hopes of
+E9	Purpose:T5 Cause:T28 Effect:T27
+A9	Degree E9 Facilitate
+T27	Argument 554 626	Mr. Jobs, co-founder of Apple Computer Inc., founded Next four years ago
+T28	Argument 643 716	fomenting a revolution in the way desktop computers are designed and used
+T7	Purpose 1235 1238;1250 1258	for purposes
+E10	Purpose:T7 Effect:T30 Cause:T29
+A10	Degree E10 Facilitate
+T29	Argument 1239 1258	evaluation purposes
+T30	Argument 1205 1234	they are buying small numbers
+T8	Motivation 1732 1740	prompted
+E11	Motivation:T8 Effect:T31 Cause:T32
+A11	Degree E11 Facilitate
+T31	Argument 1715 1726	the changes
+T32	Argument 1744 1886	requests from customers who are frustrated with the performance of the optical device, which isn't offered as standard equipment by any rivals
+T33	Argument 0 10	Steve Jobs

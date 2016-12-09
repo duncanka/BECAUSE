@@ -1,0 +1,76 @@
+T1	Motivation 193 196;206 213	for reasons
+E1	Motivation:T1 Effect:T10 Cause:T11
+A1	Degree E1 Facilitate
+T2	Consequence 798 807	needed to
+E2	Consequence:T2 Cause:T12 Effect:T13
+A2	Degree E2 Facilitate
+T3	Motivation 2024 2027;2041 2048	for reasons
+E3	Motivation:T3 Effect:T14 Cause:T45
+A3	Degree E3 Facilitate
+T4	Consequence 2191 2196	helps
+E4	Consequence:T4 Cause:T15 Effect:T16
+A4	Degree E4 Facilitate
+T5	Purpose 2356 2358	to
+E5	Purpose:T5 Cause:T18 Effect:T17
+A5	Degree E5 Facilitate
+T7	Motivation 3462 3465	for
+E6	Motivation:T7 Cause:T22 Effect:T21
+A6	Degree E6 Facilitate
+T8	Purpose 3561 3563	so
+E7	Purpose:T8 Effect:T23 Cause:T24
+A7	Degree E7 Facilitate
+T9	Motivation 3805 3808	for
+E8	Motivation:T9 Effect:T25 Cause:T26
+A8	Degree E8 Facilitate
+T10	Argument 156 192	his manager wanted to get rid of him
+T11	Argument 197 213	personal reasons
+T12	Argument 792 797	facts
+T13	Argument 808 839	give the court the full picture
+T14	Argument 1980 2023	Corporate due process appeals to management
+T15	Argument 2188 2190	It
+T16	Argument 2200 2215	keep out unions
+T17	Argument 2322 2355	What must your management team do
+T18	Argument 2359 2390	establish corporate due process
+T19	Argument 2979 3032	the Problem Review Board may hear only 12 or so cases
+T6	Consequence 3033 3043	because of
+E9	Consequence:T6 Cause:T20 Effect:T19
+A9	Degree E9 Facilitate
+T20	Argument 3044 3085	personnel's skill in complaint-resolution
+T21	Argument 3394 3460	See that they know company personnel policy backwards and forwards
+T22	Argument 3466 3525	it is the ``law'' governing company courts and adjudicators
+T23	Argument 3527 3560	Coach them in handling complaints
+T24	Argument 3569 3606	they can resolve problems immediately
+T25	Argument 3742 3803	teach managers to accept reversals as a fact of business life
+T26	Argument 3809 3862	in a good due-process system they are bound to happen
+T27	Motivation 4650 4653	for
+E10	Motivation:T27 Effect:T28 Cause:T29
+A10	Degree E10 Facilitate
+T28	Argument 4569 4649	Most managements hesitate to go all out in advertising their due-process systems
+T29	Argument 4654 4721	fear of encouraging cranks and chronic soreheads to file complaints
+T30	Consequence 775 779	help
+E11	Consequence:T30 Cause:T32 Effect:T31
+A11	Degree E11 Facilitate
+T31	Argument 780 839	fill in any facts needed to give the court the full picture
+T32	Argument 720 731	one of whom
+T33	Consequence 2280 2285	means
+E12	Consequence:T33 Effect:T34 Cause:T35
+A12	Degree E12 Facilitate
+T34	Argument 2271 2274	all
+T35	Argument 2275 2279	that
+T36	Argument 2217 2264	It increases employee commitment to the company
+R1	Coref Arg1:T35 Arg2:T36	
+T37	Consequence 2422 2431	Make sure
+E13	Consequence:T37 Effect:T38
+A13	Degree E13 Facilitate
+T38	Argument 2432 2470	you have a strong personnel department
+T39	Consequence 4537 4543	unless
+E14	Consequence:T39 Cause:T40 Effect:T41
+A14	Degree E14 Inhibit
+T40	Argument 4544 4567	employees know about it
+T41	Argument 4504 4536	It won't do any good for anybody
+T42	Argument 5388 5440	sitting in on the Appeals Board almost every Tuesday
+T43	Argument 5444 5456	decide cases
+T44	Purpose 5441 5443	to
+E15	Purpose:T44 Cause:T43 Effect:T42
+A15	Degree E15 Facilitate
+T45	Argument 2028 2048	a variety of reasons

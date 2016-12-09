@@ -1,0 +1,31 @@
+T1	Purpose 245 247	to
+E1	Purpose:T1 Cause:T7 Effect:T6
+A1	Degree E1 Facilitate
+T2	Motivation 991 1001	reason was
+E2	Motivation:T2 Cause:T8
+A2	Degree E2 Facilitate
+T3	Motivation 1247 1252	given
+E3	Motivation:T3 Effect:T9 Cause:T10
+A3	Degree E3 Facilitate
+T4	Consequence 2943 2950	because
+E4	Consequence:T4 Cause:T11 Effect:T12
+A4	Degree E4 Facilitate
+T5	Consequence 3328 3335	lead to
+E5	Consequence:T5 Cause:T13 Effect:T15
+A5	Degree E5 Facilitate
+T6	Argument 196 244	The United Kingdom carrier had planned the issue
+T7	Argument 248 308	help finance its $750 million purchase of a 15% stake in UAL
+T8	Argument 1002 1053	(for British Air) to buy a stake in United Airlines
+T9	Argument 1189 1246	it would have been unreasonable to expect a better result
+T10	Argument 1253 1317	the volatility of the stock market since the launch of the issue
+T11	Argument 2951 3019	British Air is issuing convertible bonds rather than ordinary shares
+T12	Argument 3021 3149	the share price won't be directly hurt by any surplus left with underwriters after they try to sell the issue in the open market
+T13	Argument 3318 3323	which
+T14	Argument 3298 3316	a board room split
+T15	Argument 3336 3412	the resignation of Sir Colin Marshall, the carrier's chief executive officer
+R1	Coref Arg1:T13 Arg2:T14	
+T16	Argument 253 308	finance its $750 million purchase of a 15% stake in UAL
+T17	Consequence 248 252	help
+E6	Consequence:T17 Cause:T18 Effect:T16
+A6	Degree E6 Facilitate
+T18	Argument 235 244	the issue

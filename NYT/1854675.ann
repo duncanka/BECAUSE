@@ -1,0 +1,49 @@
+T1	Motivation 2410 2413	for
+E1	Motivation:T1 Cause:T11 Effect:T10
+A1	Degree E1 Facilitate
+T2	Consequence 2800 2807	prevent
+E2	Consequence:T2 Effect:T15
+A2	Degree E2 Inhibit
+T3	Consequence 3562 3567	Since
+E3	Consequence:T3 Cause:T16 Effect:T17
+A3	Degree E3 Facilitate
+T4	Purpose 4645 4647	to
+E4	Purpose:T4 Effect:T18 Cause:T19
+A4	Degree E4 Facilitate
+T7	Consequence 5316 5323	meaning
+E7	Consequence:T7 Cause:T24 Effect:T25
+A7	Degree E7 Facilitate
+T8	Motivation 5906 5909	for
+E8	Motivation:T8 Cause:T27 Effect:T26
+A8	Degree E8 Facilitate
+T10	Argument 2356 2409	Mr. Olmert will travel to Washington over the weekend
+T11	Argument 2414 2439	talks with President Bush
+T12	Purpose 2797 2799	to
+E10	Purpose:T12 Effect:T13 Cause:T14
+A10	Degree E10 Facilitate
+T13	Argument 2722 2795	Israel would like to seal off Gaza from the West Bank as much as possible
+T14	Argument 2800 2897	prevent the spread of Hamas military power there, where Israeli troops still occupy the territory
+T15	Argument 2808 2897	the spread of Hamas military power there, where Israeli troops still occupy the territory
+T16	Argument 3568 3614	Fatah conforms to the international conditions
+T17	Argument 3729 3841	a government run by it without Hamas would presumably not be subject to international isolation and restrictions
+T18	Argument 4574 4644	another Arab government, like Egypt or Saudi Arabia, will soon step in
+T19	Argument 4648 4733	try to patch together the nascent Palestinian state, which is in danger of collapsing
+T20	Argument 4944 4956;4988 5012	its fighters largely stay underground
+T5	Motivation 5013 5023	because of
+E5	Motivation:T5 Effect:T20 Cause:T21
+A5	Degree E5 Facilitate
+T21	Argument 5024 5046	the Israeli occupation
+T24	Argument 5241 5302	the security forces would all report to the Interior Minister
+T25	Argument 5324 5371	Fatah would give up much of its remaining power
+T26	Argument 5747 5905	The Gaza strongman Muhammad Dahlan, the former chief of Gaza's Preventive Security who is now Mr. Abbas's national security adviser, has been abroad for weeks
+T27	Argument 5910 5927	medical treatment
+T28	Argument 7365 7412	All crossings from Israel and Egypt were closed
+T9	Motivation 7413 7423	because of
+E9	Motivation:T9 Effect:T28 Cause:T29
+A9	Degree E9 Facilitate
+T29	Argument 7424 7436	the fighting
+T30	Consequence 2672 2679	prevent
+E11	Consequence:T30 Effect:T32 Cause:T31
+A11	Degree E11 Inhibit
+T31	Argument 2572 2578	Israel
+T32	Argument 2680 2700	contact between them

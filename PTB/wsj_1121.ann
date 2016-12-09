@@ -1,0 +1,56 @@
+T1	Purpose 563 565	to
+E1	Purpose:T1 Effect:T8 Cause:T9
+A1	Degree E1 Facilitate
+T2	Consequence 953 962	Thanks to
+E2	Consequence:T2 Cause:T10 Effect:T11
+A2	Degree E2 Facilitate
+T3	Motivation 1338 1343	Since
+E3	Motivation:T3 Cause:T13 Effect:T14
+A3	Degree E3 Facilitate
+T4	Consequence 2038 2042	thus
+E4	Consequence:T4 Effect:T15
+A4	Degree E4 Facilitate
+T5	Purpose 2359 2361	to
+E5	Purpose:T5 Cause:T17 Effect:T16
+A5	Degree E5 Facilitate
+T6	Purpose 4263 4265	to
+E6	Purpose:T6 Cause:T19 Effect:T18
+A6	Degree E6 Facilitate
+T7	Motivation 5118 5127	enough to
+E7	Motivation:T7 Effect:T22 Cause:T23
+A7	Degree E7 Facilitate
+T8	Argument 501 562	43 million tons of desert were moved from one dune to another
+T9	Argument 566 649	recover 934,242 carats, which comes to 46 tons of sand per carat, or one-fifth gram
+T10	Argument 963 1189	centuries of polishing by Mother Nature -- first in the gentle current of the Orange River that carried the stones from South Africa's interior, then in the cold surf of the ocean, and finally in the coarse sands of the desert
+T11	Argument 1193 1241	98% of the diamonds uncovered are of gem quality
+T12	Consequence 1367 1370;1375 1377	too to
+E8	Consequence:T12 Cause:T20 Effect:T21
+A8	Degree E8 Inhibit
+T13	Argument 1344 1397	this treasure chest is too big to fit in a bank vault
+T14	Argument 1399 1426	it has been turned into one
+T15	Argument 2018 2037;2043 2093	The mining zone has remained one of the most desolate places in Africa
+T16	Argument 2283 2358	gemsbok, hardy antelope with long straight horns, wander in from the desert
+T17	Argument 2362 2389	drink from water sprinklers
+T18	Argument 4226 4262	Engineers first used concrete blocks
+T19	Argument 4266 4285	bolster the barrier
+T20	Argument 1367 1374	too big
+T21	Argument 1378 1397	fit in a bank vault
+T22	Argument 5128 5160	overcome the temptation to steal
+T23	Argument 5118 5124	enough
+T24	Purpose 3122 3124	to
+E9	Purpose:T24 Effect:T25 Cause:T26
+A9	Degree E9 Facilitate
+T25	Argument 3109 3121	build a wall
+T26	Argument 3125 3144	hold back the flood
+T27	Consequence 4171 4176	helps
+E10	Consequence:T27 Cause:T29 Effect:T30
+A10	Degree E10 Facilitate
+T28	Argument 4148 4165	A companion jetty
+T29	Argument 4166 4170	that
+T30	Argument 4177 4194	hold back the sea
+R1	Coref Arg1:T29 Arg2:T28	
+T31	Consequence 1980 1987	without
+E11	Consequence:T31 Cause:T32 Effect:T33
+A11	Degree E11 Inhibit
+T32	Argument 1988 2014	De Beers's stingy approval
+T33	Argument 1935 1979	no one gets in or out of the restricted area

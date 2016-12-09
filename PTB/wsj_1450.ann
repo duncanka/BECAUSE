@@ -1,0 +1,90 @@
+T1	Consequence 63 73	reason was
+E1	Consequence:T1 Cause:T12
+A1	Degree E1 Facilitate
+T2	Consequence 2178 2181;2186 2192	was reason
+E3	Consequence:T2 Effect:T14 Cause:T13
+A3	Degree E3 Facilitate
+T4	Consequence 3221 3230	enough to
+E4	Consequence:T4 Effect:T16 Cause:T30
+A4	Degree E4 Facilitate
+T6	Consequence 3965 3967	if
+E5	Consequence:T6 Cause:T18 Effect:T17
+A5	Degree E5 Facilitate
+T7	Consequence 4049 4053	help
+E6	Consequence:T7 Cause:T19 Effect:T20
+A6	Degree E6 Facilitate
+T8	Purpose 4676 4678	to
+E7	Purpose:T8 Cause:T21 Effect:T22
+A7	Degree E7 Facilitate
+T9	Consequence 5114 5121	creates
+E8	Consequence:T9 Effect:T24 Cause:T23
+A8	Degree E8 Facilitate
+T10	Motivation 5535 5539	make
+E9	Motivation:T10 Cause:T25 Effect:T27
+A9	Degree E9 Facilitate
+T11	Consequence 6284 6291	because
+E10	Consequence:T11 Cause:T29 Effect:T28
+A10	Degree E10 Facilitate
+T12	Argument 78 112	high interest rates or labor costs
+T13	Argument 2172 2177	Crime
+T14	Argument 2198 2246;2252 2289	26% reported difficulty recruiting personnel and 19% said they were considering moving
+T16	Argument 3231 3260	destroy a struggling business
+T17	Argument 3910 3963	Small neighborhood businesses could provide more jobs
+T18	Argument 3968 4038	crime were not so harmful to creating and maintaining those businesses
+T19	Argument 4040 4044	This
+T20	Argument 4054 4175	explain why small businesses create 65% of all jobs nationally, but only 22% of jobs in a crime-ridden city like New York
+T21	Argument 4679 4723	regulate access to these quasi-public places
+T22	Argument 4597 4675	Private security guards and moonlighting police can invoke the law of trespass
+T23	Argument 5109 5113	This
+T24	Argument 5122 5138	several problems
+T25	Argument 5525 5530	which
+T26	Argument 5481 5523	the persistent frustration of false alarms
+T27	Argument 5540 5552;5553 5623	urban police less than enthusiastic about responding to calls from small businesses
+R1	Coref Arg1:T25 Arg2:T26	
+T28	Argument 6233 6283	Increased patrolling of business zones makes sense
+T29	Argument 6292 6371	urban crime is heavily concentrated in such ``hot spots'' of pedestrian density
+T30	Argument 3221 3227	enough
+T31	Purpose 829 831	to
+E11	Purpose:T31 Cause:T39 Effect:T38
+A11	Degree E11 Facilitate
+T38	Argument 789 828	working until 11 p.m. seven days a week
+T39	Argument 832 861	cover his $3,000 a month rent
+T32	Consequence 1224 1228	from
+E12	Consequence:T32 Cause:T40 Effect:T41
+A12	Degree E12 Facilitate
+T40	Argument 1229 1234	crime
+T41	Argument 1215 1223	injuries
+T33	Consequence 3143 3149;3156 3158	enough to
+E13	Consequence:T33 Cause:T42 Effect:T43
+A13	Degree E13 Facilitate
+T42	Argument 3143 3155	enough money
+T43	Argument 3159 3188	hire at least one more worker
+T5	Motivation 3457 3463	out of
+E14	Motivation:T5 Effect:T44 Cause:T45
+A14	Degree E14 Facilitate
+T44	Argument 3415 3456	some entrepreneurs may give up a business
+T45	Argument 3464 3484	fear for their lives
+T34	Consequence 4510 4517	created
+E15	Consequence:T34 Effect:T47 Cause:T46
+A15	Degree E15 Facilitate
+T46	Argument 4457 4505	The shift of retailing to large shopping centers
+T47	Argument 4518 4595	even greater economies of scale for providing low-crime business environments
+T35	Consequence 5166 5172;5180 5182	enough to
+E16	Consequence:T35 Cause:T48 Effect:T49
+A16	Degree E16 Facilitate
+T48	Argument 5166 5179	enough police
+T49	Argument 5183 5207	satisfy small businesses
+T36	Consequence 6176 6180	help
+E17	Consequence:T36 Effect:T50
+A17	Degree E17 Facilitate
+T50	Argument 6181 6231	keep those jobs and sales taxes within city limits
+T37	Motivation 6798 6803	deter
+E18	Motivation:T37 Cause:T51 Effect:T52
+A18	Degree E18 Inhibit
+T51	Argument 6758 6786	an increased police presence
+T52	Argument 6804 6819	further attacks
+T3	Consequence 3862 3877	contributing to
+E2	Consequence:T3 Effect:T15 Cause:T53
+A2	Degree E2 Facilitate
+T15	Argument 3878 3908	the poverty of local residents
+T53	Argument 3790 3860	Underclass neighborhoods offer relatively few employment opportunities

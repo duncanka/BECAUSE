@@ -1,0 +1,30 @@
+T2	Motivation 745 748	for
+E2	Motivation:T2 Effect:T9 Cause:T10
+A2	Degree E2 Facilitate
+T3	Motivation 1016 1019	for
+E3	Motivation:T3 Effect:T11 Cause:T12
+A3	Degree E3 Facilitate
+T4	Purpose 5670 5672	to
+E4	Purpose:T4 Effect:T13 Cause:T14
+A4	Degree E4 Facilitate
+T5	Purpose 5844 5846	to
+E5	Purpose:T5 Effect:T15 Cause:T16
+A5	Degree E5 Facilitate
+T6	Consequence 7965 7969	over
+E6	Consequence:T6 Effect:T17 Cause:T18
+A6	Degree E6 Facilitate
+T9	Argument 716 744	he gave the requisite thanks
+T10	Argument 749 766	the son's service
+T11	Argument 962 1014	He attacks Senator Harry Reid, the Democratic leader
+T12	Argument 1020 1045	saying the war was ``lost
+T13	Argument 5592 5669	who keep showing up at Mr. Romney's events dressed as a dolphin named Flipper
+T14	Argument 5673 5729	highlight the candidate's so-called flip-flops on issues
+T15	Argument 5798 5831	One held a ``Señor Flipper'' sign
+T16	Argument 5847 5892	appeal to Spanish-speaking voters or dolphins
+T17	Argument 7923 7964	whose 1968 presidential campaign imploded
+T18	Argument 7970 8077	an ill-considered comment that American generals had ``brainwashed'' him into supporting the war in Vietnam
+T1	Motivation 8043 8047	into
+E1	Motivation:T1 Cause:T7 Effect:T8
+A1	Degree E1 Facilitate
+T7	Argument 8001 8042	American generals had ``brainwashed'' him
+T8	Argument 8048 8077	supporting the war in Vietnam

@@ -1,0 +1,20 @@
+T1	Consequence 329 337;342 344	allowing to
+E1	Consequence:T1 Cause:T4 Effect:T5
+A1	Degree E1 Facilitate
+T2	Consequence 419 421	If
+E2	Consequence:T2 Cause:T6 Effect:T7
+A2	Degree E2 Facilitate
+T3	Consequence 493 497;567 569	need to
+E3	Consequence:T3 Cause:T8 Effect:T9
+A3	Degree E3 Facilitate
+T4	Argument 166 327	raise to $6 billion from $3 billion the amount of money Defense Secretary Dick Cheney may shift among the Pentagon's individual programs, projects and activities
+T5	Argument 338 341;345 415	him ease the pain that the Gramm-Rudman budget law was intended to inflict
+T6	Argument 422 474	the request is approved by both the House and Senate
+T7	Argument 476 584	Mr. Cheney would need only permission from the White House Office of Management and Budget to move the money
+T8	Argument 498 566	only permission from the White House Office of Management and Budget
+T9	Argument 570 584	move the money
+T10	Purpose 1142 1144	to
+E4	Purpose:T10 Cause:T11 Effect:T12
+A4	Degree E4 Facilitate
+T11	Argument 1145 1210	give the department ``maximum flexibility'' to deal with the cuts
+T12	Argument 1121 1141	the request was made

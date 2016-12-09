@@ -1,0 +1,58 @@
+T2	Purpose 663 665	to
+E2	Purpose:T2 Cause:T12 Effect:T11
+A2	Degree E2 Facilitate
+T3	Consequence 783 794	resulted in
+E3	Consequence:T3 Cause:T13 Effect:T14
+A3	Degree E3 Facilitate
+T4	Consequence 4995 5010	responsible for
+E4	Consequence:T4 Cause:T18 Effect:T20
+A4	Degree E4 Facilitate
+T5	Consequence 4121 4136	responsible for
+E5	Consequence:T5 Cause:T15 Effect:T17
+A5	Degree E5 Facilitate
+T6	Motivation 5173 5175	If
+E6	Motivation:T6 Cause:T21 Effect:T22
+A6	Degree E6 Facilitate
+T7	Consequence 5599 5609	because of
+E7	Consequence:T7 Effect:T23 Cause:T24
+A7	Degree E7 Facilitate
+T8	Consequence 5696 5700	from
+E8	Consequence:T8 Effect:T25 Cause:T26
+A8	Degree E8 Facilitate
+T11	Argument 636 662	who use religion as a tool
+T12	Argument 666 685	justify their deeds
+T13	Argument 721 771	Mr. Mijthab's work on behalf of Hussein government
+T14	Argument 795 812	his assassination
+T15	Argument 4098 4102	that
+T16	Argument 4079 4097	a separatist group
+R1	Coref Arg1:T15 Arg2:T16	
+T17	Argument 4137 4225	multiple attacks on Turkish solders and on outposts in eastern Turkey on the Iraq border
+T18	Argument 4986 4990	they
+T19	Argument 4956 4962	Turkey
+R2	Coref Arg1:T18 Arg2:T19	
+T20	Argument 5011 5035	the group coming to Iraq
+T21	Argument 5176 5263	the P.K.K. had political freedom in Turkey and could work without encountering violence
+T22	Argument 5265 5291	they wouldn't come to Iraq
+T23	Argument 5559 5598	One died in Kirkuk Province on Saturday
+T24	Argument 5610 5639	injuries from a roadside bomb
+T25	Argument 5641 5689	The other two were killed on Saturday in Baghdad
+T26	Argument 5701 5732	injuries caused by an explosion
+T1	Consequence 2014 2022	now that
+E1	Consequence:T1 Cause:T9 Effect:T10
+A1	Degree E1 Facilitate
+T9	Argument 2023 2105	the full complement of American soldiers involved in the security plan had arrived
+T10	Argument 2107 2184	troops were moving into areas that they had been unable to patrol in the past
+T27	Argument 511 548	the bad security situation in Baghdad
+T28	Argument 553 563	his murder
+T29	Consequence 505 510;549 552	blame for
+E9	Consequence:T29 Effect:T28 Cause:T27
+A9	Degree E9 Facilitate
+T30	Consequence 624 629	blame
+E10	Consequence:T30 Cause:T31
+A10	Degree E10 Facilitate
+T31	Argument 630 685	those who use religion as a tool to justify their deeds
+T32	Consequence 5710 5716	caused
+E11	Consequence:T32 Cause:T33 Effect:T34
+A11	Degree E11 Facilitate
+T33	Argument 5720 5732	an explosion
+T34	Argument 5701 5709	injuries

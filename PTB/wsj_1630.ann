@@ -1,0 +1,5 @@
+T3	Argument 1917 1967	Chase will have to spend approximately $50 million
+T1	Argument 1971 2004	remove asbestos from the premises
+T2	Purpose 1968 1970	to
+E1	Purpose:T2 Cause:T1 Effect:T3
+A1	Degree E1 Facilitate

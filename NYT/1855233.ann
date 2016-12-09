@@ -1,0 +1,48 @@
+T1	Argument 2432 2467	use political and economic programs
+T2	Argument 2486 2512	prevent extremism's spread
+T3	Purpose 2483 2485	to
+E1	Purpose:T3 Cause:T2 Effect:T1
+A1	Degree E1 Facilitate
+T4	Consequence 2486 2493	prevent
+E2	Consequence:T4 Effect:T5
+A2	Degree E2 Facilitate
+T5	Argument 2494 2512	extremism's spread
+T6	Consequence 2722 2724	So
+E3	Consequence:T6 Effect:T7
+A3	Degree E3 Facilitate
+T7	Argument 2738 2886	Pakistan has little chance of becoming so unstable that hard-line Islamists will gain power or seize control of one of the country's nuclear weapons
+T8	Consequence 2777 2779	so
+E4	Consequence:T8 Effect:T10 Cause:T9
+A4	Degree E4 Facilitate
+T9	Argument 2777 2788	so unstable
+T10	Argument 2794 2886	hard-line Islamists will gain power or seize control of one of the country's nuclear weapons
+T11	Consequence 4773 4776;4782 4785;4812 4814	Too for to
+E5	Consequence:T11 Effect:T13 Cause:T12
+A5	Degree E5 Inhibit
+T12	Argument 4773 4781	Too late
+T13	Argument 4786 4811;4815 4865	civil society in Pakistan withstand growing pressures from radical Islamists
+T14	Consequence 4871 4874;4880 4883;4893 4895	too for to
+E6	Consequence:T14 Effect:T16 Cause:T15
+A6	Degree E6 Inhibit
+T15	Argument 4871 4879	too late
+T16	Argument 4884 4892;4896 4964	the army come up with a strategy that would lead to its successful withdrawal
+T17	Argument 4909 4919	a strategy
+T18	Consequence 4931 4938	lead to
+E7	Consequence:T18 Effect:T19 Cause:T17
+A7	Degree E7 Facilitate
+T19	Argument 4939 4964	its successful withdrawal
+T20	Consequence 5939 5948	needed to
+E8	Consequence:T20 Effect:T22 Cause:T21
+A8	Degree E8 Facilitate
+T21	Argument 5902 5934	sophisticated American diplomacy
+T22	Argument 5949 6024	broker an agreement that gradually shifted power from the army to civilians
+T24	Inference 5719 5724	Given
+E9	Inference:T24 Cause:T25 Effect:T26
+A9	Degree E9 Facilitate
+T25	Argument 5725 5763	the power of radical Islam in Pakistan
+T26	Argument 5778 5855	there's absolutely no way to know what kind of government will take his place
+T23	Motivation 382 386	with
+E10	Motivation:T23 Cause:T29 Effect:T28
+A10	Degree E10 Facilitate
+T28	Argument 406 573	Bush administration officials, and some Democratic presidential candidates as well, are reacting with caution, fearing that democracy could be a recipe for instability
+T29	Argument 387 404	the war faltering

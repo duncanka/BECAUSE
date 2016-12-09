@@ -1,0 +1,5 @@
+T1	Consequence 653 655	if
+E1	Consequence:T1 Cause:T3 Effect:T4
+A1	Degree E1 Facilitate
+T3	Argument 656 697	the court grants a preliminary injunction
+T4	Argument 699 816	the FTC must begin administrative proceedings to determine the legality of the proposed stock purchase within 20 days

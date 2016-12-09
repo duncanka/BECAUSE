@@ -1,0 +1,19 @@
+T2	Motivation 1084 1086	if
+E2	Motivation:T2 Cause:T8 Effect:T9
+A2	Degree E2 Facilitate
+T3	Motivation 3538 3540	So
+E3	Motivation:T3 Effect:T10
+A3	Degree E3 Facilitate
+T4	Purpose 4008 4010	to
+E4	Purpose:T4 Cause:T12 Effect:T11
+A4	Degree E4 Facilitate
+T8	Argument 1087 1104	that's your horse
+T9	Argument 1057 1083	how exciting that would be
+T10	Argument 3541 3681	owners have developed a ``code of ethics,'' outlining rules for consultants and agents, and disclosure of fees and any conflicts of interest
+T11	Argument 3972 4007	investors can spend $15,000 or more
+T12	Argument 4011 4053	own a racehorse in partnership with others
+T1	Argument 986 1007	he is using the money
+T5	Purpose 1008 1010	to
+E1	Purpose:T5 Cause:T6 Effect:T1
+A1	Degree E1 Facilitate
+T6	Argument 1011 1040	help buy a 45-acre horse farm

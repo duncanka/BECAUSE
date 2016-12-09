@@ -1,0 +1,42 @@
+T2	Motivation 1582 1584	If
+E1	Motivation:T2 Cause:T6 Effect:T7
+A1	Degree E1 Facilitate
+T3	Consequence 2630 2636	led to
+E2	Consequence:T3 Cause:T9 Effect:T10
+A2	Degree E2 Facilitate
+T4	Motivation 4152 4159	because
+E3	Motivation:T4 Effect:T11 Cause:T12
+A3	Degree E3 Facilitate
+T5	Purpose 4459 4461	to
+E4	Purpose:T5 Cause:T14 Effect:T13
+A4	Degree E4 Facilitate
+T6	Argument 1585 1637	the matter requires further legal work or litigation
+T7	Argument 1654 1700	his lawyers may refer the client to a law firm
+T8	Argument 2587 2613	political-corruption cases
+T9	Argument 2614 2618	that
+T10	Argument 2637 2647	its demise
+R1	Coref Arg1:T9 Arg2:T8	
+T11	Argument 4136 4151	they're leaving
+T12	Argument 4160 4241	they wanted a different environment -- a smaller firm they would be principals of
+T13	Argument 4368 4458	Shea & Gould held a number of discussions with the five partners during the past few weeks
+T14	Argument 4462 4478	get them to stay
+#2	AnnotatorNotes E1	Motivation?
+T17	Motivation 5505 5512	because
+E5	Motivation:T17 Cause:T18 Effect:T19
+A5	Degree E5 Facilitate
+T18	Argument 5513 5589	they are unlikely to appreciate the nuances of attorney-client relationships
+T19	Argument 5458 5504	non-lawyers shouldn't be on the inquiry panels
+T20	Argument 698 717	using the telephone
+T21	Argument 721 749	lure clients to his doorstep
+T15	Purpose 718 720	to
+E6	Purpose:T15 Cause:T21 Effect:T20
+A6	Degree E6 Facilitate
+T1	Purpose 1327 1329;1333 1342	In effort to
+E7	Purpose:T1 Cause:T22 Effect:T23
+A7	Degree E7 Facilitate
+T22	Argument 1343 1387	determine whether a caller has reason to sue
+T23	Argument 1389 1517	Cane lawyers review documents and perform research, if necessary, with the help of three law clerks and several support staffers
+T16	Motivation 1374 1383	reason to
+E8	Motivation:T16 Effect:T24
+A8	Degree E8 Facilitate
+T24	Argument 1384 1387	sue

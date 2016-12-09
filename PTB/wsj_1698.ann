@@ -1,0 +1,40 @@
+T1	Consequence 299 303;309 311	need to
+E1	Consequence:T1 Cause:T8 Effect:T9
+A1	Degree E1 Facilitate
+T2	Motivation 954 957	for
+E2	Motivation:T2 Cause:T11 Effect:T10
+A2	Degree E2 Facilitate
+T4	Inference 1402 1409	because
+E3	Inference:T4 Cause:T13 Effect:T12
+A3	Degree E3 Facilitate
+T5	Consequence 1925 1929;1960 1962	need to
+E4	Consequence:T5 Cause:T14 Effect:T15
+A4	Degree E4 Facilitate
+T6	Motivation 3007 3009	if
+E5	Motivation:T6 Effect:T16 Cause:T17
+A5	Degree E5 Facilitate
+T7	Consequence 3365 3367	if
+E6	Consequence:T7 Cause:T18 Effect:T19
+A6	Degree E6 Facilitate
+T8	Argument 304 308	help
+T9	Argument 312 345	restrain their darker compulsions
+T10	Argument 931 953	winking at this person
+T11	Argument 958 974	slipping this in
+T12	Argument 1317 1401	The Coats bill, which already has 32 Senate co-sponsors, isn't a pure line-item veto
+T13	Argument 1410 1447	it would apply only to spending bills
+T14	Argument 1930 1959	the usual two-thirds majority
+T15	Argument 1963 1980	override any veto
+T16	Argument 2932 3006	the police (in the form of a President) would be there with a straitjacket
+T17	Argument 3010 3047	they really get crazy, as they do now
+T18	Argument 3368 3433	he and his colleagues are serious about kicking their compulsions
+T19	Argument 3435 3450	they'll sign up
+T21	Consequence 2435 2441	unless
+E7	Consequence:T21 Effect:T22 Cause:T23
+A7	Degree E7 Inhibit
+T22	Argument 2415 2434	they're meaningless
+T23	Argument 2442 2495	Congress has a guilty conscience and changes its mind
+T3	Purpose 1165 1169	lest
+E8	Purpose:T3 Cause:T20 Effect:T24
+A8	Degree E8 Facilitate
+T20	Argument 1170 1185	they kill again
+T24	Argument 1129 1164	he and his confreres need restraint

@@ -1,0 +1,12 @@
+T1	Motivation 1457 1463	unless
+E1	Motivation:T1 Cause:T4 Effect:T3
+A1	Degree E1 Inhibit
+T2	Consequence 1705 1710	meant
+E2	Consequence:T2 Cause:T5 Effect:T6
+A2	Degree E2 Facilitate
+T3	Argument 1361 1456	he would continue to press to keep the capital-gains provision in the final version of the bill
+T4	Argument 1464 1509	the House drops many of its costly provisions
+T5	Argument 1680 1704	Failure to pass the bill
+T6	Argument 1711 1816	that $16.1 billion in across-the-board spending cuts took effect Monday under the Gramm-Rudman budget law
+T7	Note 811 825	conditioned on
+#1	AnnotatorNotes T7	Questionable

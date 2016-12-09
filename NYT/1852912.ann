@@ -1,0 +1,53 @@
+T1	Motivation 311 320;376 378	compelled to
+E1	Motivation:T1 Cause:T10 Effect:T11
+A1	Degree E1 Facilitate
+T2	Motivation 311 320;412 414	compelled to
+E2	Motivation:T2 Effect:T12 Cause:T10
+A2	Degree E2 Facilitate
+T3	Motivation 834 837	for
+E3	Motivation:T3 Cause:T14 Effect:T13
+A3	Degree E3 Facilitate
+T4	Consequence 1028 1034	helped
+E4	Consequence:T4 Effect:T16 Cause:T15
+A4	Degree E4 Facilitate
+T5	Motivation 4118 4125	because
+E5	Motivation:T5 Cause:T18 Effect:T17
+A5	Degree E5 Facilitate
+T6	Purpose 4462 4464	so
+E6	Purpose:T6 Cause:T20 Effect:T19
+T7	Motivation 4593 4596;4599 4605	for reason
+E7	Motivation:T7 Effect:T21 Cause:T27
+A7	Degree E7 Facilitate
+T8	Consequence 4792 4794	so
+E8	Consequence:T8 Effect:T23 Cause:T22
+A8	Degree E8 Facilitate
+T10	Argument 202 310	news of the attack by Muslim extremists on a Marine Corps barracks in Beirut that killed 241 service members
+T11	Argument 321 374;379 399	Colonel Chessani, then a teenager from Rangely, Colo. embrace Christianity
+T12	Argument 321 374;415 451	Colonel Chessani, then a teenager from Rangely, Colo. follow two brothers into the service
+T13	Argument 737 833	the Marine Corps charged Colonel Chessani, 43, and three other officers with dereliction of duty
+T14	Argument 838 881	failing to investigate the episode properly
+T15	Argument 990 1022	witnesses and military documents
+T16	Argument 1035 1182	paint two contradictory portraits of Colonel Chessani, the highest-ranking Marine officer charged since the Iraq war began more than four years ago
+T17	Argument 4035 4116	he never suspected that the killings were improper under the American laws of war
+T18	Argument 4126 4258	they followed an attack by insurgents that, he believed, was intended to provoke lethal return fire by marines in a residential area
+T19	Argument 4441 4461	they had set this up
+T20	Argument 4470 4502	there would be collateral damage
+T21	Argument 4553 4592	he had picked the time and the location
+T22	Argument 4792 4871	so intent on not letting insurgents use the civilian deaths against the marines
+T23	Argument 4877 5014	he ignored evidence that his troops, under sporadic small-arms fire, had violated rules of engagement in killing civilians in their homes
+A6	Degree E6 Facilitate
+T27	Argument 4597 4605	a reason
+T9	Motivation 4199 4206	provoke
+E9	Motivation:T9 Effect:T24 Cause:T25
+A9	Degree E9 Facilitate
+T24	Argument 4207 4258	lethal return fire by marines in a residential area
+T25	Argument 4164 4168	that
+T26	Argument 4140 4163	an attack by insurgents
+R1	Coref Arg1:T25 Arg2:T26	
+T28	Motivation 5507 5515;5528 5530	required to
+E10	Motivation:T28 Effect:T31 Cause:T29
+A10	Degree E10 Facilitate
+T29	Argument 5502 5506	that
+T30	Argument 5483 5501	live-fire training
+R2	Coref Arg1:T29 Arg2:T30	
+T31	Argument 5516 5527;5531 5567	infantrymen discern enemy targets from civilians

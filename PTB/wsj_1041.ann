@@ -1,0 +1,25 @@
+T1	Consequence 628 632	make
+E1	Consequence:T1 Cause:T4 Effect:T6
+A1	Degree E1 Facilitate
+T3	Motivation 2442 2449	because
+E3	Motivation:T3 Effect:T8 Cause:T9
+A3	Degree E3 Facilitate
+T4	Argument 614 622	The move
+T6	Argument 633 641;642 741	the drug available free of charge for a time to children with the disease and symptoms of advanced infection
+T5	Argument 2186 2279	the medical establishment has waited two years to approve adult treatments for pediatric uses
+T2	Motivation 2281 2291	because of
+E2	Motivation:T2 Cause:T7 Effect:T5
+A2	Degree E2 Facilitate
+T7	Argument 2292 2351	a combination of conservative safety standards and red tape
+T8	Argument 2363 2441	critics have charged AZT's maker Burroughs Wellcome Co. with corporate inertia
+T9	Argument 2450 2561	children account for just 1% of the patient population and hence a small part of the large and lucrative market
+T10	Argument 2089 2125	The delay in getting AZT to children
+T11	Argument 2145 2169	a combination of factors
+T12	Consequence 2135 2144	blamed on
+E4	Consequence:T12 Cause:T11 Effect:T10
+A4	Degree E4 Facilitate
+T13	Consequence 2908 2917	prompting
+E5	Consequence:T13 Cause:T15 Effect:T14
+A5	Degree E5 Facilitate
+T14	Argument 2918 2986	dramatic recovery of IQ levels and reappearance of lost motor skills
+T15	Argument 2850 2853	AZT

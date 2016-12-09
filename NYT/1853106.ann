@@ -1,0 +1,9 @@
+T1	Purpose 587 589	so
+E1	Purpose:T1 Cause:T4 Effect:T5
+A1	Degree E1 Facilitate
+T3	Motivation 2035 2045	reason for
+E3	Motivation:T3 Effect:T8
+A3	Degree E3 Facilitate
+T4	Argument 590 666	the judge, Oscar Magi, could decide whether to suspend the trial temporarily
+T5	Argument 555 586	the trial adjourned for 10 days
+T8	Argument 2046 2094	recruiting other members for their organizations

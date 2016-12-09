@@ -1,0 +1,24 @@
+T1	Consequence 381 387	caused
+E1	Consequence:T1 Cause:T4 Effect:T5
+A1	Degree E1 Facilitate
+T2	Motivation 1096 1103	because
+E2	Motivation:T2 Cause:T7 Effect:T6
+A2	Degree E2 Facilitate
+T4	Argument 376 380	what
+T5	Argument 388 412	the explosions and fires
+T6	Argument 986 1094	The U.S. Coast Guard closed six miles of the Houston Ship Channel, where about 150 companies have operations
+T7	Argument 1104 1144	the thick, black smoke obscured the area
+T3	Consequence 1246 1254	hindered
+E3	Consequence:T3 Cause:T8 Effect:T9
+A3	Degree E3 Inhibit
+T8	Argument 1213 1245	Broken water lines and gas leaks
+T9	Argument 1255 1276	firefighters' efforts
+T10	Argument 623 670	other Phillips officials flew from Bartlesville
+T11	Argument 674 743	assess the damage and determine the cause of the afternoon explosions
+T12	Purpose 671 673	to
+E4	Purpose:T12 Effect:T10 Cause:T11
+A4	Degree E4 Facilitate
+T13	Consequence 710 718	cause of
+E5	Consequence:T13 Effect:T14
+A5	Degree E5 Facilitate
+T14	Argument 719 743	the afternoon explosions

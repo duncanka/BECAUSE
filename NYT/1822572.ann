@@ -1,0 +1,74 @@
+T1	Purpose 466 468	to
+E1	Purpose:T1 Cause:T3 Effect:T2
+A1	Degree E1 Facilitate
+T2	Argument 442 465	he was leaving his post
+T3	Argument 469 626	become chairman of a new one-million-member national health care union being established within his local's parent, the Service Employees International Union
+T4	Consequence 671 675	help
+E2	Consequence:T4 Effect:T6 Cause:T5
+A2	Degree E2 Facilitate
+T5	Argument 644 664	the new organization
+T6	Argument 676 824	unionize more health care workers and make the service employees a more potent political force, especially in the push for universal health coverage
+T7	Motivation 991 998	because
+E3	Motivation:T7 Cause:T9 Effect:T8
+A3	Degree E3 Facilitate
+T8	Argument 965 990	he was not leaving sooner
+T9	Argument 999 1121	he wanted to protect his members and the state's hospitals from the cuts that Mr. Spitzer was expected to propose tomorrow
+T10	Argument 1124 1230	Mr. Rivera, 56, often tangled -- most times successfully -- with Govs. Mario M. Cuomo and George E. Pataki
+T11	Argument 1234 1256	fight health care cuts
+T12	Purpose 1231 1233	to
+E4	Purpose:T12 Cause:T11 Effect:T10
+A4	Degree E4 Facilitate
+T13	Motivation 1653 1660	because
+E5	Motivation:T13 Cause:T14 Effect:T15
+A5	Degree E5 Facilitate
+T14	Argument 1661 1719	we are the ones who give health care to patients every day
+T15	Argument 1626 1652	identifying us as villains
+T16	Inference 3818 3824	making
+E6	Inference:T16 Effect:T17 Cause:T18
+A6	Degree E6 Facilitate
+T17	Argument 3825 3827;3828 3861	it one of the nation's largest PAC's
+T18	Argument 3761 3816	that would have a budget of $40 million every two years
+T19	Purpose 4383 4385	to
+E7	Purpose:T19 Effect:T21 Cause:T20
+A7	Degree E7 Facilitate
+T20	Argument 4386 4446	fight against cuts and fight for broader and better coverage
+T21	Argument 4331 4382	form alliances with hospitals and health executives
+T22	Purpose 4589 4591	to
+E8	Purpose:T22 Cause:T23 Effect:T24
+A8	Degree E8 Facilitate
+T23	Argument 4592 4644	provide health insurance to more low-income children
+T24	Argument 4554 4588	the creation of Family Health Plus
+T25	Argument 5077 5111	prevent the factions from fighting
+T26	Argument 5052 5073	the police intervened
+T27	Purpose 5074 5076	to
+E9	Purpose:T27 Effect:T26 Cause:T25
+A9	Degree E9 Facilitate
+T28	Consequence 5077 5084;5098 5102	prevent from
+E10	Consequence:T28 Effect:T29 Cause:T30
+A10	Degree E10 Inhibit
+T29	Argument 5085 5097;5103 5111	the factions fighting
+T30	Argument 5052 5062	the police
+T31	Motivation 5302 5310;5315 5317	allowing to
+E11	Motivation:T31 Cause:T32 Effect:T33
+A11	Degree E11 Facilitate
+T32	Argument 5265 5300	the state budget is completed early
+T33	Argument 5311 5314;5318 5342	him step down before June 15
+T34	Consequence 5262 5264	If
+E12	Consequence:T34 Cause:T36 Effect:T35
+A12	Degree E12 Facilitate
+T35	Argument 5344 5418	Mr. Rivera will be succeeded by George Gresham, 1199's secretary-treasurer
+T36	Argument 5265 5342	the state budget is completed early, allowing him to step down before June 15
+T37	Inference 6885 6892	because
+E13	Inference:T37 Cause:T38 Effect:T39
+A13	Degree E13 Facilitate
+T38	Argument 6893 6972	we believe that checks and balances are important at this very difficult moment
+T39	Argument 6808 6881	it was important to back the Republicans, who narrowly control the Senate
+T40	Consequence 714 718	make
+E14	Consequence:T40 Effect:T41 Cause:T5
+A14	Degree E14 Facilitate
+T41	Argument 719 740;741 770	the service employees a more potent political force
+T42	Argument 4462 4521	1199 often joined the Greater New York Hospital Association
+T43	Argument 4525 4547	push for major changes
+T44	Purpose 4522 4524	to
+E15	Purpose:T44 Cause:T43 Effect:T42
+A15	Degree E15 Facilitate

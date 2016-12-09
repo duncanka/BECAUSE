@@ -1,0 +1,31 @@
+T1	Consequence 256 266	preventing
+E1	Consequence:T1 Effect:T6
+A1	Degree E1 Inhibit
+T2	Consequence 292 300	spurring
+E2	Consequence:T2 Effect:T7
+A2	Degree E2 Facilitate
+T3	Consequence 1029 1038	prevented
+E3	Consequence:T3 Effect:T9 Cause:T8
+A3	Degree E3 Inhibit
+T4	Consequence 1440 1447	prevent
+E4	Consequence:T4 Cause:T10 Effect:T11
+A4	Degree E4 Inhibit
+T6	Argument 280 284	AIDS
+T7	Argument 301 362	a wider global fight against H.I.V., the virus that causes it
+T8	Argument 938 949	The program
+T9	Argument 1039 1065	millions of new infections
+T10	Argument 1322 1326	this
+T11	Argument 1448 1473	12 million new infections
+T14	Consequence 1579 1588	needed to
+E6	Consequence:T14 Cause:T16 Effect:T15
+A6	Degree E6 Enable
+T15	Argument 1589 1615	curb the widening epidemic
+T16	Argument 1572 1576	what
+T17	Consequence 353 359	causes
+E7	Consequence:T17 Effect:T18 Cause:T19
+A7	Degree E7 Facilitate
+T18	Argument 360 362	it
+T19	Argument 348 352	that
+T20	Argument 338 347	the virus
+R1	Coref Arg1:T19 Arg2:T20	
+R2	Coref Arg1:T18 Arg2:T6	

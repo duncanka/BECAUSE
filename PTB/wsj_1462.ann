@@ -1,0 +1,9 @@
+T1	Consequence 175 182;191 195	prevent from
+E1	Consequence:T1 Effect:T2
+A1	Degree E1 Inhibit
+T2	Argument 185 190;196 213	Royal acquiring Realist
+T3	Consequence 585 591	thwart
+E2	Consequence:T3 Cause:T5 Effect:T4
+A2	Degree E2 Inhibit
+T4	Argument 592 605	Royal's offer
+T5	Argument 520 542	the Ammann acquisition

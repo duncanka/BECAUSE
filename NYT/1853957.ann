@@ -1,0 +1,39 @@
+T1	Purpose 655 657	to
+E1	Purpose:T1 Effect:T10 Cause:T11
+A1	Degree E1 Facilitate
+T2	Consequence 1078 1083	helps
+E2	Consequence:T2 Cause:T13 Effect:T14
+A2	Degree E2 Facilitate
+T4	Motivation 1854 1858	from
+E3	Motivation:T4 Cause:T16 Effect:T15
+A3	Degree E3 Facilitate
+T5	Consequence 2373 2383	guarantees
+E4	Consequence:T5 Cause:T17 Effect:T18
+A4	Degree E4 Facilitate
+T6	Consequence 2576 2580	mean
+E5	Consequence:T6 Cause:T20 Effect:T21
+A5	Degree E5 Facilitate
+T7	Motivation 611 613	if
+E6	Motivation:T7 Effect:T8 Cause:T9
+A6	Degree E6 Facilitate
+T8	Argument 578 610	he would bar earmarks completely
+T9	Argument 614 680	Republicans attacked individual projects to score political points
+T10	Argument 614 654	Republicans attacked individual projects
+T11	Argument 658 680	score political points
+T12	Argument 1014 1072	federal money for bridges, clinics or military contractors
+T13	Argument 1073 1077	that
+T14	Argument 1084 1116	endear lawmakers to constituents
+R1	Coref Arg1:T13 Arg2:T12	
+T15	Argument 1839 1853	still smarting
+T16	Argument 1859 1923	Democratic accusations of earmark abuse under Republican control
+T17	Argument 2368 2372	that
+T18	Argument 2384 2424	accountability for the American taxpayer
+T19	Argument 2335 2367	an open and deliberative process
+R2	Coref Arg1:T17 Arg2:T19	
+T20	Argument 2551 2569	the new procedures
+T21	Argument 2581 2622	much more accountability than in the past
+T3	Consequence 1747 1759;1765 1767	insufficient to
+E7	Consequence:T3 Cause:T22 Effect:T23
+A7	Degree E7 Facilitate
+T22	Argument 1747 1764	insufficient time
+T23	Argument 1768 1823	evaluate the thousands of requests for projects earlier

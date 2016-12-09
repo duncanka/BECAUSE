@@ -1,0 +1,10 @@
+T1	Consequence 620 633	attributed to
+E1	Consequence:T1 Cause:T4 Effect:T3
+A1	Degree E1 Facilitate
+T2	Consequence 674 687	attributed to
+E2	Consequence:T2 Cause:T6 Effect:T5
+A2	Degree E2 Facilitate
+T3	Argument 576 616	About one-third of the fatality increase
+T4	Argument 634 648	greater travel
+T5	Argument 654 670	about two-thirds
+T6	Argument 688 730	other factors {primarily to greater speed}

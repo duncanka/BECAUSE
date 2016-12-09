@@ -1,0 +1,25 @@
+T1	Argument 610 683	Aeroflot is buying 22 of the airplanes, to be assembled in Everett, Wash.
+T2	Argument 688 759	renew its fleet of Boeing and Airbus planes built during the Soviet era
+T3	Purpose 685 687	to
+E1	Purpose:T3 Cause:T2 Effect:T1
+A1	Degree E1 Facilitate
+T4	Argument 1337 1379	resuscitate the domestic aircraft industry
+T5	Argument 1306 1333	being formed by the Kremlin
+T6	Purpose 1334 1336	to
+E2	Purpose:T6 Cause:T4 Effect:T5
+A2	Degree E2 Facilitate
+T7	Argument 1895 1917	doing business in Iran
+T8	Argument 1744 1887	the State Department imposed sanctions on Sukhoi -- a Boeing partner even at the time, though a company better known as a maker of fighter jets
+T9	Motivation 1891 1894	for
+E3	Motivation:T9 Cause:T7 Effect:T8
+A3	Degree E3 Facilitate
+T10	Consequence 3003 3011;3024 3026	allowing to
+E4	Consequence:T10 Effect:T11 Cause:T12
+A4	Degree E4 Facilitate
+T11	Argument 3012 3023;3027 3064	the company design planes almost around the clock
+T12	Argument 2847 3001	A Boeing design center in Moscow employs about 1,400 Russian engineers who work in shifts that correspond with the downtime of Boeing engineers in Seattle
+T14	Consequence 2433 2441;2472 2474	allowing to
+E5	Consequence:T14 Effect:T15 Cause:T16
+A5	Degree E5 Facilitate
+T15	Argument 2442 2471;2475 2481	a delivery agreement for 2010 expire
+T16	Argument 2372 2380	Aeroflot

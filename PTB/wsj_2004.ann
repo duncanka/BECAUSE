@@ -1,0 +1,15 @@
+T1	Consequence 1490 1496;1527 1529	enough to
+E1	Consequence:T1 Effect:T3 Cause:T6
+A1	Degree E1 Facilitate
+T2	Purpose 1594 1596	to
+E2	Purpose:T2 Cause:T5 Effect:T4
+A2	Degree E2 Facilitate
+T3	Argument 1530 1559	stash away that kind of money
+T4	Argument 1561 1593	United paid him a $375,000 bonus
+T5	Argument 1597 1633	lure him away from American Airlines
+T6	Argument 1477 1496	changed jobs enough
+T7	Purpose 2120 2122	so
+E3	Purpose:T7 Cause:T8 Effect:T9
+A3	Degree E3 Facilitate
+T8	Argument 2123 2153	the buy-out would be a success
+T9	Argument 2099 2119	make pay concessions

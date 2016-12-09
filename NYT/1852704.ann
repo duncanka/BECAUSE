@@ -1,0 +1,20 @@
+T2	Purpose 1770 1772	to
+E2	Purpose:T2 Cause:T6 Effect:T5
+A2	Degree E2 Facilitate
+T5	Argument 1742 1769	send troops over the border
+T6	Argument 1773 1832	hunt down P.K.K. rebels, who favor an independent Kurdistan
+T3	Argument 896 942	a long-threatened incursion into northern Iraq
+T4	Argument 946 1001	hunt Kurdish guerrillas who stage attacks inside Turkey
+T1	Purpose 943 945	to
+E1	Purpose:T1 Cause:T4 Effect:T3
+A1	Degree E1 Facilitate
+T7	Purpose 4425 4427	to
+E3	Purpose:T7 Cause:T9 Effect:T10
+A3	Degree E3 Facilitate
+T9	Argument 4428 4444	abduct 10 people
+T10	Argument 4392 4424	militants used a fake checkpoint
+T8	Purpose 4872 4874	to
+E4	Purpose:T8 Cause:T11 Effect:T12
+A4	Degree E4 Facilitate
+T11	Argument 4875 4899	drive out Qaeda fighters
+T12	Argument 4778 4871	Sunni groups who object to Al Qaeda's tactics have cooperated with American forces in Amariya

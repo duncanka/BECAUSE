@@ -1,0 +1,72 @@
+T1	Inference 1715 1720	since
+E1	Inference:T1 Cause:T8 Effect:T7
+A1	Degree E1 Facilitate
+T2	Motivation 2110 2121	necessitate
+E2	Motivation:T2 Effect:T10 Cause:T9
+A2	Degree E2 Facilitate
+T3	Consequence 2712 2718;2725 2727	forces to
+E3	Consequence:T3 Effect:T12 Cause:T11
+A3	Degree E3 Facilitate
+T4	Motivation 3304 3309	given
+E4	Motivation:T4 Cause:T13 Effect:T14
+A4	Degree E4 Facilitate
+T5	Consequence 4318 4324	unless
+E5	Consequence:T5 Cause:T16 Effect:T15
+A5	Degree E5 Disentail
+T6	Consequence 5168 5173;5177 5179	force to
+E6	Consequence:T6 Cause:T17 Effect:T18
+A6	Degree E6 Facilitate
+T7	Argument 1650 1713	religion should not be substituted for science, nor the reverse
+T8	Argument 1721 1753	they deal with different domains
+T9	Argument 2061 2100	an appreciation of biological evolution
+T10	Argument 2122 2176	a completely materialistic and deterministic worldview
+T11	Argument 2694 2711	Senator Brownback
+T12	Argument 2719 2724;2728 2771	there be a contradiction between faith and reason
+T13	Argument 3310 3371	his assertion that these are not mutually exclusive positions
+T14	Argument 3169 3303	But I can't help but feel that he did not truthfully answer the question posed in the first Republican presidential candidates' debate
+T15	Argument 4292 4317	Science cannot do its job
+T16	Argument 4325 4378	the dichotomy between faith and science is recognized
+T17	Argument 5136 5139	God
+T18	Argument 5174 5176;5180 5280	us close our eyes to what we see in deference to what another may choose to believe is his guiding hand
+T19	Motivation 361 363	as
+E7	Motivation:T19 Cause:T21 Effect:T20
+A7	Degree E7 Facilitate
+T20	Argument 298 359	I find his pick-and-choose approach to science very worrisome
+T21	Argument 364 452	he might one day be responsible for making the most important decisions for this country
+T22	Argument 3450 3580	he felt, as his article implies, that the question was intended to force the candidates to elevate faith over reason or vice versa
+T23	Argument 3393 3446	he should have challenged the premise of the question
+T24	Consequence 3447 3449	if
+E8	Consequence:T24 Cause:T22 Effect:T23
+A8	Degree E8 Facilitate
+T25	Purpose 5822 5824	to
+E9	Purpose:T25 Cause:T26 Effect:T27
+A9	Degree E9 Facilitate
+T26	Argument 5825 5878	safeguard humanity from science-based ethical systems
+T27	Argument 5752 5821	we must also recover the perennial wisdoms of philosophy and theology
+T28	Motivation 605 607	As
+E10	Motivation:T28 Cause:T31 Effect:T32
+A10	Degree E10 Facilitate
+T31	Argument 608 701	science has yet to prove or disprove the existence of a divine power, and probably never will
+T32	Argument 703 811	I will use my gift of reason, be it from God or evolutionary serendipity, to inform my beliefs and decisions
+T29	Purpose 1288 1290	To
+E11	Purpose:T29 Effect:T34 Cause:T33
+A11	Degree E11 Facilitate
+T33	Argument 1291 1341	thrive in our science and technology-based society
+T34	Argument 1343 1411	people really can't pick and choose which scientific facts to accept
+T30	Argument 4164 4200	scientists use the scientific method
+T35	Argument 4204 4289	override preconceived notions and beliefs by gathering and analyzing evidence or data
+T36	Purpose 4201 4203	to
+E12	Purpose:T36 Cause:T35 Effect:T30
+A12	Degree E12 Facilitate
+T37	Motivation 6167 6177	as long as
+E13	Motivation:T37 Cause:T38 Effect:T39
+A13	Degree E13 Facilitate
+T38	Argument 6178 6228	it does not speak to questions of ultimate meaning
+T39	Argument 6111 6166	Senator Sam Brownback is in favor of scientific inquiry
+T40	Note 2583 2593	its causes
+#1	AnnotatorNotes T40	Possibly should be annotated, but hard to see how in the current paradigm
+T41	Motivation 3517 3522;3538 3540	force to
+E14	Motivation:T41 Effect:T43 Cause:T42
+A14	Degree E14 Facilitate
+T42	Argument 3488 3500	the question
+T43	Argument 3523 3537;3541 3580	the candidates elevate faith over reason or vice versa

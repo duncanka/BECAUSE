@@ -1,0 +1,91 @@
+T3	Motivation 943 950	because
+E1	Motivation:T3 Cause:T24 Effect:T23
+A1	Degree E1 Facilitate
+T4	Motivation 1028 1035	because
+E2	Motivation:T4 Cause:T26 Effect:T25
+A2	Degree E2 Facilitate
+T6	Consequence 1397 1403;1414 1416	enough to
+E3	Consequence:T6 Cause:T29 Effect:T30
+A3	Degree E3 Facilitate
+T9	Consequence 1724 1726	so
+E4	Consequence:T9 Cause:T33 Effect:T34
+A4	Degree E4 Facilitate
+T11	Purpose 2100 2111	in order to
+E5	Purpose:T11 Cause:T36 Effect:T35
+A5	Degree E5 Facilitate
+T13	Consequence 3114 3116	if
+E7	Consequence:T13 Cause:T41 Effect:T42
+A7	Degree E7 Facilitate
+T14	Motivation 3385 3387	so
+E8	Motivation:T14 Cause:T43 Effect:T44
+A8	Degree E8 Facilitate
+T15	Consequence 123 128	block
+E9	Consequence:T15 Effect:T22 Cause:T21
+A9	Degree E9 Inhibit
+T16	Consequence 1268 1273	block
+E10	Consequence:T16 Effect:T28 Cause:T27
+A10	Degree E10 Inhibit
+T17	Consequence 1673 1678	block
+E11	Consequence:T17 Cause:T31 Effect:T32
+A11	Degree E11 Inhibit
+T18	Consequence 3076 3081	block
+E12	Consequence:T18 Cause:T39 Effect:T40
+A12	Degree E12 Inhibit
+T20	Consequence 3751 3756	block
+E14	Consequence:T20 Cause:T47 Effect:T48
+A14	Degree E14 Inhibit
+T21	Argument 84 113	the Transportation Department
+T22	Argument 129 155	airline leveraged buy-outs
+T23	Argument 920 942	who supported the bill
+T24	Argument 951 1004	they thought the Transportation Department favored it
+T25	Argument 1008 1027	We backed this bill
+T26	Argument 1036 1068	we thought it would help Skinner
+T27	Argument 1248 1250	he
+T28	Argument 1274 1293	buy-outs in advance
+T29	Argument 1397 1413	enough authority
+T30	Argument 1417 1435	deal with buy-outs
+T31	Argument 1638 1651	The secretary
+T32	Argument 1679 1693	an acquisition
+T33	Argument 1715 1756	it would so weaken an airline financially
+T34	Argument 1762 1825	it would hurt safety or reduce the carrier's ability to compete
+T35	Argument 2050 2099	an airline might sacrifice costly safety measures
+T36	Argument 2112 2122	repay debt
+T37	Argument 2525 2597	I don't believe in the airline business you can be totally laissez-faire
+T12	Motivation 2598 2608	because of
+E6	Motivation:T12 Cause:T38 Effect:T37
+A6	Degree E6 Facilitate
+T38	Argument 2609 2654	the high degree of public interest'' at stake
+T39	Argument 3016 3045	the Transportation Department
+T40	Argument 3082 3092	a takeover
+T41	Argument 3117 3195	the secretary concludes that a transaction has made a carrier unfit to operate
+T42	Argument 3197 3261	the department may revoke its certificate, grounding the airline
+T43	Argument 3385 3395	so drastic
+T44	Argument 3401 3439	the department would hesitate doing it
+T45	Argument 3536 3564	the Transportation secretary
+T46	Argument 3574 3591;3597 3663	corporate raiders waging proxy fights to oust boards that oppose a leveraged buy-out
+T19	Consequence 3568 3573;3592 3596	block from
+E13	Consequence:T19 Cause:T45 Effect:T46
+A13	Degree E13 Inhibit
+T47	Argument 3702 3715	the secretary
+T48	Argument 3757 3766	a buy-out
+T1	Consequence 231 249	clears the way for
+E15	Consequence:T1 Cause:T49 Effect:T50
+A15	Degree E15 Facilitate
+T49	Argument 217 230	The 23-5 vote
+T50	Argument 250 310	consideration on the House floor next week or the week after
+T5	Consequence 1245 1247	if
+E17	Consequence:T5 Effect:T53 Cause:T54
+A17	Degree E17 Facilitate
+T53	Argument 1205 1242	it would be ``cleaner, more efficient
+T54	Argument 1248 1293	he had authority to block buy-outs in advance
+T7	Consequence 1694 1696	if
+E18	Consequence:T7 Effect:T8 Cause:T55
+A18	Degree E18 Facilitate
+T8	Argument 1638 1693	The secretary would be required to block an acquisition
+T55	Argument 1697 1825	he concluded that it would so weaken an airline financially that it would hurt safety or reduce the carrier's ability to compete
+T10	Consequence 1830 1832	if
+E19	Consequence:T10 Effect:T8 Cause:T56
+A19	Degree E19 Facilitate
+T56	Argument 1833 1870	it gave control to a foreign interest
+T2	Note 448 450	if
+#1	AnnotatorNotes T2	Pure hypothetical: "in the event that"

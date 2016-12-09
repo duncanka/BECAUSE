@@ -1,0 +1,101 @@
+T1	Consequence 344 356	stemmed from
+E1	Consequence:T1 Effect:T14 Cause:T15
+A1	Degree E1 Facilitate
+T3	Consequence 1012 1017	since
+E2	Consequence:T3 Cause:T17 Effect:T16
+A2	Degree E2 Facilitate
+T4	Motivation 1626 1635	reason to
+E3	Motivation:T4 Effect:T18
+A3	Degree E3 Facilitate
+T5	Motivation 1626 1632;1656 1658	reason to
+E4	Motivation:T5 Effect:T19
+A4	Degree E4 Facilitate
+T7	Consequence 2542 2544	if
+E6	Consequence:T7 Cause:T23 Effect:T22
+A6	Degree E6 Facilitate
+T8	Inference 2649 2656	meaning
+E7	Inference:T8 Cause:T24 Effect:T25
+A7	Degree E7 Facilitate
+T9	Motivation 2816 2818	if
+E8	Motivation:T9 Cause:T26 Effect:T27
+A8	Degree E8 Facilitate
+T10	Consequence 3087 3091	thus
+E9	Consequence:T10 Effect:T6 Cause:T20
+A9	Degree E9 Facilitate
+T12	Motivation 3557 3563;3665 3668;3677 3679	enough for to
+E10	Motivation:T12 Cause:T28 Effect:T29
+A10	Degree E10 Facilitate
+T13	Purpose 3835 3837	to
+E11	Purpose:T13 Cause:T31 Effect:T30
+A11	Degree E11 Facilitate
+T14	Argument 317 343	The extent of the disaster
+T15	Argument 357 405	years of chicanery and bureaucratic indifference
+T16	Argument 977 1011	history is, so to speak, at an end
+T17	Argument 1018 1116	the course of human progress has now culminated in the glorious full stop of American civilization
+T18	Argument 1636 1654	welcome junk bonds
+T19	Argument 1659 1677	look the other way
+T22	Argument 2486 2541	the firm's capital stock -- its assets -- means nothing
+T23	Argument 2545 2578	the firm is not producing profits
+T24	Argument 2628 2647	the ratio was 43.5%
+T25	Argument 2662 2746	the market was valuing every dollar's worth of the average firm's assets at 43 cents
+T26	Argument 2819 2891	it takes only 43 cents to buy a dollar's worth of a firm's capital stock
+T27	Argument 2893 2939	an alert entrepreneur won't look the other way
+T29	Argument 3669 3676;3680 3707	society continue shielding its eyes
+T28	Argument 3557 3664	enough promoters announcing the end of history (in this case suspension of normal laws of economic gravity)
+T30	Argument 3813 3834	swiveling their heads
+T31	Argument 3838 3879	watch the avalanche of leveraged buy-outs
+T2	Consequence 775 783	produced
+E12	Consequence:T2 Cause:T32 Effect:T33
+A12	Degree E12 Facilitate
+T32	Argument 726 770	The eerie complacency of the Reagan-Bush era
+T33	Argument 784 872	Panglossian paeans about the present perfection of U.S. economic and social arrangements
+T11	Consequence 3355 3362	Result:
+E13	Consequence:T11 Effect:T34
+A13	Degree E13 Facilitate
+T34	Argument 3363 3473	a landscape littered with lemons, huge debt burdens crushing down upon the arch and spans of corporate America
+T6	Argument 3092 3128	restoring the market's faith in them
+T20	Argument 3013 3085	the capital assets he bought on the cheap will soon be producing profits
+T21	Consequence 3130 3135	Hence
+E5	Consequence:T21 Effect:T35
+A5	Degree E5 Facilitate
+T35	Argument 3136 3149	the LBO craze
+T36	Consequence 4714 4729	consequences of
+E14	Consequence:T36 Cause:T37
+A14	Degree E14 Facilitate
+T37	Argument 4730 4756	building empires with sand
+T38	Consequence 5046 5060	consequence of
+E15	Consequence:T38 Cause:T40 Effect:T39
+A15	Degree E15 Facilitate
+T39	Argument 5034 5038	What
+T40	Argument 5061 5135	a high-interest burden, high default rates and continued low profitability
+T41	Motivation 5197 5204	Without
+E16	Motivation:T41 Cause:T42 Effect:T43
+A16	Degree E16 Inhibit
+T42	Argument 5205 5266	liquidity from the junk-bond market or cash flow from profits
+T43	Argument 5268 5442	they look to the government, which obediently assists the natural motions of the capitalist economy with charity in the form of cuts in the capital-gains tax rate or bailouts
+T44	Consequence 5525 5530	avoid
+E17	Consequence:T44 Effect:T45
+A17	Degree E17 Inhibit
+T45	Argument 5531 5571	the deflationary shock of a sudden crash
+T46	Argument 5467 5571	inflation, brought on as the effect of a desperate bid to avoid the deflationary shock of a sudden crash
+T47	Consequence 5448 5459	consequence
+E18	Consequence:T47 Effect:T46
+A18	Degree E18 Facilitate
+T48	Argument 5467 5476	inflation
+T49	Consequence 5478 5488	brought on
+E19	Consequence:T49 Effect:T48
+A19	Degree E19 Facilitate
+T50	Consequence 5496 5505	effect of
+E20	Consequence:T50 Cause:T51
+A20	Degree E20 Facilitate
+T51	Argument 5506 5571	a desperate bid to avoid the deflationary shock of a sudden crash
+#1	AnnotatorNotes E20	"brought on as the effect of" is a strange combination of constructions
+T52	Consequence 2819 2827;2842 2844	it takes to
+E21	Consequence:T52 Cause:T53 Effect:T54
+A21	Degree E21 Facilitate
+T53	Argument 2828 2841	only 43 cents
+T54	Argument 2845 2891	buy a dollar's worth of a firm's capital stock
+T55	Consequence 3897 3903	result
+E22	Consequence:T55 Effect:T56
+A22	Degree E22 Facilitate
+T56	Argument 3913 4018	a leaner, meaner corporate America, with soaring productivity and profits and the weaker gone to the wall

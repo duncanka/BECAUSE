@@ -1,0 +1,63 @@
+T1	Purpose 641 643	to
+E1	Purpose:T1 Effect:T12 Cause:T13
+A1	Degree E1 Facilitate
+T3	Purpose 2355 2357	to
+E3	Purpose:T3 Effect:T16 Cause:T17
+A3	Degree E3 Facilitate
+T5	Consequence 3767 3771	made
+E5	Consequence:T5 Cause:T20 Effect:T21
+A5	Degree E5 Facilitate
+T6	Motivation 3899 3902	for
+E6	Motivation:T6 Effect:T22 Cause:T23
+A6	Degree E6 Facilitate
+T7	Purpose 4602 4604	To
+E7	Purpose:T7 Cause:T24 Effect:T25
+A7	Degree E7 Facilitate
+T8	Purpose 5213 5215	to
+E8	Purpose:T8 Effect:T26 Cause:T27
+A8	Degree E8 Facilitate
+T9	Purpose 5919 5921	To
+E9	Purpose:T9 Cause:T28 Effect:T29
+A9	Degree E9 Facilitate
+T11	Consequence 6844 6847;6861 6864	too for
+E11	Consequence:T11 Cause:T32 Effect:T33
+A11	Degree E11 Inhibit
+T12	Argument 625 640	opening windows
+T13	Argument 644 668	cut indoor air pollution
+T16	Argument 2277 2353	Mr. McDonough will rely on solid wood, rather than plywood or particle board
+T17	Argument 2358 2392	limit the emission of formaldehyde
+T20	Argument 3737 3756	Living in Hong Kong
+T21	Argument 3772 3775;3776 3833	him sensitive to the limits on food, power and water supplies
+T22	Argument 3867 3898	he was thought a little strange
+T23	Argument 3903 3990	shutting off open water taps and admonishing his schoolmates to take only brief showers
+T24	Argument 4605 4637	reduce it at the fund's building
+T25	Argument 4639 4734	workers rubbed beeswax instead of polyurethane on the floors in the executive director's office
+T26	Argument 5158 5211	Offices with outside windows have inside windows, too
+T27	Argument 5216 5241	let in more real daylight
+T28	Argument 5922 6003	more than replace the wood from two English oaks used for paneling at Paul Stuart
+T29	Argument 6014 6079	Mr. McDonough and friends planted 1,000 acorns around the country
+T32	Argument 6844 6860	too contaminated
+T33	Argument 6865 6877	safe farming
+T34	Argument 6814 6877	a quarter of Poland's soil is too contaminated for safe farming
+T35	Consequence 6878 6888	because of
+E12	Consequence:T35 Effect:T34 Cause:T36
+A12	Degree E12 Facilitate
+T36	Argument 6889 6902	air pollution
+T2	Note 1828 1830	If
+#1	AnnotatorNotes T2	Hypothetical (not emphasizing that plans will lead to these results)
+T10	Consequence 2267 2272	allow
+E2	Consequence:T10 Effect:T14 Cause:T30
+A2	Degree E2 Facilitate
+T14	Argument 2273 2275	it
+T15	Argument 2277 2392	Mr. McDonough will rely on solid wood, rather than plywood or particle board, to limit the emission of formaldehyde
+R1	Coref Arg1:T14 Arg2:T15	
+T30	Argument 2238 2261	the $150 million budget
+T4	Argument 4490 4542	some efforts to conserve energy by sealing buildings
+T18	Consequence 4548 4551;4571 4577	had effect
+E4	Consequence:T18 Effect:T19 Cause:T4
+A4	Degree E4 Facilitate
+T19	Argument 4579 4600	high indoor pollution
+T31	Consequence 7211 7217	ensure
+E10	Consequence:T31 Effect:T37
+A10	Degree E10 Facilitate
+T37	Argument 7223 7244	it will be maintained

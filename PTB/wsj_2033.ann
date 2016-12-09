@@ -1,0 +1,65 @@
+T1	Consequence 120 122	if
+E1	Consequence:T1 Cause:T14 Effect:T13
+A1	Degree E1 Facilitate
+T2	Consequence 192 201	thanks to
+E2	Consequence:T2 Effect:T15 Cause:T16
+A2	Degree E2 Facilitate
+T3	Consequence 788 790	If
+E3	Consequence:T3 Cause:T17 Effect:T18
+A3	Degree E3 Facilitate
+T4	Consequence 895 902	because
+E4	Consequence:T4 Effect:T19 Cause:T20
+A4	Degree E4 Facilitate
+T5	Motivation 2266 2269	for
+E5	Motivation:T5 Effect:T21 Cause:T22
+A5	Degree E5 Facilitate
+T6	Consequence 2282 2284	if
+E6	Consequence:T6 Effect:T23 Cause:T24
+A6	Degree E6 Facilitate
+T7	Consequence 2445 2447	if
+E7	Consequence:T7 Effect:T25 Cause:T26
+A7	Degree E7 Facilitate
+T8	Consequence 2679 2681	if
+E8	Consequence:T8 Effect:T27 Cause:T28
+A8	Degree E8 Facilitate
+T9	Motivation 3249 3256	because
+E9	Motivation:T9 Cause:T30 Effect:T29
+A9	Degree E9 Facilitate
+T10	Purpose 4067 4069	to
+E10	Purpose:T10 Cause:T32 Effect:T31
+A10	Degree E10 Facilitate
+T11	Inference 4378 4385	because
+E11	Inference:T11 Cause:T34 Effect:T33
+A11	Degree E11 Facilitate
+T12	Consequence 5409 5419	leading to
+E12	Consequence:T12 Cause:T35 Effect:T36
+A12	Degree E12 Facilitate
+T13	Argument 115 119	paid
+T14	Argument 123 161	it exceeds tax figured the regular way
+T15	Argument 76 190	The method of calculating the 20% tax, paid if it exceeds tax figured the regular way, is due for a change in 1990
+T16	Argument 202 216	1986's tax act
+T17	Argument 791 812	the law isn't changed
+T18	Argument 825 960	we are left staring at rules that are almost impossible to implement, because there are so many complex depreciation calculations to do
+T19	Argument 854 893	that are almost impossible to implement
+T20	Argument 903 960	there are so many complex depreciation calculations to do
+T21	Argument 2218 2265	people in the disaster areas won't be penalized
+T22	Argument 2270 2281	late filing
+T23	Argument 2218 2281	people in the disaster areas won't be penalized for late filing
+T24	Argument 2285 2344	their returns are marked ``Hugo'' and postmarked by Jan. 16
+T25	Argument 2392 2444	late-payment penalties on the returns will be waived
+T26	Argument 2448 2504	the balance due and paid is 10% or less of the liability
+T27	Argument 2609 2678	Fiscal-year taxpayers with returns due last Monday won't be penalized
+T28	Argument 2682 2748	they file -- or request an extension -- and pay tax due by Nov. 15
+T29	Argument 3218 3248	The IRS denied cost deductions
+T30	Argument 3257 3290	few of the temps got to go aboard
+T31	Argument 4017 4066	People often cite frugality and distrust of banks
+T32	Argument 4070 4100	justify cash caches to the IRS
+T33	Argument 4308 4374	Brown must have had such income -- although it uncovered no source
+T34	Argument 4386 4475	he deposited $124,732 in a bank account in 1982-84 while reporting income of only $52,012
+T35	Argument 5404 5408	tips
+T36	Argument 5420 5451	the arrest of violent criminals
+T37	Motivation 5005 5007	so
+E13	Motivation:T37 Effect:T38 Cause:T39
+A13	Degree E13 Facilitate
+T38	Argument 5008 5041	Judge Shields rejected its claims
+T39	Argument 4940 5003	The IRS offered no evidence of hidden sources of taxable income

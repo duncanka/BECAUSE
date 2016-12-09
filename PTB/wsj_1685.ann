@@ -1,0 +1,9 @@
+T2	Consequence 1203 1205	if
+E2	Consequence:T2 Cause:T3 Effect:T4
+A2	Degree E2 Facilitate
+T3	Argument 1206 1223	handled with care
+T4	Argument 1225 1280	their benefits far outweigh any risk to the environment
+T1	Argument 845 949	the most environmentally safe way of dealing with a national problem cannot be built in Atchinson County
+T5	Argument 951 1017	what hope have we for dealing with the wastes our economy produces
+T6	Consequence 842 844	If
+E1	Consequence:T6 Cause:T1 Effect:T5

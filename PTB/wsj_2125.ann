@@ -1,0 +1,25 @@
+T1	Motivation 1198 1205	because
+E1	Motivation:T1 Effect:T7 Cause:T8
+A1	Degree E1 Facilitate
+T3	Consequence 2245 2247	if
+E2	Consequence:T3 Cause:T10 Effect:T9
+A2	Degree E2 Facilitate
+T4	Consequence 2785 2803;2813 2815	make it easier for to
+E3	Consequence:T4 Cause:T11 Effect:T5
+A3	Degree E3 Facilitate
+T5	Argument 2804 2812;2816 2875	managers raise the necessary capital and pay back the resulting debt
+T6	Consequence 3552 3562	because of
+E4	Consequence:T6 Effect:T12 Cause:T13
+A4	Degree E4 Facilitate
+T7	Argument 1136 1197	bankers and other investors were willing to provide financing
+T8	Argument 1206 1277	they assumed there would be major gains in both profitability and sales
+T9	Argument 2198 2244	the Wall Street gyrations damp Christmas sales
+T10	Argument 2248 2288	consumers lose confidence in the economy
+T11	Argument 2715 2777	the lower prices these retail chains are now expected to bring
+T12	Argument 3516 3542	a market already in tumult
+T13	Argument 3563 3645	concerns associated with bonds issued by the Federated and Allied units of Campeau
+T2	Consequence 1960 1962;2001 2005	To need
+E5	Consequence:T2 Cause:T15 Effect:T14
+A5	Degree E5 Facilitate
+T14	Argument 1963 1979	make an LBO work
+T15	Argument 2006 2031	more than just junk bonds

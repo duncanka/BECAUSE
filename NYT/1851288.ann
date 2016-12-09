@@ -1,0 +1,7 @@
+T1	Consequence 186 191;197 199	allow to
+E1	Consequence:T1 Cause:T3 Effect:T2
+A1	Degree E1 Facilitate
+T2	Argument 192 196;200 246	them mediate their cultural and social interactions
+T3	Argument 161 164	who
+T4	Argument 152 160	a people
+R1	Coref Arg1:T3 Arg2:T4	

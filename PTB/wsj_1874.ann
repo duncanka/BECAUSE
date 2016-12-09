@@ -1,0 +1,113 @@
+T1	Motivation 668 670;711 715	If then
+E1	Motivation:T1 Cause:T25 Effect:T26
+A1	Degree E1 Facilitate
+T2	Purpose 794 796	to
+E2	Purpose:T2 Effect:T27 Cause:T28
+A2	Degree E2 Facilitate
+T3	Purpose 1291 1293	to
+E3	Purpose:T3 Cause:T30 Effect:T29
+A3	Degree E3 Facilitate
+T4	Motivation 1536 1545	forced to
+E4	Motivation:T4 Effect:T31
+A4	Degree E4 Facilitate
+T5	Purpose 3040 3042	to
+E5	Purpose:T5 Cause:T33 Effect:T32
+A5	Degree E5 Facilitate
+T6	Motivation 3540 3547	because
+E6	Motivation:T6 Cause:T35 Effect:T34
+A6	Degree E6 Facilitate
+T7	Consequence 3694 3699	Since
+E7	Consequence:T7 Cause:T36 Effect:T37
+A7	Degree E7 Facilitate
+T8	Consequence 3888 3890	if
+E8	Consequence:T8 Effect:T38 Cause:T39
+A8	Degree E8 Facilitate
+T9	Purpose 3985 3987	to
+E9	Purpose:T9 Effect:T40 Cause:T41
+A9	Degree E9 Facilitate
+T10	Purpose 3999 4001	to
+E10	Purpose:T10 Cause:T43 Effect:T42
+A10	Degree E10 Facilitate
+T12	Consequence 4282 4291	forced to
+E12	Consequence:T12 Effect:T46
+A12	Degree E12 Facilitate
+T13	Purpose 4317 4319	to
+E13	Purpose:T13 Effect:T47 Cause:T48
+A13	Degree E13 Facilitate
+T14	Consequence 4432 4437	cause
+E14	Consequence:T14 Cause:T49 Effect:T50
+A14	Degree E14 Facilitate
+T16	Consequence 6368 6372	from
+E16	Consequence:T16 Effect:T53 Cause:T54
+A16	Degree E16 Facilitate
+T17	Consequence 6472 6481	forced to
+E17	Consequence:T17 Effect:T55
+A17	Degree E17 Facilitate
+T18	Purpose 6507 6509	to
+E18	Purpose:T18 Effect:T56 Cause:T57
+A18	Degree E18 Facilitate
+T19	Consequence 6510 6514	help
+E19	Consequence:T19 Effect:T58
+A19	Degree E19 Facilitate
+T20	Consequence 6834 6839	given
+E20	Consequence:T20 Cause:T60 Effect:T59
+A20	Degree E20 Facilitate
+T21	Consequence 6914 6921	because
+E21	Consequence:T21 Cause:T61 Effect:T62
+A21	Degree E21 Facilitate
+T22	Consequence 6999 7002;7009 7011	too to
+E22	Consequence:T22 Cause:T63 Effect:T64
+A22	Degree E22 Facilitate
+T23	Purpose 7930 7932	to
+E23	Purpose:T23 Cause:T66 Effect:T65
+A23	Degree E23 Facilitate
+T24	Consequence 8038 8043	given
+E24	Consequence:T24 Cause:T68 Effect:T67
+A24	Degree E24 Facilitate
+T25	Argument 671 709	the stock market tremors are behind us
+T26	Argument 716 841	the bond market will go back to looking at the next batch of economic numbers to determine'' where interest rates are heading
+T27	Argument 748 793	looking at the next batch of economic numbers
+T28	Argument 797 841	determine'' where interest rates are heading
+T29	Argument 1243 1290	some mutual funds sold their most liquid issues
+T30	Argument 1294 1304	raise cash
+T31	Argument 1529 1531;1546 1588	it scale back the size of its latest offering
+T32	Argument 3032 3039	created
+T33	Argument 3043 3079	rescue the nation's troubled thrifts
+T34	Argument 3501 3539	traders refer to as `earthquake' bonds
+T35	Argument 3548 3597	the (issuers) are on top of the San Andreas fault
+T36	Argument 3700 3789	those bonds already pay a slightly higher yield, an extra premium for the earthquake risk
+T37	Argument 3791 3823	they weren't materially affected
+T38	Argument 3862 3887	that could quickly change
+T39	Argument 3891 4019	property casualty insurance companies scramble to sell portions of their municipal portfolios to raise cash to pay damage claims
+T40	Argument 3891 3984	property casualty insurance companies scramble to sell portions of their municipal portfolios
+T41	Argument 3988 4019	raise cash to pay damage claims
+T42	Argument 3988 3998	raise cash
+T43	Argument 4002 4019	pay damage claims
+T46	Argument 4268 4278;4292 4344	California issue new debt over time to repair public facilities
+T47	Argument 4292 4316	issue new debt over time
+T48	Argument 4320 4344	repair public facilities
+T49	Argument 4416 4425	the quake
+T50	Argument 4438 4568	``wide-scale credit deterioration'' for issuers and debt issues in the 12-county area of Northern California affected by the quake
+T51	Argument 5547 5586	there hadn't been much investor selling
+T15	Consequence 5587 5597	because of
+E15	Consequence:T15 Cause:T52 Effect:T51
+A15	Degree E15 Facilitate
+T52	Argument 5598 5607	the quake
+T53	Argument 6329 6367	There was no appreciable market impact
+T54	Argument 6373 6398	the California earthquake
+T55	Argument 6443 6462;6482 6544	insurance companies sell mortgage securities to help pay earthquake-related claims
+T56	Argument 6482 6506	sell mortgage securities
+T57	Argument 6510 6544	help pay earthquake-related claims
+T58	Argument 6515 6544	pay earthquake-related claims
+T59	Argument 6786 6833	their potential quake exposure is seen as small
+T60	Argument 6845 6908	they require a financial cushion on all the loans they purchase
+T61	Argument 6922 6965	Northern California home prices are so high
+T62	Argument 6967 7059	loans from the region often are too large to be included in Freddie Mac and Fannie Mae pools
+T63	Argument 6999 7008	too large
+T64	Argument 7012 7059	be included in Freddie Mac and Fannie Mae pools
+T65	Argument 7883 7929	The chancellor sometimes has used the occasion
+T66	Argument 7933 7971	announce major economic policy changes
+T67	Argument 7973 8036	Economists don't expect any such changes in this year's address
+T68	Argument 8044 8103	Mr. Lawson's apparent reluctance to adjust policy currently
+T69	Note 1999 2007	required
+#1	AnnotatorNotes T69	Had a need for

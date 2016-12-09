@@ -1,0 +1,60 @@
+T1	Argument 292 302	support it
+T2	Purpose 289 291	to
+E1	Purpose:T2 Cause:T1 Effect:T3
+A1	Degree E1 Facilitate
+T3	Argument 255 288	124 Republicans joining Democrats
+T4	Consequence 753 765	guaranteeing
+E2	Consequence:T4 Effect:T5 Cause:T6
+A2	Degree E2 Facilitate
+T5	Argument 766 847	that every student who is qualified to go to college will be able to afford to go
+T6	Argument 715 724	the House
+T7	Inference 1674 1681	because
+E3	Inference:T7 Cause:T11 Effect:T10
+A3	Degree E3 Facilitate
+T8	Consequence 2054 2060	making
+E4	Consequence:T8 Effect:T16
+A4	Degree E4 Facilitate
+T10	Argument 1620 1672	the measure did nothing to improve access to college
+T11	Argument 1682 1739	it only helped ease the burden of repayment for graduates
+T12	Consequence 1690 1696	helped
+E5	Consequence:T12 Effect:T13 Cause:T14
+A5	Degree E5 Facilitate
+T13	Argument 1697 1739	ease the burden of repayment for graduates
+T14	Argument 1682 1684	it
+T15	Argument 1620 1631	the measure
+R1	Coref Arg1:T14 Arg2:T15	
+T16	Argument 2061 2077;2078 2088	higher education affordable
+T17	Consequence 2946 2950	help
+E6	Consequence:T17 Cause:T19 Effect:T18
+A6	Degree E6 Facilitate
+T18	Argument 2951 3001	increase access and affordability for all students
+T19	Argument 2939 2941	we
+T20	Motivation 3363 3366	for
+E7	Motivation:T20 Cause:T22 Effect:T21
+A7	Degree E7 Facilitate
+T21	Argument 3340 3362	attacking an incumbent
+T22	Argument 3367 3416	siding with bank lenders over middle-class voters
+T23	Purpose 4554 4556	To
+E8	Purpose:T23 Cause:T24 Effect:T25
+A8	Degree E8 Facilitate
+T24	Argument 4557 4581	make the bill affordable
+T25	Argument 4583 4734	the full benefit of the loan's promise of 3.4 percent interest rates applies only to loans made after July 1, 2012, and expires by the end of that year
+T26	Purpose 5068 5070	to
+E9	Purpose:T26 Cause:T27 Effect:T28
+A9	Degree E9 Facilitate
+T27	Argument 5071 5107	fund changes to student aid programs
+T28	Argument 5036 5067	that can be drawn on repeatedly
+T29	Note 1644 1646	to
+#2	AnnotatorNotes T29	Tricky, but probably not "with the goal of"
+T9	Argument 2223 2235	override one
+T30	Argument 2207 2219	the strength
+T31	Consequence 2220 2222	to
+E10	Consequence:T31 Effect:T9 Cause:T30
+A10	Degree E10 Facilitate
+#1	AnnotatorNotes E10	Needed to
+T32	Consequence 4280 4284	make
+E11	Consequence:T32 Cause:T34 Effect:T33
+A11	Degree E11 Facilitate
+T33	Argument 4285 4300;4301 4370	repayment terms easier for graduates, whose expected lifetime earnings top $1 million
+T34	Argument 4251 4268	the House measure
+#3	AnnotatorNotes E11	Not "make easier" in the sense that the terms are enabled; "easier" here means "more comfortable."

@@ -1,0 +1,10 @@
+T1	Purpose 608 611	for
+E1	Purpose:T1 Effect:T5 Cause:T6
+A1	Degree E1 Facilitate
+T2	Purpose 898 900	to
+E2	Purpose:T2 Cause:T4 Effect:T3
+A2	Degree E2 Facilitate
+T3	Argument 827 897	it would send a team to Pyongyang, the North Korean capital, next week
+T4	Argument 901 953	discuss how its inspectors would verify the shutdown
+T5	Argument 602 607	visit
+T6	Argument 612 659	talks about verifying and monitoring a shutdown

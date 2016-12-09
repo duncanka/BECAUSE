@@ -1,0 +1,25 @@
+T1	Argument 196 246	Mayor Michael R. Bloomberg travels to Albany today
+T2	Argument 250 286	testify before the State Legislature
+T3	Purpose 247 249	to
+E1	Purpose:T3 Cause:T2 Effect:T1
+A1	Degree E1 Facilitate
+T4	Argument 813 829	that were issued
+T5	Argument 833 886	bail out the city from the fiscal crisis of the 1970s
+T6	Purpose 830 832	to
+E2	Purpose:T6 Cause:T5 Effect:T4
+A2	Degree E2 Facilitate
+T7	Consequence 2664 2674	because of
+E3	Consequence:T7 Cause:T8 Effect:T9
+A3	Degree E3 Facilitate
+T8	Argument 2675 2705	how state aid is accounted for
+T9	Argument 2707 2775	the $327.9 million reduction might feel more like a $650 million hit
+T10	Consequence 6152 6159;6195 6199	prevent from
+E4	Consequence:T10 Effect:T12 Cause:T11
+A4	Degree E4 Inhibit
+T11	Argument 6135 6145	One change
+T12	Argument 6160 6194;6200 6240	employees who have won jury awards also collecting full disability pensions
+T13	Argument 2937 3025	Mr. Spitzer's AIM proposal takes effect for the state fiscal year that starts on April 1
+T14	Argument 3027 3123	New York City would lose its aid not only for its next fiscal year, but also for the current one
+T15	Consequence 2934 2936	If
+E5	Consequence:T15 Cause:T13 Effect:T14
+A5	Degree E5 Facilitate

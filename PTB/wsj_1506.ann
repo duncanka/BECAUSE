@@ -1,0 +1,90 @@
+T1	Consequence 49 51	if
+E1	Consequence:T1 Cause:T19 Effect:T18
+A1	Degree E1 Facilitate
+T2	Consequence 644 657	contribute to
+E2	Consequence:T2 Cause:T20 Effect:T21
+A2	Degree E2 Facilitate
+T3	Motivation 1156 1163	because
+E3	Motivation:T3 Cause:T23 Effect:T22
+A3	Degree E3 Facilitate
+T4	Consequence 1927 1945	is responsible for
+E4	Consequence:T4 Cause:T24 Effect:T25
+A4	Degree E4 Facilitate
+T5	Consequence 1927 1941;1997 2000	is responsible for
+E5	Consequence:T5 Cause:T24 Effect:T26
+A5	Degree E5 Facilitate
+T6	Purpose 2665 2667	to
+E6	Purpose:T6 Effect:T29 Cause:T30
+A6	Degree E6 Facilitate
+T8	Consequence 3109 3116	because
+E8	Consequence:T8 Cause:T32 Effect:T31
+A8	Degree E8 Facilitate
+T9	Consequence 4223 4229	led to
+E9	Consequence:T9 Cause:T33 Effect:T35
+A9	Degree E9 Facilitate
+T11	Consequence 4581 4588	because
+E10	Consequence:T11 Effect:T36 Cause:T37
+A10	Degree E10 Facilitate
+T12	Consequence 4836 4843	spurred
+E11	Consequence:T12 Cause:T39 Effect:T38
+A11	Degree E11 Facilitate
+T13	Consequence 5460 5468	hampered
+E12	Consequence:T13 Effect:T41 Cause:T40
+A12	Degree E12 Inhibit
+T14	Consequence 5578 5586	hampered
+E13	Consequence:T14 Cause:T42 Effect:T43
+A13	Degree E13 Inhibit
+T15	Purpose 5892 5894	to
+E14	Purpose:T15 Effect:T44 Cause:T45
+A14	Degree E14 Facilitate
+T16	Consequence 5934 5942	hampered
+E15	Consequence:T16 Cause:T47 Effect:T48
+A15	Degree E15 Inhibit
+T19	Argument 52 105	it knows of coup plans likely to endanger their lives
+T20	Argument 589 615	congressional requirements
+T21	Argument 658 765	the failure of such covert actions as this month's futile effort to oust Panamanian dictator Manuel Noriega
+T22	Argument 1092 1127	No notification was ever considered
+T23	Argument 1164 1267	the U.S. didn't think the coup plotters intended to kill Mr. Noriega, but merely sought to imprison him
+T24	Argument 1923 1926	who
+T25	Argument 1946 1977	the failure to oust Mr. Noriega
+T26	Argument 2001 2054	difficulties in carrying out covert activities abroad
+T29	Argument 2626 2664	develop a clear and appropriate policy
+T30	Argument 2668 2698	help the country in the future
+T31	Argument 3041 3108	the committee couldn't defend itself by making the documents public
+T32	Argument 3117 3156	that would violate classification rules
+T33	Argument 4211 4213	it
+T34	Argument 4094 4120	the notification guideline
+R1	Coref Arg1:T33 Arg2:T34	
+T35	Argument 4230 4323	hesitation and uncertainty on the part of U.S. intelligence and military operatives in Panama
+T36	Argument 4518 4552	The issue came to a head last year
+T37	Argument 4589 4705	the Reagan administration had sought unsuccessfully to win committee approval of funding for new Panama coup efforts
+T38	Argument 4773 4824	the need for guidelines on coups and assassinations
+T39	Argument 4847 4930	a White House desire to avoid nasty overseas surprises during the election campaign
+T40	Argument 5421 5433	restrictions
+T41	Argument 5469 5490	its freedom of action
+T42	Argument 5551 5570	congressional curbs
+T43	Argument 5587 5638	the spy agency's role in the coup attempt in Panama
+T44	Argument 5822 5890	rewrite the guidelines, without changing the basic assassination ban
+T45	Argument 5895 6000	clear up any ambiguities that may have hampered U.S. encouragement of coups against anti-American leaders
+T46	Argument 5904 5919	any ambiguities
+T47	Argument 5920 5924	that
+R2	Coref Arg1:T47 Arg2:T46	
+T48	Argument 5943 6000	U.S. encouragement of coups against anti-American leaders
+T18	Argument 0 48	The U.S. is required to notify foreign dictators
+T10	Motivation 4474 4477	for
+E17	Motivation:T10 Effect:T55 Cause:T56
+A17	Degree E17 Facilitate
+T51	Consequence 4414 4418	make
+E18	Consequence:T51 Cause:T52 Effect:T54
+A18	Degree E18 Facilitate
+T52	Argument 4405 4407	it
+T53	Argument 4367 4380	the guideline
+R3	Coref Arg1:T52 Arg2:T53	
+T54	Argument 4419 4434;4435 4514	U.S. operatives reluctant to even listen to coup plans for fear they may get into legal trouble
+T55	Argument 4419 4473	U.S. operatives reluctant to even listen to coup plans
+T56	Argument 4478 4514	fear they may get into legal trouble
+T17	Consequence 5402 5407;5417 5420	blame for
+E16	Consequence:T17 Effect:T50 Cause:T49
+A16	Degree E16 Facilitate
+T49	Argument 5408 5416	Congress
+T50	Argument 5421 5490	restrictions the White House said have hampered its freedom of action

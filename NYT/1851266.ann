@@ -1,0 +1,30 @@
+T2	Consequence 1698 1705;1742 1744	require to
+E2	Consequence:T2 Cause:T6 Effect:T7
+A2	Degree E2 Facilitate
+T3	Consequence 2314 2321	meaning
+E3	Consequence:T3 Effect:T9 Cause:T8
+A3	Degree E3 Facilitate
+T6	Argument 1706 1741	hard work and difficult compromises
+T7	Argument 1745 1761	reach completion
+T8	Argument 2216 2312	a voluntary moratorium on testing nuclear weapons be converted into a legally binding commitment
+T9	Argument 2327 2429	the United States could withdraw nuclear fuel supplies if India decided to test another nuclear weapon
+T10	Purpose 723 725;729 739	in attempt to
+E4	Purpose:T10 Effect:T11 Cause:T12
+A4	Degree E4 Facilitate
+T11	Argument 653 722	went directly into meetings with Foreign Secretary Shiv Shankar Menon
+T12	Argument 740 914	broker a compromise before an expected meeting between President Bush and Prime Minister Manmohan Singh on the sidelines of the Group of 8 summit meeting in Germany next week
+T1	Motivation 2382 2384	if
+E1	Motivation:T1 Cause:T4 Effect:T5
+A1	Degree E1 Facilitate
+T4	Argument 2385 2429	India decided to test another nuclear weapon
+T5	Argument 2327 2381	the United States could withdraw nuclear fuel supplies
+T13	Motivation 2672 2674;2726 2730	If then
+E5	Motivation:T13 Cause:T14 Effect:T15
+A5	Degree E5 Facilitate
+T14	Argument 2677 2724	China, Pakistan or another country were to test
+T15	Argument 2731 2790	clearly India cannot be expected to continue its moratorium
+T16	Argument 2432 2489	India's unilateral commitment not to test nuclear weapons
+T17	Motivation 2505 2518	contingent on
+E6	Motivation:T17 Cause:T18 Effect:T16
+A6	Degree E6 Facilitate
+T18	Argument 2519 2549	existing conditions continuing

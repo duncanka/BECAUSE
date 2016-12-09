@@ -1,0 +1,16 @@
+T1	Consequence 143 146;149 158	was result of
+E1	Consequence:T1 Effect:T4 Cause:T6
+A1	Degree E1 Facilitate
+T4	Argument 109 113	that
+T5	Argument 75 108	an exchange of fire early Tuesday
+T6	Argument 159 176	mistaken identity
+R1	Coref Arg1:T4 Arg2:T5	
+T2	Consequence 1167 1175	resulted
+E2	Consequence:T2 Effect:T3
+A2	Degree E2 Facilitate
+T3	Argument 1137 1161	many civilian casualties
+T7	Consequence 1904 1910;1941 1944	blamed for
+E3	Consequence:T7 Effect:T9 Cause:T8
+A3	Degree E3 Facilitate
+T8	Argument 1911 1940	Taliban and Al Qaeda fighters
+T9	Argument 1945 2012	the attack in Sayed Habibullah village, south of the capital, Kabul

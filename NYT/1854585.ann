@@ -1,0 +1,32 @@
+T1	Argument 49 53	they
+T2	Argument 0 29	Bush administration officials
+R1	Coref Arg1:T1 Arg2:T2	
+T3	Consequence 188 192	help
+E1	Consequence:T3 Effect:T4 Cause:T1
+A1	Degree E1 Facilitate
+T4	Argument 193 292	the Fatah party of the Palestinian president, Mahmoud Abbas, retain its stronghold in the West Bank
+T5	Purpose 581 583	to
+E2	Purpose:T5 Effect:T7 Cause:T6
+A2	Degree E2 Facilitate
+T6	Argument 584 623	reiterate American support for the move
+T7	Argument 524 580	Secretary of State Condoleezza Rice telephoned Mr. Abbas
+T8	Argument 1932 1987	the administration could only support such a separation
+T9	Argument 1991 2163	Israel agreed to make political concessions to Mr. Abbas in the West Bank, with the goal of undermining Hamas in the eyes of Palestinians by improving life in the West Bank
+T10	Motivation 1988 1990	if
+E3	Motivation:T10 Effect:T8 Cause:T9
+A3	Degree E3 Facilitate
+T11	Argument 1991 2064	Israel agreed to make political concessions to Mr. Abbas in the West Bank
+T12	Purpose 2066 2070;2075 2082	with goal of
+E4	Purpose:T12 Cause:T13 Effect:T11
+A4	Degree E4 Facilitate
+T13	Argument 2083 2163	undermining Hamas in the eyes of Palestinians by improving life in the West Bank
+T14	Argument 4007 4043	Ms. Rice now has a much tougher task
+T15	Argument 4047 4126	she still hopes to get a peace deal before President Bush leaves office in 2009
+T16	Consequence 4044 4046	if
+E5	Consequence:T16 Cause:T15 Effect:T14
+A5	Degree E5 Facilitate
+T17	Argument 4163 4197	Several faulted the administration
+T18	Argument 4202 4323	not doing more to prop up Mr. Abbas two years ago, after Yasir Arafat died but before Hamas won the legislative elections
+T19	Motivation 4198 4201	for
+E6	Motivation:T19 Cause:T18 Effect:T17
+A6	Degree E6 Facilitate

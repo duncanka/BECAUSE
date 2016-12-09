@@ -1,0 +1,54 @@
+T1	Motivation 508 510	so
+E1	Motivation:T1 Effect:T11 Cause:T10
+A1	Degree E1 Facilitate
+T3	Motivation 3300 3305	since
+E3	Motivation:T3 Cause:T18 Effect:T17
+A3	Degree E3 Facilitate
+T4	Consequence 3397 3402	cause
+E4	Consequence:T4 Cause:T19 Effect:T21
+A4	Degree E4 Facilitate
+T5	Consequence 3460 3467	prevent
+E5	Consequence:T5 Cause:T22 Effect:T24
+A5	Degree E5 Inhibit
+T6	Motivation 3774 3778	over
+E6	Motivation:T6 Effect:T25 Cause:T26
+A6	Degree E6 Facilitate
+T8	Purpose 4754 4756	to
+E8	Purpose:T8 Cause:T31 Effect:T30
+A8	Degree E8 Facilitate
+T9	Motivation 4822 4825;4829 4831	for to
+E9	Motivation:T9 Cause:T32 Effect:T33
+A9	Degree E9 Facilitate
+T10	Argument 508 574	so sensitive and potentially disruptive to British-Saudi relations
+T11	Argument 580 708	the government canceled an official inquiry last December into the claims of corruption that have swirled around the transaction
+T12	Consequence 3069 3071	if
+E10	Consequence:T12 Cause:T13 Effect:T14
+A10	Degree E10 Facilitate
+T13	Argument 3072 3129	allegations of bribery popping around aren't investigated
+T14	Argument 3012 3067	It's bad for British business, apart from anything else
+T17	Argument 3252 3299	it was ``unable to comment on these allegations
+T18	Argument 3306 3467	to do so would involve disclosing confidential information about Al Yamamah and that would cause the damage that ending the investigation was designed to prevent
+T19	Argument 3386 3390	that
+T20	Argument 3329 3381	disclosing confidential information about Al Yamamah
+R1	Coref Arg1:T19 Arg2:T20
+T21	Argument 3403 3467	the damage that ending the investigation was designed to prevent
+T22	Argument 3419 3443	ending the investigation
+T23	Argument 3403 3413	the damage
+T24	Argument 3414 3418	that
+R2	Coref Arg1:T24 Arg2:T23
+T25	Argument 3731 3773	Bush administration officials were puzzled
+T26	Argument 3779 3888	moves by King Abdullah of Saudi Arabia, Prince Bandar's uncle, seeming to contradict messages from the prince
+T30	Argument 4717 4753	making payments to foreign officials
+T31	Argument 4757 4770	win contracts
+T32	Argument 4775 4821	There would have to be some kind of U.S. nexus
+T33	Argument 4826 4828;4832 4845	us bring charges
+T35	Motivation 4597 4599	if
+E11	Motivation:T35 Cause:T36 Effect:T37
+A11	Degree E11 Facilitate
+T36	Argument 4600 4770	it were determined there was a possible violation of the Foreign Corrupt Practices Act, which forbids companies from making payments to foreign officials to win contracts
+T37	Argument 4552 4596	The Justice Department would become involved
+T2	Consequence 2584 2587;2605 2607	led to
+E2	Consequence:T2 Effect:T15 Cause:T16
+A2	Degree E2 Facilitate
+T15	Argument 2608 2679	the complete wreckage of a vital strategic relationship for our country
+T16	Argument 2542 2559	the investigation

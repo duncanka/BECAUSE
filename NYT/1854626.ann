@@ -1,0 +1,49 @@
+T1	Motivation 73 76	for
+E1	Motivation:T1 Cause:T8 Effect:T7
+A1	Degree E1 Facilitate
+T2	Motivation 657 664	Because
+E2	Motivation:T2 Cause:T9 Effect:T10
+A2	Degree E2 Facilitate
+T4	Consequence 1043 1052	encourage
+E3	Consequence:T4 Cause:T11 Effect:T13
+A3	Degree E3 Facilitate
+T5	Consequence 2781 2790	encourage
+E4	Consequence:T5 Cause:T14 Effect:T15
+A4	Degree E4 Facilitate
+T6	Purpose 3390 3405	for purposes of
+E5	Purpose:T6 Cause:T17 Effect:T16
+A5	Degree E5 Facilitate
+T3	Purpose 4558 4560	to
+E6	Purpose:T3 Cause:T19 Effect:T18
+A6	Degree E6 Facilitate
+T7	Argument 13 72	who as a presidential candidate has already drawn criticism
+T8	Argument 77 124	changes in his positions on other social issues
+T9	Argument 665 713	standard research entails destruction of embryos
+T11	Argument 1034 1036	he
+T12	Argument 1005 1015	Mr. Romney
+T13	Argument 1053 1078	broader federal financing
+R1	Coref Arg1:T11 Arg2:T12	
+T14	Argument 2757 2769	the governor
+T15	Argument 2803 2853	scientific research and the discovery of new cures
+T16	Argument 3367 3389	the cloning of embryos
+T17	Argument 3406 3421	experimentation
+T18	Argument 4538 4557	say and do anything
+T19	Argument 4561 4579	win the nomination
+T20	Consequence 3312 3330	opened the door to
+E7	Consequence:T20 Cause:T21 Effect:T22
+A7	Degree E7 Facilitate
+T21	Argument 3251 3255	that
+T22	Argument 3331 3421	a controversial technique entailing the cloning of embryos for purposes of experimentation
+T23	Argument 3230 3250	a Massachusetts bill
+R2	Coref Arg1:T21 Arg2:T23	
+T10	Argument 715 900	federal financing is currently allowed only for work on those stem cell lines that already existed in August 2001, when President Bush adopted that cutoff as his administration's policy
+T24	Motivation 2860 2863;2869 2875	For reason
+E8	Motivation:T24 Cause:T26 Effect:T25
+A8	Degree E8 Facilitate
+T25	Argument 2902 3005	he supports stem cell research on new and existing lines, in both private and federally funded settings
+T26	Argument 2864 2875	that reason
+T27	Purpose 1992 1994	to
+E9	Purpose:T27 Effect:T29 Cause:T28
+A9	Degree E9 Facilitate
+T28	Argument 1995 2035	formulate a policy on stem cell research
+T29	Argument 1959 1991	we sat down as an administration

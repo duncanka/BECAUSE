@@ -1,0 +1,23 @@
+T1	Consequence 924 935	resulted in
+E1	Consequence:T1 Cause:T5 Effect:T6
+A1	Degree E1 Facilitate
+T2	Consequence 3030 3037	created
+E2	Consequence:T2 Cause:T7 Effect:T8
+A2	Degree E2 Facilitate
+T3	Motivation 3038 3044;3077 3079	enough to
+E3	Motivation:T3 Cause:T9 Effect:T10
+A3	Degree E3 Facilitate
+T4	Motivation 3080 3085;3096 3098	cause to
+E4	Motivation:T4 Effect:T11 Cause:T9
+A4	Degree E4 Facilitate
+T5	Argument 903 918	suicide attacks
+T6	Argument 936 955	civilian casualties
+T7	Argument 2962 3017	suicide attacks, rare in Afghanistan only two years ago
+T8	Argument 3038 3136	enough fear among the general populace to cause thousands to flee for neighboring Pakistan or Iran
+T9	Argument 3038 3076	enough fear among the general populace
+T10	Argument 3080 3136	cause thousands to flee for neighboring Pakistan or Iran
+T11	Argument 3086 3095;3099 3136	thousands flee for neighboring Pakistan or Iran
+T12	Consequence 527 535	cause of
+E5	Consequence:T12 Effect:T13
+A5	Degree E5 Facilitate
+T13	Argument 536 572	the accidental discharge of a weapon

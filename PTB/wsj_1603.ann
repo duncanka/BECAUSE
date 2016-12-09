@@ -1,0 +1,47 @@
+T1	Consequence 540 544	made
+E1	Consequence:T1 Cause:T9 Effect:T10
+A1	Degree E1 Facilitate
+T2	Purpose 1755 1757	to
+E2	Purpose:T2 Effect:T11 Cause:T12
+A2	Degree E2 Facilitate
+T4	Consequence 4677 4684	because
+E4	Consequence:T4 Effect:T3 Cause:T13
+A4	Degree E4 Facilitate
+T5	Consequence 6145 6148;6157 6159	too to
+E5	Consequence:T5 Cause:T14 Effect:T15
+A5	Degree E5 Inhibit
+T6	Consequence 6580 6586	helped
+E6	Consequence:T6 Effect:T17 Cause:T16
+A6	Degree E6 Facilitate
+T7	Purpose 7292 7294	to
+E7	Purpose:T7 Cause:T19 Effect:T18
+A7	Degree E7 Facilitate
+T9	Argument 519 539	His business success
+T10	Argument 545 548;549 586	him an official target in pre-reform days
+T11	Argument 1729 1754	He was further questioned
+T12	Argument 1758 1814	determine if he was ``a real working man or an exploiter
+T3	Argument 4606 4676	He had lost his official position in the association in he early 1980s
+T13	Argument 4685 4740	he questioned the intrusion of politics into literature
+T14	Argument 6145 6156	too painful
+T15	Argument 6160 6164	bear
+T16	Argument 6497 6578	Her success, which included alleviating an urban food shortage in the early 1980s
+T17	Argument 6587 6625	persuade Hanoi to take the reform path
+T18	Argument 7231 7291	The authorities have steered foreign reporters to her office
+T19	Argument 7295 7338	see an example of ``the new way of thinking
+T22	Argument 3063 3100	National leaders stopped by his stand
+T23	Argument 3104 3128	commend his achievements
+T24	Purpose 3101 3103	to
+E3	Purpose:T24 Cause:T23 Effect:T22
+A3	Degree E3 Facilitate
+T25	Consequence 5866 5875	triggered
+E9	Consequence:T25 Effect:T26 Cause:T27
+A9	Degree E9 Facilitate
+T26	Argument 5876 5924	a furor among intellectuals that continues today
+T27	Argument 5852 5865	His dismissal
+T8	Note 8131 8133	to
+#1	AnnotatorNotes T8	Purpose of existence of boats and trucks
+T20	Argument 8795 8812	Vietnam's reforms
+T21	Argument 8825 8848	rivals on her home turf
+T28	Consequence 8818 8824	create
+E8	Consequence:T28 Effect:T21 Cause:T20
+A8	Degree E8 Facilitate

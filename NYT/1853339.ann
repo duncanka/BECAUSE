@@ -1,0 +1,60 @@
+T1	Consequence 521 523	so
+E1	Consequence:T1 Cause:T12 Effect:T13
+A1	Degree E1 Facilitate
+T2	Motivation 3173 3180	because
+E2	Motivation:T2 Effect:T14 Cause:T15
+A2	Degree E2 Facilitate
+T3	Purpose 3229 3231	to
+E3	Purpose:T3 Effect:T16 Cause:T17
+A3	Degree E3 Facilitate
+T4	Motivation 3326 3333	because
+E4	Motivation:T4 Effect:T18 Cause:T19
+A4	Degree E4 Facilitate
+T5	Consequence 5587 5589	If
+E5	Consequence:T5 Cause:T20 Effect:T21
+A5	Degree E5 Facilitate
+T6	Consequence 5962 5964	to
+E6	Consequence:T6 Cause:T22 Effect:T23
+A6	Degree E6 Facilitate
+T7	Purpose 6744 6747	for
+E7	Purpose:T7 Cause:T25 Effect:T24
+A7	Degree E7 Facilitate
+T8	Consequence 7743 7753	because of
+E8	Consequence:T8 Effect:T26 Cause:T27
+A8	Degree E8 Facilitate
+T9	Motivation 7861 7868	because
+E9	Motivation:T9 Cause:T29 Effect:T28
+A9	Degree E9 Facilitate
+T10	Consequence 8549 8551	so
+E10	Consequence:T10 Cause:T30 Effect:T31
+A10	Degree E10 Facilitate
+T11	Motivation 8843 8845	If
+E11	Motivation:T11 Cause:T32 Effect:T33
+A11	Degree E11 Facilitate
+T12	Argument 485 519	These people came in the wrong way
+T13	Argument 524 554	they don't belong here, period
+T14	Argument 3110 3172	the immigration debate was a battle for the soul of the nation
+T15	Argument 3181 3299	it seemed to divert taxpayer-financed resources to cater to foreigners who had not come to this country by legal means
+T16	Argument 3194 3228	divert taxpayer-financed resources
+T17	Argument 3232 3299	cater to foreigners who had not come to this country by legal means
+T18	Argument 3304 3325	This hit home with me
+T19	Argument 3334 3375	I knew it was taking away from our people
+T20	Argument 5590 5608	I come from Mexico
+T21	Argument 5610 5666	I can jump the fence and get all those American benefits
+T22	Argument 5914 5961	Mr. Murphy, a longtime Republican, had to pause
+T23	Argument 5965 5981	temper his words
+T24	Argument 6644 6742	a challenge was started by ``The John & Ken Show,'' a popular talk radio show critical of the bill
+T25	Argument 6748 6838	30,000 opposition calls to Senator Dianne Feinstein, a Democrat, who supported the measure
+T26	Argument 7668 7742	A nephew who works as a house painter had trouble finding high-paying work
+T27	Argument 7754 7789	competition from illegal immigrants
+T28	Argument 7852 7860	mock her
+T29	Argument 7869 7890	she walks with a cane
+T30	Argument 8549 8555	so big
+T31	Argument 8561 8575	people noticed
+T32	Argument 8846 8895	the immigration issue comes before Congress again
+T33	Argument 8909 8956	I'm going to get a microphone and start yelling
+T34	Motivation 5512 5519	because
+E12	Motivation:T34 Cause:T36 Effect:T35
+A12	Degree E12 Facilitate
+T35	Argument 5480 5511	he felt strongly about the bill
+T36	Argument 5520 5582	he believed it would degrade the value of American citizenship

@@ -1,0 +1,116 @@
+T1	Purpose 101 108;94 98	goal of with
+E1	Purpose:T1 Effect:T3 Cause:T2
+A1	Degree E1 Facilitate
+T2	Argument 109 129	shaming the no-shows
+T3	Argument 0 93	Mahmoud al-Mashhadani, the speaker of Parliament, read a roll call of the 275 elected members
+T4	Motivation 461 464;480 482	led to
+E2	Motivation:T4 Effect:T5 Cause:T6
+A2	Degree E2 Facilitate
+T5	Argument 465 479;483 511	Mr. Mashhadani ask: ``When will he be back?
+T6	Argument 447 460	whose absence
+T7	Motivation 688 695	because
+E3	Motivation:T7 Cause:T9 Effect:T8
+A3	Degree E3 Facilitate
+T8	Argument 633 687	Nearly every session since November has been adjourned
+T9	Argument 696 732	as few as 65 members made it to work
+T10	Consequence 1232 1234;1237 1243	As result
+E4	Consequence:T10 Effect:T11
+A4	Degree E4 Facilitate
+T11	Argument 1261 1426	vital legislation involving the budget, provincial elections and amendments to the Constitution remain trapped in a legislative process that processes nearly nothing
+T12	Argument 1763 1784;1840 1861	Parliament would soon replace the absentees
+T13	Argument 1865 1913	they fail to attend a minimum amount of the time
+T14	Motivation 1862 1864	if
+E5	Motivation:T14 Cause:T13 Effect:T12
+A5	Degree E5 Facilitate
+T19	Consequence 2914 2921	blocked
+E7	Consequence:T19 Effect:T21 Cause:T20
+A7	Degree E7 Inhibit
+T20	Argument 2878 2908	Sunni and Shiite power brokers
+T21	Argument 2922 2981	efforts to scrutinize violence connected to their own sects
+T22	Consequence 3156 3158	If
+E8	Consequence:T22 Cause:T23 Effect:T24
+A8	Degree E8 Facilitate
+T23	Argument 3159 3183	the heart is not working
+T24	Argument 3185 3197	it all fails
+T25	Consequence 3265 3274	needed to
+E9	Consequence:T25 Cause:T27 Effect:T26
+A9	Degree E9 Enable
+T26	Argument 3275 3284	pass laws
+T27	Argument 3241 3264	the 50 percent plus one
+T28	Argument 3408 3440	whose end to a two-month boycott
+T29	Argument 3449 3505	a public relations blitz that helped attract 189 members
+T30	Consequence 3441 3448	created
+E10	Consequence:T30 Cause:T28 Effect:T29
+A10	Degree E10 Facilitate
+T31	Consequence 3321 3327	caused
+E11	Consequence:T31 Effect:T33 Cause:T32
+A11	Degree E11 Facilitate
+T32	Argument 3339 3505	the return of 30 members loyal to the Shiite cleric Moktada al-Sadr, whose end to a two-month boycott created a public relations blitz that helped attract 189 members
+T33	Argument 3286 3319	It was the first quorum in months
+T34	Argument 3474 3478	that
+T35	Argument 3449 3473	a public relations blitz
+R1	Coref Arg1:T34 Arg2:T35	
+T36	Consequence 3479 3485	helped
+E12	Consequence:T36 Effect:T37 Cause:T34
+A12	Degree E12 Facilitate
+T37	Argument 3486 3505	attract 189 members
+T38	Purpose 5073 5076	for
+E13	Purpose:T38 Effect:T44 Cause:T43
+A13	Degree E13 Facilitate
+T39	Purpose 5087 5090	for
+E14	Purpose:T39 Effect:T44 Cause:T42
+A14	Degree E14 Facilitate
+T40	Purpose 5101 5104	for
+E15	Purpose:T40 Effect:T44 Cause:T41
+A15	Degree E15 Facilitate
+T41	Argument 5105 5114	the money
+T42	Argument 5091 5099	prestige
+T43	Argument 5077 5085	the game
+T44	Argument 5050 5072	Most of them were here
+T45	Motivation 5800 5807	because
+E16	Motivation:T45 Cause:T47 Effect:T46
+A16	Degree E16 Facilitate
+T46	Argument 5770 5799	he left Iraq a few months ago
+T47	Argument 5808 5935	his wife needed open-heart surgery and he did not trust that she would be well cared for in one of Baghdad's decrepit hospitals
+T48	Consequence 6152 6159;6170 6182	made it difficult to
+E17	Consequence:T48 Cause:T50 Effect:T49
+A17	Degree E17 Inhibit
+T49	Argument 6160 6208	much more difficult to participate in government
+T50	Argument 6092 6147	the dangers involved with being a public figure in Iraq
+T51	Consequence 6605 6607;6675 6679	If then
+E18	Consequence:T51 Effect:T53 Cause:T52
+A18	Degree E18 Facilitate
+T52	Argument 6608 6673	there are some members who think there is no benefit to attending
+T53	Argument 6680 6698	they should resign
+T54	Motivation 7121 7123	if
+E19	Motivation:T54 Cause:T55 Effect:T56
+A19	Degree E19 Facilitate
+T55	Argument 7124 7156	members show up to pass a budget
+T56	Argument 7058 7110	more money should be set aside for members' security
+T57	Consequence 7349 7352;7367 7369	For to
+E20	Consequence:T57 Effect:T59 Cause:T58
+A20	Degree E20 Enable
+T58	Argument 7387 7454	a majority of members in Parliament have to be present to pass them
+T59	Argument 7353 7366;7370 7385	the proposals be put in place
+T60	Consequence 2861 2867	led to
+E21	Consequence:T60 Effect:T61 Cause:T62
+A21	Degree E21 Facilitate
+T61	Argument 2868 2876	deadlock
+T62	Argument 2778 2849	sectarian divisions and the need for a twothirds majority in some cases
+T63	Consequence 6904 6910	ensure
+E22	Consequence:T63 Cause:T65 Effect:T64
+A22	Degree E22 Facilitate
+T64	Argument 6911 6942	the attendance of their members
+T65	Argument 6896 6900	them
+T66	Argument 6873 6886	party leaders
+R2	Coref Arg1:T65 Arg2:T66	
+T67	Purpose 7442 7444	to
+E23	Purpose:T67 Cause:T68 Effect:T69
+A23	Degree E23 Facilitate
+T68	Argument 7445 7454	pass them
+T69	Argument 7387 7441	a majority of members in Parliament have to be present
+T70	Argument 7093 7110	members' security
+T71	Argument 7058 7088	more money should be set aside
+T72	Purpose 7089 7092	for
+E24	Purpose:T72 Cause:T70 Effect:T71
+A24	Degree E24 Facilitate

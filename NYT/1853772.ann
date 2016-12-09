@@ -1,0 +1,40 @@
+T1	Motivation 410 412	so
+E1	Motivation:T1 Effect:T8 Cause:T7
+A1	Degree E1 Facilitate
+T2	Inference 693 697	made
+E2	Inference:T2 Cause:T9 Effect:T10
+A2	Degree E2 Facilitate
+T3	Purpose 1391 1393	to
+E3	Purpose:T3 Cause:T12 Effect:T11
+A3	Degree E3 Facilitate
+T4	Purpose 3410 3412	to
+E4	Purpose:T4 Cause:T14 Effect:T13
+A4	Degree E4 Facilitate
+T5	Motivation 3617 3624	because
+E5	Motivation:T5 Cause:T16 Effect:T15
+A5	Degree E5 Facilitate
+T6	Purpose 4584 4586	to
+E6	Purpose:T6 Cause:T19 Effect:T18
+A6	Degree E6 Facilitate
+T7	Argument 410 419	so freely
+T8	Argument 425 580	Mr. Bush looked a tad sheepish when Prime Minister Sali Berisha proclaimed him ``the greatest and most distinguished guest we have ever had in all times.''
+T9	Argument 582 601	The eight-hour stop
+T10	Argument 698 701;702 775	him the first sitting American president to visit this former Communist state
+T11	Argument 1350 1390	some Kosovo residents traveled to Tirana
+T12	Argument 1394 1408	join the crowd
+T13	Argument 3376 3409	who drove seven hours from Kosovo
+T14	Argument 3413 3425	see Mr. Bush
+T15	Argument 3521 3551	I think these are crazy people
+T16	Argument 3625 3652	democracy begins in America
+T18	Argument 4555 4583	a second limousine pulled up
+T19	Argument 4587 4612	protect him from the rear
+T20	Purpose 4404 4406	to
+E7	Purpose:T20 Cause:T21 Effect:T22
+A7	Degree E7 Facilitate
+T21	Argument 4407 4423	get close to him
+T22	Argument 4392 4403	Men jostled
+T17	Argument 3290 3303	using English
+T23	Argument 3307 3332	express the views of many
+T24	Purpose 3304 3306	to
+E8	Purpose:T24 Cause:T23 Effect:T17
+A8	Degree E8 Facilitate

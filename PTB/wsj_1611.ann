@@ -1,0 +1,32 @@
+T2	Consequence 357 367	stems from
+E2	Consequence:T2 Effect:T10 Cause:T11
+A2	Degree E2 Facilitate
+T3	Consequence 394 407	stemming from
+E3	Consequence:T3 Effect:T12 Cause:T13
+A3	Degree E3 Facilitate
+T4	Consequence 845 847	if
+E4	Consequence:T4 Effect:T14 Cause:T15
+A4	Degree E4 Facilitate
+T5	Consequence 1950 1952	if
+E5	Consequence:T5 Cause:T17 Effect:T16
+A5	Degree E5 Facilitate
+T6	Consequence 2089 2091	if
+E6	Consequence:T6 Effect:T18 Cause:T19
+A6	Degree E6 Facilitate
+T7	Consequence 2470 2472	so
+E7	Consequence:T7 Cause:T20 Effect:T21
+A7	Degree E7 Facilitate
+T10	Argument 307 356	The Peruvian mineral concern's $251 million claim
+T12	Argument 387 393	a case
+T13	Argument 408 474	the brothers' alleged attempts to corner the 1979-80 silver market
+T11	Argument 368 474	1988 jury award in a case stemming from the brothers' alleged attempts to corner the 1979-80 silver market
+T14	Argument 830 844	he won't do it
+T15	Argument 848 1049	the proposal jeopardizes a tentative settlement he has reached with the Internal Revenue Service, which claims the brothers owe $1 billion in back taxes and is by far the biggest creditor in both cases
+T16	Argument 1922 1949	a ``volcano'' of litigation
+T17	Argument 1953 2037	the Manufacturers Hanover Corp. unit attempts to force such a plan through the court
+T18	Argument 2054 2088	it wouldn't pursue such litigation
+T19	Argument 2092 2224	its settlement plan in the W. Herbert Hunt case is approved by Judge Abramson, who will consider the proposal at a hearing next week
+T20	Argument 2470 2488	so fluid right now
+T21	Argument 2494 2539	there's really no way to say what will happen
+T1	Note 113 115	to
+#1	AnnotatorNotes T1	Purpose of existence of deal

@@ -1,0 +1,23 @@
+T1	Consequence 937 948	encouraging
+E1	Consequence:T1 Effect:T4
+A1	Degree E1 Facilitate
+T3	Purpose 3122 3124	to
+E2	Purpose:T3 Effect:T5 Cause:T6
+A2	Degree E2 Facilitate
+T4	Argument 949 992	efforts by the Maliki government in Baghdad
+T5	Argument 3096 3121	ordered by President Bush
+T6	Argument 3125 3147	bolster forces in Iraq
+T7	Motivation 289 296	inspire
+E3	Motivation:T7 Cause:T8 Effect:T9
+A3	Degree E3 Facilitate
+T8	Argument 266 274	bombings
+T9	Argument 297 320	more sectarian violence
+T10	Consequence 1293 1298	spark
+E4	Consequence:T10 Cause:T11 Effect:T12
+A4	Degree E4 Facilitate
+T11	Argument 1281 1283	he
+T12	Argument 1299 1343	greater attention to this ``ground-up effort
+T2	Consequence 2337 2349	make certain
+E5	Consequence:T2 Effect:T13
+A5	Degree E5 Facilitate
+T13	Argument 2355 2510	the bombing of a revered mosque in Samarra -- and a feared round of reprisals -- ``won't further disrupt or delay the process'' of political reconciliation

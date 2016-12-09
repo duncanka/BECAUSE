@@ -1,0 +1,15 @@
+T1	Consequence 959 965	making
+E1	Consequence:T1 Cause:T3 Effect:T4
+A1	Degree E1 Facilitate
+T2	Consequence 1574 1576	if
+E2	Consequence:T2 Cause:T6 Effect:T5
+A2	Degree E2 Facilitate
+T3	Argument 910 957	The Dow Jones industrials rose 5.94, to 2689.14
+T4	Argument 966 987;988 1019	the gain for the week a record 119.88 points, or 4.7%
+T5	Argument 1530 1573	prices could collapse a few months from now
+T6	Argument 1577 1611	the group doesn't adopt new quotas
+T7	Motivation 740 748	prompted
+E3	Motivation:T7 Effect:T9 Cause:T8
+A3	Degree E3 Facilitate
+T8	Argument 720 739	The collapse Friday
+T9	Argument 749 859	speculation that Ford would intensify its pursuit of Jaguar, which is negotiating a defensive alliance with GM

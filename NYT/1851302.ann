@@ -1,0 +1,59 @@
+T1	Consequence 108 117;130 132;152 157	necessary if is to
+E1	Consequence:T1 Cause:T11 Effect:T12
+A1	Degree E1 Enable
+T2	Consequence 650 655;705 707	allow to
+E2	Consequence:T2 Cause:T13 Effect:T15
+A2	Degree E2 Enable
+T3	Consequence 650 655;761 763	allow to
+E3	Consequence:T3 Cause:T13 Effect:T17
+A3	Degree E3 Enable
+T4	Consequence 650 655;785 787	allow to
+E4	Consequence:T4 Cause:T13 Effect:T18
+A4	Degree E4 Enable
+T5	Consequence 1339 1345	ensure
+E5	Consequence:T5 Effect:T20 Cause:T19
+A5	Degree E5 Facilitate
+T6	Consequence 1899 1907	generate
+E6	Consequence:T6 Cause:T21 Effect:T22
+A6	Degree E6 Facilitate
+T7	Consequence 1940 1942	if
+E7	Consequence:T7 Effect:T25 Cause:T24
+A7	Degree E7 Facilitate
+T8	Consequence 2122 2124	if
+E8	Consequence:T8 Cause:T26 Effect:T27
+A8	Degree E8 Facilitate
+T9	Consequence 2692 2699;2759 2761	allowed to
+E9	Consequence:T9 Cause:T29 Effect:T28
+A9	Degree E9 Facilitate
+T10	Consequence 2787 2789	if
+E10	Consequence:T10 Cause:T30 Effect:T31
+A10	Degree E10 Facilitate
+T11	Argument 121 129	Mexico's
+T12	Argument 133 151;158 165	immigration reform succeed
+T13	Argument 640 644	This
+T14	Argument 656 660;664 703	them get better wages and working conditions
+T15	Argument 656 660;708 759	them become eligible for mortgages and driver's licenses
+T16	Consequence 650 655;661 663	allow to
+E11	Consequence:T16 Effect:T14 Cause:T13
+A11	Degree E11 Enable
+T17	Argument 656 660;764 780	them travel back home
+T18	Argument 656 660;788 826	them have an immensely better everyday life
+T19	Argument 1330 1332	It
+T20	Argument 1346 1404	the continued flow of money back to workers' families here
+T21	Argument 1876 1881	which
+T22	Argument 1908 1931	abuses and mistreatment
+T23	Argument 1800 1874	it has unduly harsh enforcement provisions at the border and the workplace
+R1	Coref Arg1:T21 Arg2:T23	
+T24	Argument 1943 2023	every Mexican in the United States who arrived before Jan. 1, 2007, is legalized
+T25	Argument 2025 2116	enforcement inside the United States, including discriminatory raids, will become redundant
+T26	Argument 2125 2193	nearly everyone who wants to go north can obtain a guest-worker visa
+T27	Argument 2195 2274	there will be no need to cross illegally and face rough treatment at the border
+T28	Argument 2700 2758;2762 2781	roughly the same number of workers who now cross illegally obtain guest status
+T29	Argument 2662 2680	The earlier figure
+T30	Argument 2790 2821	the final law has too few slots
+T31	Argument 2823 2896	it will not end illegal immigration, but simply perpetuate the status quo
+T32	Argument 1518 1521	use
+T33	Argument 1525 1546	start businesses here
+T34	Purpose 1522 1524	to
+E12	Purpose:T34 Cause:T33 Effect:T32
+A12	Degree E12 Facilitate

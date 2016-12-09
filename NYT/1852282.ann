@@ -1,0 +1,29 @@
+T1	Motivation 916 922;944 946	caused to
+E1	Motivation:T1 Effect:T3 Cause:T2
+A1	Degree E1 Facilitate
+T2	Argument 846 914	The guest list, a subject of negotiations for the past several weeks
+T3	Argument 923 943;947 1127	some British Muslims complain that the conference was shaped to lend support for Mr. Blair's policies on Iraq and Afghanistan and to affirm government support for some British Muslim groups over others
+T4	Argument 990 1051	lend support for Mr. Blair's policies on Iraq and Afghanistan
+T5	Argument 961 986	the conference was shaped
+T6	Purpose 987 989	to
+E2	Purpose:T6 Cause:T4 Effect:T5
+A2	Degree E2 Facilitate
+T7	Purpose 1056 1058	to
+E3	Purpose:T7 Cause:T8 Effect:T5
+A3	Degree E3 Facilitate
+T8	Argument 1059 1127	affirm government support for some British Muslim groups over others
+T13	Consequence 3364 3366	if
+E5	Consequence:T13 Cause:T14 Effect:T15
+A5	Degree E5 Facilitate
+T14	Argument 3367 3424	we have a motivating idea that is better than their ideas
+T15	Argument 3341 3363	We will only defeat it
+T16	Argument 533 565	force conversion to Christianity
+T17	Argument 492 529	the use, in times gone by, of torture
+T18	Purpose 530 532	to
+E6	Purpose:T18 Cause:T16 Effect:T17
+A6	Degree E6 Facilitate
+T9	Motivation 1176 1195	on the grounds that
+E7	Motivation:T9 Cause:T19 Effect:T20
+A7	Degree E7 Facilitate
+T19	Argument 1196 1273	they provided a bulwark against what the government considers extremist views
+T20	Argument 1130 1175	The participants appeared to have been chosen

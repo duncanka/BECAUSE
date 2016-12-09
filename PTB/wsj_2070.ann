@@ -1,0 +1,16 @@
+T1	Purpose 731 733	to
+E1	Purpose:T1 Effect:T4 Cause:T5
+A1	Degree E1 Facilitate
+T2	Motivation 1406 1412;1439 1441	enough to
+E2	Motivation:T2 Cause:T6 Effect:T7
+A2	Degree E2 Facilitate
+T3	Note 2162 2164	on
+T4	Argument 691 730	the U.S. Federal Reserve had intervened
+T5	Argument 734 757	blunt the unit's tumble
+T6	Argument 1406 1438	enough positive news in the data
+T7	Argument 1442 1464	justify buying dollars
+T8	Motivation 657 666	prompting
+E3	Motivation:T8 Cause:T10 Effect:T9
+A3	Degree E3 Facilitate
+T9	Argument 667 757	unconfirmed rumors that the U.S. Federal Reserve had intervened to blunt the unit's tumble
+T10	Argument 576 655	The unit stabilized about midday New York time at around 1.85 marks and 141 yen

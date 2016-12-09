@@ -1,0 +1,52 @@
+T1	Consequence 332 335;342 344	too to
+E1	Consequence:T1 Cause:T11 Effect:T12
+A1	Degree E1 Inhibit
+T2	Consequence 1049 1059	because of
+E2	Consequence:T2 Effect:T13 Cause:T14
+A2	Degree E2 Facilitate
+T3	Motivation 1127 1137	because of
+E3	Motivation:T3 Effect:T15 Cause:T16
+A3	Degree E3 Facilitate
+T4	Motivation 1834 1837	for
+E4	Motivation:T4 Effect:T17 Cause:T18
+A4	Degree E4 Facilitate
+T5	Purpose 1902 1904	to
+E5	Purpose:T5 Effect:T19 Cause:T20
+A5	Degree E5 Facilitate
+T7	Consequence 2454 2467	attributed to
+E6	Consequence:T7 Cause:T22 Effect:T21
+A6	Degree E6 Facilitate
+T8	Consequence 2963 2969	caused
+E7	Consequence:T8 Cause:T24 Effect:T23
+A7	Degree E7 Facilitate
+T10	Purpose 4065 4067	to
+E9	Purpose:T10 Cause:T27 Effect:T28
+A9	Degree E9 Facilitate
+T11	Argument 332 341	too early
+T12	Argument 345 424	say whether the security effort in Baghdad would achieve lasting security gains
+T13	Argument 989 1047	Attacks have also increased in Basra Province in the south
+T14	Argument 1060 1099	fighting between rival Shiite militants
+T15	Argument 1101 1126	some of whom fled Baghdad
+T16	Argument 1138 1160	the security crackdown
+T17	Argument 1792 1833	The report also criticized Iraq's leaders
+T18	Argument 1838 1935	failing to take advantage of the additional security in Baghdad to reach agreements on draft laws
+T19	Argument 1849 1901	take advantage of the additional security in Baghdad
+T20	Argument 1905 1935	reach agreements on draft laws
+T21	Argument 2426 2446	Much of the increase
+T22	Argument 2468 2483	suicide attacks
+T23	Argument 2933 2957	80 percent of the deaths
+T24	Argument 2973 2993	makeshift explosives
+T27	Argument 3997 4064	the Iraqi security forces would have to be expanded again next year
+T28	Argument 4068 4107	meet requirements for forces in Baghdad
+T6	Consequence 2062 2070	vital to
+E8	Consequence:T6 Cause:T9 Effect:T25
+A8	Degree E8 Facilitate
+T9	Argument 2030 2034	that
+T25	Argument 2071 2107	improve prospects for reconciliation
+T26	Argument 1942 2028	measures apportioning oil revenue and setting a timetable for new provincial elections
+R1	Coref Arg1:T9 Arg2:T26	
+T29	Argument 3224 3292	the Quds Force, a militant wing of Iran's Revolutionary Guards Corps
+T30	Argument 3298 3355	giving E.F.P.'s and other aid to Shiite militants in Iraq
+T31	Consequence 3217 3223;3294 3297	blames for
+E10	Consequence:T31 Cause:T29 Effect:T30
+A10	Degree E10 Facilitate

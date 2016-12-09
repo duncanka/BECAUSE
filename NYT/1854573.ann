@@ -1,0 +1,35 @@
+T1	Consequence 290 296	Unless
+E1	Consequence:T1 Cause:T8 Effect:T9
+A1	Degree E1 Inhibit
+T2	Consequence 865 872	because
+E2	Consequence:T2 Effect:T10 Cause:T11
+A2	Degree E2 Facilitate
+T3	Purpose 1114 1116	to
+E3	Purpose:T3 Effect:T12 Cause:T13
+A3	Degree E3 Facilitate
+T4	Purpose 1450 1452	to
+E4	Purpose:T4 Cause:T15 Effect:T14
+A4	Degree E4 Facilitate
+T5	Purpose 1683 1685	to
+E5	Purpose:T5 Effect:T16 Cause:T17
+A5	Degree E5 Facilitate
+T6	Consequence 2156 2160	make
+E6	Consequence:T6 Cause:T18 Effect:T19
+A6	Degree E6 Facilitate
+T7	Purpose 3322 3324	to
+E7	Purpose:T7 Cause:T21 Effect:T20
+A7	Degree E7 Facilitate
+T8	Argument 297 341	we can impede radicalization and recruitment
+T9	Argument 348 419	we are condemned to a strategy of stepping on cockroaches one at a time
+T10	Argument 814 863	it is small, especially when compared with Europe
+T11	Argument 873 911	assimilation works so much better here
+T12	Argument 1100 1113	who use Islam
+T13	Argument 1117 1198	convince the young that suicide bombings are the righteous path to a better world
+T14	Argument 1400 1449	Terrorist organizations, for example, use the Web
+T15	Argument 1453 1508	glorify the people who carry out attacks as serving God
+T16	Argument 1557 1682	use video from gruesome attacks like the slaughter of Russian schoolchildren or the bombing of a wedding at a Jordanian hotel
+T17	Argument 1686 1739	underscore that terrorists are cold-blooded murderers
+T18	Argument 2135 2151	the Internet age
+T19	Argument 2161 2193;2194 2199	moving from intent to capability rapid
+T20	Argument 3288 3321	what Al Qaeda and other groups do
+T21	Argument 3325 3337	win recruits

@@ -1,0 +1,59 @@
+T1	Argument 85 89	that
+T2	Argument 74 84	a 1921 law
+R1	Coref Arg1:T1 Arg2:T2	
+T3	Consequence 112 114;90 96	to forces
+E1	Consequence:T3 Effect:T4 Cause:T1
+A1	Degree E1 Facilitate
+T4	Argument 115 165;97 111	hire multiple contractors on public works projects municipalities
+T9	Argument 1272 1288	driving up costs
+T10	Argument 1226 1267	it has been bemoaned by local governments
+T11	Motivation 1268 1271	for
+E3	Motivation:T11 Cause:T9 Effect:T10
+A3	Degree E3 Facilitate
+T12	Argument 1098 1105	The law
+T13	Argument 1144 1154	corruption
+T15	Argument 2248 2256;2260 2270	the bill go through
+T16	Consequence 2240 2247;2257 2259	allowed to
+E4	Consequence:T16 Effect:T15 Cause:T17
+A4	Degree E4 Facilitate
+T17	Argument 2208 2239	Mr. Spitzer's arrival in Albany
+T18	Argument 2444 2473	The agreement announced today
+T20	Argument 2485 2517;2521 2564	over 70 percent of city projects move forward without the Wicks restrictions
+T21	Consequence 2479 2484;2518 2520	allow to
+E5	Consequence:T21 Effect:T20 Cause:T18
+A5	Degree E5 Facilitate
+T19	Argument 2753 2791	the support of the legislative leaders
+T22	Argument 2697 2741	it is virtually assured of passage next week
+T23	Consequence 2742 2752	because of
+E6	Consequence:T23 Cause:T19 Effect:T22
+A6	Degree E6 Facilitate
+T24	Argument 3331 3359	the governor was a hypocrite
+T25	Argument 3364 3455	offering his top fund-raisers access to him if they ``bundled'' donations from other donors
+T26	Consequence 3360 3363	for
+E7	Consequence:T26 Cause:T25 Effect:T24
+A7	Degree E7 Facilitate
+T27	Argument 3364 3407	offering his top fund-raisers access to him
+T28	Argument 3411 3455	they ``bundled'' donations from other donors
+T29	Motivation 3408 3410	if
+E8	Motivation:T29 Cause:T28 Effect:T27
+A8	Degree E8 Facilitate
+T30	Argument 3575 3592	you reward people
+T31	Argument 3597 3623	bundling a million dollars
+T32	Motivation 3593 3596	for
+E9	Motivation:T32 Cause:T31 Effect:T30
+A9	Degree E9 Facilitate
+T34	Motivation 1769 1775	's why
+E10	Motivation:T34 Cause:T35 Effect:T37
+A10	Degree E10 Facilitate
+T35	Argument 1765 1769	that
+T36	Argument 1700 1759	We trust all the players that are involved this time around
+R2	Coref Arg1:T35 Arg2:T36	
+T37	Argument 1776 1810	we wanted to negotiate a good bill
+T38	Consequence 1133 1143	discourage
+E11	Consequence:T38 Effect:T13 Cause:T12
+A11	Degree E11 Facilitate
+T14	Consequence 1344 1348	mean
+E12	Consequence:T14 Effect:T39 Cause:T33
+A12	Degree E12 Facilitate
+T33	Argument 1325 1337	repealing it
+T39	Argument 1349 1359	fewer jobs

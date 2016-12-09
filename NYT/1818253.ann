@@ -1,0 +1,26 @@
+T1	Consequence 656 660	made
+E1	Consequence:T1 Effect:T2 Cause:T3
+A1	Degree E1 Facilitate
+T2	Argument 661 666;672 735	clear it would not distract them from trying to reduce British forces
+T3	Argument 573 590	British officials
+T4	Motivation 1126 1133	provoke
+E2	Motivation:T4 Effect:T5 Cause:T6
+A2	Degree E2 Facilitate
+T5	Argument 1134 1151	fighting in Basra
+T6	Argument 1087 1119	an American crackdown in Baghdad
+T7	Consequence 1742 1747;1769 1771	allow to
+E3	Consequence:T7 Effect:T8
+A3	Degree E3 Facilitate
+T8	Argument 1748 1768;1772 1835	the Iraqi government establish its authority and make Iraq a more prosperous country
+T9	Consequence 2456 2462	caused
+E4	Consequence:T9 Cause:T10 Effect:T11
+A4	Degree E4 Facilitate
+T10	Argument 2466 2479	the war there
+T11	Argument 2431 2455	the damage to his legacy
+T12	Purpose 3595 3597	to
+E5	Purpose:T12 Cause:T13 Effect:T14
+A5	Degree E5 Facilitate
+T13	Argument 3598 3610	fill the gap
+T14	Argument 3548 3594	Other things also have to be brought into this
+T15	Note 1275 1284	effect on
+#1	AnnotatorNotes T15	Effect unspecified

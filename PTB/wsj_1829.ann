@@ -1,0 +1,36 @@
+T1	Motivation 626 635	forced to
+E1	Motivation:T1 Effect:T11
+A1	Degree E1 Facilitate
+T2	Consequence 646 656	because of
+E2	Consequence:T2 Effect:T12 Cause:T13
+A2	Degree E2 Facilitate
+T3	Motivation 1055 1065	because of
+E3	Motivation:T3 Cause:T15 Effect:T14
+A3	Degree E3 Facilitate
+T4	Consequence 2936 2941	given
+E4	Consequence:T4 Cause:T16 Effect:T17
+A4	Degree E4 Facilitate
+T6	Consequence 3348 3352	thus
+E5	Consequence:T6 Cause:T18 Effect:T19
+A5	Degree E5 Facilitate
+T7	Purpose 3995 3997	so
+E6	Purpose:T7 Cause:T21 Effect:T20
+A6	Degree E6 Facilitate
+T8	Consequence 4234 4244	because of
+E7	Consequence:T8 Effect:T22 Cause:T23
+A7	Degree E7 Facilitate
+T11	Argument 608 620;636 645	many workers stay home
+T12	Argument 608 645	many workers were forced to stay home
+T13	Argument 657 673	damaged roadways
+T14	Argument 931 1054	Other companies, including International Business Machines Corp. and Hewlett-Packard Co., completely idled their operations
+T15	Argument 1066 1134	Tuesday evening's temblor, which registered 6.9 on the Richter scale
+T16	Argument 2942 3042	what might have happened to the fragile parts that are at the heart of the microelectronics business
+T17	Argument 3044 3114	the bulk of Valley companies seemed to be just about shouting hosannas
+T18	Argument 3310 3342	buildings there tend to be newer
+T19	Argument 3310 3336;3354 3390	buildings there tend to be in step with the latest safety codes
+T20	Argument 3946 3993	it has factories in several parts of the nation
+T21	Argument 4003 4073	a breakdown at one location shouldn't leave customers in a total pinch
+T22	Argument 4158 4233	which has only a four-day supply of microprocessors from the Valley on hand
+T23	Argument 4245 4319	a just-in-time manufacturing approach that limits the buildup of inventory
+T5	Note 5531 5537;5554 5556	needed to
+#1	AnnotatorNotes T5	"To" here is topic, not enablement.

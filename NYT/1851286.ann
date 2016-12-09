@@ -1,0 +1,36 @@
+T1	Consequence 566 574	enabling
+E1	Consequence:T1 Effect:T2 Cause:T3
+A1	Degree E1 Enable
+T2	Argument 575 593	witness harassment
+T3	Argument 554 562	the site
+T4	Consequence 713 725	essential to
+E2	Consequence:T4 Effect:T21 Cause:T20
+A2	Degree E2 Enable
+T5	Consequence 1206 1218	essential to
+E3	Consequence:T5 Cause:T7 Effect:T6
+A3	Degree E3 Enable
+T6	Argument 1219 1247	police work and prosecutions
+T7	Argument 1183 1197	the eyewitness
+T8	Purpose 1316 1331	for the sake of
+E4	Purpose:T8 Cause:T13 Effect:T12
+A4	Degree E4 Facilitate
+T9	Motivation 1686 1689	for
+E5	Motivation:T9 Cause:T15 Effect:T14
+T10	Consequence 1821 1828	require
+E6	Consequence:T10 Cause:T16 Effect:T17
+A6	Degree E6 Enable
+T11	Consequence 2174 2177	fed
+E7	Consequence:T11 Effect:T19 Cause:T18
+A7	Degree E7 Facilitate
+T12	Argument 1275 1315	citizens cooperating with the government
+T13	Argument 1332 1345	public safety
+T14	Argument 1648 1685	gang members were sentenced last year
+T15	Argument 1690 1776	firebombing the house of an activist who told the police about neighborhood drug deals
+A5	Degree E5 Facilitate
+T16	Argument 1829 1887	a greater emphasis on the physical protection of witnesses
+T17	Argument 1778 1815	Combating the growing culture of fear
+T18	Argument 2038 2168	Racial profiling, sentencing disparities for crack and powdered cocaine and aggressive stops and searches in certain neighborhoods
+T19	Argument 2178 2323	a deep sense of persecution -- particularly among young black and Hispanic men -- and a dangerously adversarial relationship with law enforcement
+T20	Argument 697 709	transparency
+T21	Argument 726 748	a fair judicial system
+#1	AnnotatorNotes E7	Questionable

@@ -1,0 +1,22 @@
+T1	Motivation 1720 1724	over
+E1	Motivation:T1 Effect:T6 Cause:T7
+A1	Degree E1 Facilitate
+T3	Consequence 2591 2600	needed to
+E2	Consequence:T3 Effect:T9 Cause:T8
+A2	Degree E2 Facilitate
+T5	Consequence 3572 3585;3603 3605	are essential to
+E3	Consequence:T5 Cause:T10 Effect:T11
+A3	Degree E3 Facilitate
+T6	Argument 1592 1708	America's relations with some of its most important European allies have frayed significantly in the past five years
+T7	Argument 1725 1758	the decision to go to war in Iraq
+T8	Argument 2576 2590	3,000 soldiers
+T9	Argument 2601 2640	train the Afghan Army and police forces
+T10	Argument 3552 3571	Such memorial sites
+T11	Argument 3606 3773	ensure that the heroism of those who fought is not forgotten, and that ``the passage of time and the thinning of their ranks will never dim the glory of their deeds.''
+T2	Argument 1113 1129	the lofty ideals
+T4	Argument 1130 1134	that
+R1	Coref Arg1:T4 Arg2:T2	
+T12	Consequence 1135 1147	gave rise to
+E4	Consequence:T12 Effect:T13 Cause:T4
+A4	Degree E4 Facilitate
+T13	Argument 1167 1185	our great alliance

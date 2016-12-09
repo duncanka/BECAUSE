@@ -1,0 +1,25 @@
+T1	Purpose 153 155	to
+E1	Purpose:T1 Effect:T6 Cause:T7
+A1	Degree E1 Facilitate
+T2	Purpose 1673 1675	to
+E2	Purpose:T2 Effect:T8 Cause:T9
+A2	Degree E2 Facilitate
+T3	Motivation 1722 1725	for
+E3	Motivation:T3 Effect:T10 Cause:T11
+A3	Degree E3 Facilitate
+T5	Consequence 2200 2204	make
+E5	Consequence:T5 Effect:T15 Cause:T14
+A5	Degree E5 Facilitate
+T6	Argument 98 152	The British firm has begun court proceedings in London
+T7	Argument 156 284	prevent the use of the name ``Deloitte'' by Deloitte, Haskins & Sells and Touche Ross & Co. in England and the rest of the world
+T8	Argument 1624 1672	the Deloitte firm in the U.K. is filing the suit
+T9	Argument 1676 1764	get even with the merged Deloitte-Touche firm for keeping major auditing work in England
+T10	Argument 1676 1721	get even with the merged Deloitte-Touche firm
+T11	Argument 1726 1764	keeping major auditing work in England
+T12	Argument 2004 2008	this
+T4	Consequence 2015 2019	mean
+E4	Consequence:T4 Effect:T13 Cause:T12
+A4	Degree E4 Facilitate
+T13	Argument 2020 2100	that the British Deloitte would lose revenue for its audit of GM's Vauxhill unit
+T14	Argument 2104 2194	The defection of Deloitte's affiliates in Britain and the Netherlands to Coopers & Lybrand
+T15	Argument 2205 2212;2213 2258	Coopers one of the biggest accounting firms in Europe

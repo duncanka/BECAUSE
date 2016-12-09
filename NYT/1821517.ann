@@ -1,0 +1,39 @@
+T1	Consequence 843 853	because of
+E1	Consequence:T1 Cause:T2 Effect:T3
+A1	Degree E1 Facilitate
+T2	Argument 854 959	her perspective as a former insider in the vice president's office and as a former colleague of Mr. Libby
+T3	Argument 777 842	Ms. Martin's testimony may prove especially damaging to Mr. Libby
+T4	Argument 2234 2284	the Bush administration had distorted intelligence
+T5	Argument 2288 2320	build the case for invading Iraq
+T6	Purpose 2285 2287	to
+E2	Purpose:T6 Cause:T5 Effect:T4
+A2	Degree E2 Facilitate
+T7	Argument 2996 3009;3013 3145	the president inaccurately say in his State of the Union address that the British government had confirmed Iraq's efforts to buy uranium in Africa
+T8	Consequence 2988 2995;3010 3012	causing to
+E3	Consequence:T8 Cause:T9 Effect:T7
+A3	Degree E3 Facilitate
+T9	Argument 2973 2983	the C.I.A.
+T12	Argument 2988 3145	causing the president to inaccurately say in his State of the Union address that the British government had confirmed Iraq's efforts to buy uranium in Africa
+T13	Inference 4178 4185	because
+E5	Inference:T13 Cause:T15 Effect:T14
+A5	Degree E5 Facilitate
+T14	Argument 4152 4177	it must have been earlier
+T15	Argument 4186 4326	she recognized Mr. Wilson when he appeared on the NBC news program ``Meet the Press'' on July 7 to make his charges about the administration
+T16	Argument 4217 4281	he appeared on the NBC news program ``Meet the Press'' on July 7
+T17	Argument 4285 4326	make his charges about the administration
+T18	Purpose 4282 4284	to
+E6	Purpose:T18 Cause:T17 Effect:T16
+A6	Degree E6 Facilitate
+T19	Argument 1258 1285	his nuclear weapons program
+T20	Argument 1202 1253	Saddam Hussein was trying to buy uranium from Niger
+T21	Purpose 1254 1257	for
+E7	Purpose:T21 Cause:T19 Effect:T20
+A7	Degree E7 Facilitate
+T22	Consequence 3159 3163	made
+E8	Consequence:T22 Effect:T23 Cause:T24
+A8	Degree E8 Facilitate
+T23	Argument 3164 3166;3167 3172;3193 3307	it clear that it was Mr. Libby who had gone out of his way to take on the task of speaking to Ms. Mitchell about that issue
+T24	Argument 3148 3158	Ms. Martin
+T10	Consequence 2965 2972;2984 2987	blaming for
+E4	Consequence:T10 Effect:T12 Cause:T9
+A4	Degree E4 Facilitate

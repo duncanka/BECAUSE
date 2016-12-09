@@ -1,0 +1,52 @@
+T1	Motivation 320 322	So
+E1	Motivation:T1 Effect:T2
+A1	Degree E1 Facilitate
+T2	Argument 323 625	yesterday Mr. Bush stepped before the microphones in Washington to announce that he would help convene a series of meetings beginning this fall of the worlds' 15 biggest emitters of greenhouse gases (the United States is No. 1) to develop a long-term ``global strategy'' for dealing with climate change
+T6	Motivation 827 832	Given
+E3	Motivation:T6 Cause:T12 Effect:T13
+A3	Degree E3 Facilitate
+T7	Consequence 1405 1417	necessary to
+E4	Consequence:T7 Cause:T17 Effect:T18
+A4	Degree E4 Enable
+T8	Consequence 1418 1423	avert
+E5	Consequence:T8 Effect:T19
+A5	Degree E5 Inhibit
+T9	Motivation 1799 1803	over
+E6	Motivation:T9 Cause:T21 Effect:T20
+A6	Degree E6 Facilitate
+T10	Consequence 2062 2070	allowing
+E7	Consequence:T10 Effect:T23 Cause:T22
+A7	Degree E7 Enable
+T11	Consequence 2513 2535	necessary condition of
+E8	Consequence:T11 Cause:T24 Effect:T25
+A8	Degree E8 Enable
+T12	Argument 833 912	Mr. Bush's history of denial and obstructionism when it comes to climate change
+T13	Argument 914 1065	there are good reasons to be cynical about this sudden enthusiasm, coming as it does on the eve of the meeting of the Group of 8 industrialized nations
+T14	Consequence 413 417	help
+E9	Consequence:T14 Cause:T16 Effect:T15
+A9	Degree E9 Facilitate
+T15	Argument 418 625	convene a series of meetings beginning this fall of the worlds' 15 biggest emitters of greenhouse gases (the United States is No. 1) to develop a long-term ``global strategy'' for dealing with climate change
+T16	Argument 404 406	he
+T17	Argument 1309 1341	Cuts of up to 80 percent by 2050
+T18	Argument 1418 1464	avert the worst consequences of climate change
+T19	Argument 1424 1464	the worst consequences of climate change
+T20	Argument 1757 1798	Many European leaders are still bristling
+T21	Argument 1804 1880	Condoleezza Rice's 2001 declaration that the treaty was ``dead on arrival.''
+T22	Argument 1958 1960	He
+T23	Argument 2071 2093	increases in emissions
+T24	Argument 2483 2487	that
+T25	Argument 2536 2558	technological progress
+T26	Argument 2457 2482	the regulatory restraints
+R1	Coref Arg1:T24 Arg2:T26	
+T3	Argument 333 341	Mr. Bush
+R2	Coref Arg1:T16 Arg2:T3	
+T5	Argument 323 386	yesterday Mr. Bush stepped before the microphones in Washington
+T4	Argument 390 625	announce that he would help convene a series of meetings beginning this fall of the worlds' 15 biggest emitters of greenhouse gases (the United States is No. 1) to develop a long-term ``global strategy'' for dealing with climate change
+T27	Purpose 387 389	to
+E2	Purpose:T27 Cause:T4 Effect:T5
+A2	Degree E2 Facilitate
+T28	Motivation 2094 2104	as long as
+E10	Motivation:T28 Cause:T29 Effect:T30
+A10	Degree E10 Facilitate
+T29	Argument 2105 2152	they did not exceed the rate of economic growth
+T30	Argument 2062 2093	allowing increases in emissions

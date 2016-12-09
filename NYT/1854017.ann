@@ -1,0 +1,46 @@
+T1	Consequence 54 59	force
+E1	Consequence:T1 Cause:T3 Effect:T2
+A1	Degree E1 Facilitate
+T2	Argument 60 110	the resignation of the speaker, Mahmoud Mashhadani
+T3	Argument 43 47	that
+T4	Argument 20 32	a resolution
+R1	Coref Arg1:T3 Arg2:T4	
+T5	Consequence 808 812	made
+E2	Consequence:T5 Effect:T7 Cause:T6
+A2	Degree E2 Facilitate
+T6	Argument 788 807	What happened today
+T7	Argument 813 820;821 853	obvious the dynamic of democracy in Iraq
+T8	Argument 1506 1529	who requested anonymity
+T9	Argument 1538 1582	he is not authorized to speak to journalists
+T10	Motivation 1530 1537	because
+E3	Motivation:T10 Effect:T8 Cause:T9
+A3	Degree E3 Facilitate
+T11	Argument 2008 2019	Each attack
+T12	Argument 2051 2061;2062 2076	daily life more difficult
+T13	Consequence 2046 2050	made
+E4	Consequence:T13 Effect:T12 Cause:T11
+A4	Degree E4 Facilitate
+T15	Argument 2485 2573	Militarily, for the coalition, knocking down the bridge may or may not have significance
+T16	Argument 2583 2655	we have other resources, we have 20,000 troops on each side of the river
+T17	Inference 2575 2582	because
+E5	Inference:T17 Cause:T16 Effect:T15
+A5	Degree E5 Facilitate
+T19	Argument 4445 4491	the entire Parliament must vote on the speaker
+T20	Argument 4493 4650	there is a tacit understanding that while the Tawafiq coalition would nominate a Sunni Arab, it would first obtain approval from the Shiite and Kurdish blocs
+T21	Motivation 4439 4444	Since
+E6	Motivation:T21 Cause:T19 Effect:T20
+A6	Degree E6 Facilitate
+T23	Argument 2033 2041	commerce
+T14	Consequence 2024 2032	hampered
+E7	Consequence:T14 Cause:T11 Effect:T23
+A7	Degree E7 Inhibit
+T22	Consequence 2362 2366	foil
+E8	Consequence:T22 Effect:T25 Cause:T24
+A8	Degree E8 Inhibit
+T24	Argument 2324 2345	Iraqi security forces
+T25	Argument 2367 2389	several other attempts
+T26	Consequence 4333 4350;4400 4402	opens the way for to
+E9	Consequence:T26 Effect:T27 Cause:T18
+A9	Degree E9 Facilitate
+T18	Argument 4324 4332	The move
+T27	Argument 4351 4398;4403 4437	the Sunni Arab political bloc, known as Tawafiq nominate a new person for the post

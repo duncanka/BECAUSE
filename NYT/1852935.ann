@@ -1,0 +1,24 @@
+T2	Purpose 1408 1410	to
+E2	Purpose:T2 Cause:T9 Effect:T8
+A2	Degree E2 Facilitate
+T3	Purpose 1488 1490	to
+E3	Purpose:T3 Cause:T11 Effect:T10
+A3	Degree E3 Facilitate
+T4	Consequence 1674 1681	helping
+E4	Consequence:T4 Cause:T12 Effect:T13
+A4	Degree E4 Facilitate
+T9	Argument 1411 1444	undermine the threat of terrorism
+T10	Argument 1453 1487	adopt a more multilateral approach
+T11	Argument 1491 1536	combat ``the long-term forces of terrorism.''
+T8	Argument 1381 1407	go beyond the use of force
+T12	Argument 1634 1648	President Bush
+T13	Argument 1682 1720	keep America from being attacked again
+T5	Consequence 1682 1686;1695 1699	keep from
+E5	Consequence:T5 Cause:T12 Effect:T14
+A5	Degree E5 Inhibit
+T14	Argument 1687 1694;1700 1720	America being attacked again
+T1	Motivation 565 573;619 621	prompted to
+E1	Motivation:T1 Effect:T15 Cause:T6
+A1	Degree E1 Facilitate
+T6	Argument 546 560	That assertion
+T15	Argument 574 618;622 700	former Mayor Rudolph W. Giuliani of New York accuse Mr. Edwards and other Democrats of being ``in denial'' about the threat
