@@ -11,7 +11,7 @@ There are three subdirectories, each containing data from a different source:
 * **PTB**: 47 documents randomly selected from sections 2-23 of the Penn Treebank (Marcus et al., 1994). We excluded WSJ documents that were either earnings reports or corporate leadership/structure announcements, as both
 tended to be merely short lists of names/numbers. Again, we provide offset annotations named to match the raw PTB files, but the raw files require an LDC subscription.
 
-Note that we are currently working on an enhanced and further expanded version of this corpus. That version will include about 20% more documents, and the annotations will be made more consistent for treatment of edge cases. The future release will also include annotations for instances where causal language overlaps with about 8 different other types of relations. (These cases are not handled fully consistently in this release.)
+Note that we are currently working on an enhanced and further expanded version of this corpus (hence the version number). That version will include about 20% more documents, and the annotations will be made more consistent for treatment of edge cases. The future release will also include annotations for instances where causal language overlaps with about 8 different other types of relations. (These cases are not handled fully consistently in this release.)
 
 
 #### Citations
