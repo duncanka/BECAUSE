@@ -1,6 +1,6 @@
 # BECauSE v0.5 Data Release
 
-This directory includes the annotated data from version 0.5 of the **B**ank of **E**ffects and **Cau**ses **S**tated **E**xplicitly (BECauSE). This is the dataset reported on in Dunietz et al., 2017. The documents have all been exhaustively annotated using the scheme described in Dunietz et al., 2015. (The dataset is an expanded version of the one described in that paper.) All annotations are in `.ann` files formatted for <a href="http://brat.nlplab.org/">brat</a>, and we have included the `annotation.conf` and `visual.conf` files for brat in this directory.
+This directory includes the annotated data from version 0.5 of the **B**ank of **E**ffects and **Cau**ses **S**tated **E**xplicitly (BECauSE). This is the dataset reported on in [Dunietz et al., 2017](http://www.cs.cmu.edu/~jdunietz/publications/causeway-system.pdf). The documents have all been exhaustively annotated using the scheme described in [Dunietz et al., 2015](http://www.cs.cmu.edu/~jdunietz/publications/causal-language-annotation.pdf). (The dataset is an expanded version of the one described in that paper.) All annotations are in `.ann` files formatted for <a href="http://brat.nlplab.org/">brat</a>, and we have included the `annotation.conf` and `visual.conf` files for brat in this directory.
 
 There are three subdirectories, each containing data from a different source:
 
