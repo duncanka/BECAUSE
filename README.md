@@ -1,6 +1,6 @@
-# BECauSE v0.5 Data Release
+# BECauSE v1.0 Data Release
 
-This directory contains the annotated data from version 0.5 of the **B**ank of **E**ffects and **Cau**ses **S**tated **E**xplicitly (BECauSE). This is the dataset reported on in [Dunietz et al., 2017](http://www.cs.cmu.edu/~jdunietz/publications/causeway-system.pdf). The documents have all been exhaustively annotated using the scheme described in [Dunietz et al., 2015](http://www.cs.cmu.edu/~jdunietz/publications/causal-language-annotation.pdf). The dataset is an expanded version of the one described in the 2015 paper.
+This directory contains the annotated data from version 1.0 of the **B**ank of **E**ffects and **Cau**ses **S**tated **E**xplicitly (BECauSE). This is the dataset reported on in [Dunietz et al., 2017](http://www.cs.cmu.edu/~jdunietz/publications/causeway-system.pdf). The documents have all been exhaustively annotated using the scheme described in [Dunietz et al., 2015](http://www.cs.cmu.edu/~jdunietz/publications/causal-language-annotation.pdf). The dataset is an expanded version of the one described in the 2015 paper.
 
 The corpus is an attempt to capture the enormous variety of constructions used to express cause and effect. Inspired by the principles of [Construction Grammar](https://en.wikipedia.org/wiki/Construction_grammar), we annotate any conventional pattern that expresses causation, however complex. BECauSE thus includes many constructions that are not annotatable in most schemes, and is more comprehensive than previous efforts to capture causal language. For details, see the aforementioned papers.
 
@@ -13,7 +13,7 @@ All annotations are in `.ann` files formatted for [brat](http://brat.nlplab.org/
 * **PTB**: 47 documents randomly selected from sections 2-23 of the Penn Treebank (Marcus et al., 1994). We excluded WSJ documents that were either earnings reports or corporate leadership/structure announcements, as both
 tended to be merely short lists of names/numbers. Again, we provide offset annotations named to match the raw PTB files, but the raw files require an LDC subscription.
 
-Note that we are currently working on an enhanced and further expanded version of this corpus (hence the version number). That version will include about 20% more documents, and the annotations will be made more consistent for treatment of edge cases. The future release will also include annotations for instances where causal language overlaps with about 8 different other types of relations. (These cases are not handled fully consistently in this release.)
+Note that we are currently working on an enhanced and further expanded version of this corpus. That version will include about 20% more documents, and the annotations will be made more consistent for treatment of edge cases. The future release will also include annotations for instances where causal language overlaps with about 7 different other types of relations. (These cases are not handled fully consistently in this release.)
 
 
 #### Citations
