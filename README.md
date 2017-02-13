@@ -4,6 +4,8 @@ This directory contains the annotated data from version 1.0 of the **B**ank of *
 
 The corpus is an attempt to capture the enormous variety of constructions used to express cause and effect. Inspired by the principles of [Construction Grammar](https://en.wikipedia.org/wiki/Construction_grammar), we annotate any conventional pattern that expresses causation, however complex. BECauSE thus includes many constructions that are not annotatable in most schemes, and is more comprehensive than previous efforts to capture causal language. For details, see the aforementioned papers.
 
+The list of causal constructions is available in the [constructicon](https://docs.google.com/spreadsheets/d/1xn-bEE76RNpdJdylmbQi81D8qPhpOxdIh61twTM-ycU/edit) used by annotators for this release.
+
 All annotations are in `.ann` files formatted for [brat](http://brat.nlplab.org/), and we have included the `annotation.conf` and `visual.conf` files for brat in this directory. There are three data subdirectories, each containing data from a different source:
 
 * **CongressionalHearings**: Three partial documents from the [2014 NLP Unshared Task in PoliInformatics](https://sites.google.com/site/unsharedtask2014/). These documents are freely available, but for ease of processing, some header information was stripped from the text files. We also annotated only portions of these files, not complete transcripts. To allow for others to use our annotation offsets, then, we have included the preprocessed text files alongside the annotations.
