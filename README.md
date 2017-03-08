@@ -28,6 +28,6 @@ The first three sets of documents are the same dataset that was annotated for BE
 
 <sub>Sandhaus, Evan. 2008. The New York Times annotated corpus. *Linguistic Data Consortium*, Philadelphia.</sub>
 
-<sub>Nancy Ide, Christiane Fellbaum, Collin Baker, and Rebecca Passonneau. The manually annotated sub-corpus: A community resource for and by the people. *Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics* (2010): 68-73.</sub>
+<sub>Nancy Ide, Christiane Fellbaum, Collin Baker, and Rebecca Passonneau. The Manually Annotated Sub-Corpus: A community resource for and by the people. *Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics* (2010): 68-73.</sub>
 
 <sub>Marcus, Mitchell, et al. 1994. The Penn Treebank: Annotating predicate argument structure. In *Proceedings of the Workshop on Human Language Technology*, HLT '94, pages 114-119. Association for Computational Linguistics, Stroudsburg, PA, USA.</sub>
