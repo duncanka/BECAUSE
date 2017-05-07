@@ -27,7 +27,7 @@ T14	Argument 973 1232	increasing efforts by the mentally ill and their advocates
 T18	Consequence 1415 1429	prevented from
 E7	Consequence:T18 Effect:T19 Cause:T20
 A9	Degree E7 Facilitate
-T19	Argument 1405 1411;1430 1547	people voting only if they cannot indicate, with or without help, ``a specific desire to participate in the voting process.'
+T19	Argument 1430 1436	voting
 T20	Argument 1307 1387	a group of psychiatrists, lawyers and others led by the American Bar Association
 T21	Motivation 1442 1444	if
 E8	Motivation:T21 Effect:T22 Cause:T23

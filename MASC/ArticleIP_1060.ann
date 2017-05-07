@@ -89,7 +89,7 @@ E18	Consequence:T55 Effect:T56 Cause:T53
 A17	Degree E18 Facilitate
 T56	Argument 4005 4014;4015 4024;4025 4034	viability even more important
 T57	Argument 4056 4066	state laws
-T58	Argument 4081 4102;4107 4178;4179 4187	a woman and her docto perform tests to prove that a fetus is not viable before she obtains an abortion
+T58	Argument 4081 4103;4107 4178;4179 4187	a woman and her doctor perform tests to prove that a fetus is not viable before she obtains an abortion
 T59	Consequence 4073 4080;4104 4106	require to
 E19	Consequence:T59 Cause:T57 Effect:T58
 A18	Degree E19 Facilitate

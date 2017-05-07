@@ -1,5 +1,5 @@
 T1	NonCausal 327 336;344 346	permitted to
-E1	NonCausal:T1 Arg0:T2
+E1	NonCausal:T1 Arg0:T2 Arg1:T3
 A1	Obligation-permission E1
 T2	Argument 305 326	The 1987 highway bill
 T3	Argument 337 343;347 495	states raise the speed limit to 65 mph from 55 mph on interstate roads, which are defined as highways that pass through areas with fewer than 50,000 people

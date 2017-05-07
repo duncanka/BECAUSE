@@ -49,7 +49,7 @@ T35	Motivation 1105 1107	in
 E12	Motivation:T35 Effect:T36 Cause:T37
 A15	Degree E12 Facilitate
 T36	Argument 1064 1104	thousands of soldiers crossed the border
-T37	Argument 1108 1168	pursuit of members of the Kurdistan Worker's Party, or P.K.K
+T37	Argument 1108 1169	pursuit of members of the Kurdistan Worker's Party, or P.K.K.
 T16	Note 2779 2782	not
 #1	AnnotatorNotes T16	Scoped over the whole "as" relationship
 #2	AnnotatorNotes E1	Unclear whether this is intended to be causal.

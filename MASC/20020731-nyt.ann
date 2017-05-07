@@ -64,7 +64,6 @@ E13	Motivation:T38 Effect:T39 Cause:T40
 A15	Degree E13 Facilitate
 T39	Argument 4 53	SENATE ETHICS PANEL ADMONISHES NEW JERSEY SENATOR
 T40	Argument 58 76;77 82	CONDUCT RELATED TO GIFTS
-T43	Argument 465 520;521 597	the committee chastised him for using poor judgment and disregarding Senate rules in his dealings with the former donor, David Chang
 T16	Motivation 2385 2388	for
 E15	Motivation:T16 Effect:T44 Cause:T45
 A17	Degree E15 Facilitate
