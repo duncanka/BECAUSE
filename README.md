@@ -1,8 +1,8 @@
-# BECauSE v2.0 Data Release
+# BECAUSE v2.0 Data Release
 
-This directory contains the annotated data from version 2.0 of the **B**ank of **E**ffects and **Cau**ses **S**tated **E**xplicitly (BECauSE). This is the exhaustively annotated dataset reported on in [Dunietz et al., 2017b](http://www.cs.cmu.edu/~jdunietz/publications/because-v2.pdf) -- an expanded and improved version of the dataset reported on in [Dunietz et al., 2017a](http://www.cs.cmu.edu/~jdunietz/publications/causeway-system.pdf). (You can find the data from the 1.0 release in its own [branch](https://github.com/duncanka/BECauSE/tree/1.0).)
+This directory contains the annotated data from version 2.0 of the **B**ank of **E**ffects and **Cau**ses **S**tated **E**xplicitly (BECAUSE).<sup>[1](#footnote1)</sup> This is the exhaustively annotated dataset reported on in [Dunietz et al., 2017b](http://www.cs.cmu.edu/~jdunietz/publications/because-v2.pdf) -- an expanded and improved version of the dataset reported on in [Dunietz et al., 2017a](http://www.cs.cmu.edu/~jdunietz/publications/causeway-system.pdf). (You can find the data from the 1.0 release in its own [branch](https://github.com/duncanka/BECauSE/tree/1.0).)
 
-The corpus is an attempt to capture the enormous variety of constructions used to express cause and effect. Inspired by the principles of [Construction Grammar](https://en.wikipedia.org/wiki/Construction_grammar), we annotate any conventional pattern that expresses causation, however complex. BECauSE thus includes many constructions that are not annotatable in most schemes, and is more comprehensive than previous efforts to capture causal language. This version also includes annotations for seven types of semantic relations that frequently overlap with causality and are sometimes used to express it. For details, see the aforementioned papers.
+The corpus is an attempt to capture the enormous variety of constructions used to express cause and effect. Inspired by the principles of [Construction Grammar](https://en.wikipedia.org/wiki/Construction_grammar), we annotate any conventional pattern that expresses causation, however complex. BECAUSE thus includes many constructions that are not annotatable in most schemes, and is more comprehensive than previous efforts to capture causal language. This version also includes annotations for seven types of semantic relations that frequently overlap with causality and are sometimes used to express it. For details, see the aforementioned papers.
 
 The list of causal constructions is available in the [constructicon](https://docs.google.com/spreadsheets/d/1oGmrdLIruo32okPcFSCERupOuepiPwSD96H_WVTq10E/edit) used by annotators for this release.
 
@@ -16,18 +16,20 @@ All annotations are in `.ann` files formatted for [brat](http://brat.nlplab.org/
 
 * **MASC**: 10 newspaper documents (Wall Street Journal and New York Times articles, totalling 547 sentences) and 2 journal documents (82 sentences) from the Manually Annotated Sub-Corpus (MASC; Ide et al., 2010).
 
-The first three sets of documents are the same dataset that was annotated for BECauSE 1.0.
+The first three sets of documents are the same dataset that was annotated for BECAUSE 1.0.
+
+<sub><a name="footnote1">[1]</a>: Prior to May 2017, the corpus was referred to with a different capitalization scheme (BECauSE). The official name for the corpus is now BECAUSE, but either format is fine for citation.</sub>
 
 #### Citations
 
-<sub>Dunietz, Jesse, Lori Levin, and Jaime Carbonell. The BECauSE Corpus 2.0: Annotating Causality and Overlapping Relations. *Proceedings of LAW XI – The 11th Linguistic Annotation Workshop* (2017b): in press.</sub>
+<sub>Dunietz, Jesse, Lori Levin, and Jaime Carbonell. The BECauSE Corpus 2.0: Annotating Causality and Overlapping Relations. *Proceedings of LAW XI – The 11th Linguistic Annotation Workshop* (2017b): Association for Computational Linguistics, Valencia, Spain.</sub>
 
 <sub>Dunietz, Jesse, Lori Levin, and Jaime Carbonell. Automatically Tagging Constructions of Causation and Their Slot-Fillers. *Transactions of the Association for Computational Linguistics* (2017a): in press.</sub>
 
-<sub>Dunietz, Jesse, Lori Levin, and Jaime Carbonell. Annotating Causal Language Using Corpus Lexicography of Constructions. *Proceedings of LAW IX – The 9th Linguistic Annotation Workshop* (2015): 188-196.</sub>
+<sub>Dunietz, Jesse, Lori Levin, and Jaime Carbonell. Annotating Causal Language Using Corpus Lexicography of Constructions. *Proceedings of LAW IX – The 9th Linguistic Annotation Workshop* (2015): 188-196. Association for Computational Linguistics, Denver, USA.</sub>
 
-<sub>Sandhaus, Evan. 2008. The New York Times annotated corpus. *Linguistic Data Consortium*, Philadelphia.</sub>
+<sub>Sandhaus, Evan. 2008. The New York Times annotated corpus. Linguistic Data Consortium, Philadelphia, USA.</sub>
 
-<sub>Nancy Ide, Christiane Fellbaum, Collin Baker, and Rebecca Passonneau. The Manually Annotated Sub-Corpus: A community resource for and by the people. *Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics* (2010): 68-73.</sub>
+<sub>Nancy Ide, Christiane Fellbaum, Collin Baker, and Rebecca Passonneau. The Manually Annotated Sub-Corpus: A community resource for and by the people. *Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics* (2010): 68-73. Association for Computational Linguistics, Uppsala, Sweden.</sub>
 
-<sub>Marcus, Mitchell, et al. 1994. The Penn Treebank: Annotating predicate argument structure. In *Proceedings of the Workshop on Human Language Technology*, HLT '94, pages 114-119. Association for Computational Linguistics, Stroudsburg, PA, USA.</sub>
+<sub>Marcus, Mitchell, et al. 1994. The Penn Treebank: Annotating predicate argument structure. In *Proceedings of the Workshop on Human Language Technology*, HLT '94, pages 114-119. Association for Computational Linguistics, Plainsboro, USA.</sub>
