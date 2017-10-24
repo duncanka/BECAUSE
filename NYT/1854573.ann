@@ -3,7 +3,6 @@ E1	Motivation:T1 Cause:T2 Effect:T3
 A1	Degree E1 Inhibit
 T2	Argument 297 341	we can impede radicalization and recruitment
 T3	Argument 348 419	we are condemned to a strategy of stepping on cockroaches one at a time
-#1	AnnotatorNotes E1	Add "unless <cause>, then <effect>" as a variant in line 41 of the constructicon?
 T4	NonCausal 838 842	when
 E2	NonCausal:T4 Arg0:T5 Arg1:T6
 T5	Argument 843 863	compared with Europe

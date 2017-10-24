@@ -246,7 +246,7 @@ A77	Degree E52 Facilitate
 T170	Argument 1646 1650	that
 T171	Argument 1658 1667;1671 1687	officials clarify old laws
 T172	Argument 1631 1645	specific cases
-R1	Coref Arg1:T170 Arg2:T172	
+R1	Coref Arg1:T170 Arg2:T172
 A78	Obligation-permission E52
 A79	Obligation-permission E17
 T173	Motivation 5925 5929	when
@@ -255,7 +255,7 @@ A80	Degree E53 Facilitate
 T174	Argument 5930 5938	possible
 T175	Argument 5894 5924	the hospital encouraged voting
 T176	Argument 7806 7810	that
-R2	Coref Arg1:T176 Arg2:T133	
+R2	Coref Arg1:T176 Arg2:T133
 T34	Consequence 2253 2257	make
 E13	Consequence:T34 Cause:T35 Effect:T36
 A19	Degree E13 Facilitate

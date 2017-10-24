@@ -19,7 +19,7 @@ E4	Motivation:T10 Cause:T12 Effect:T11
 A5	Degree E4 Facilitate
 T11	Argument 879 958	some analysts questioned how much of an impact the retirement package will have
 T12	Argument 968 1005	few jobs will end up being eliminated
-T13	Motivation 1304 1315	As a result
+T13	Motivation 1304 1306;1309 1315	As result
 E5	Motivation:T13 Effect:T14
 A6	Degree E5 Facilitate
 T14	Argument 1317 1402	Upjohn will likely trim only about 275 to 350 of its more than 21,000 jobs world-wide

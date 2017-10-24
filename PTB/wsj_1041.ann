@@ -14,7 +14,7 @@ A4	Degree E3 Facilitate
 A5	Temporal E3
 T8	Argument 791 845	FDA approved the drug's usage for adults in March 1987
 T9	Argument 745 784	Adults with AIDS have had access to AZT
-T13	Consequence 1028 1039	As a result
+T13	Consequence 1028 1030;1033 1039	As result
 E5	Consequence:T13 Effect:T14
 A7	Degree E5 Facilitate
 T14	Argument 1041 1178	many youngsters have been unable to obtain the drug and, for the few exceptions, insurance carriers won't cover its cost of $6,400 a year

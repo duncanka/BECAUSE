@@ -43,9 +43,9 @@ E10	Motivation:T29 Cause:T30 Effect:T31
 A11	Degree E10 Facilitate
 A12	Temporal E10
 T30	Argument 3602 3615	foreign coups
-T31	Argument 3568 3615	how the U.S. might operate during foreign coups
+T31	Argument 3568 3594	how the U.S. might operate
 T32	Motivation 3616 3627	in light of
-E11	Motivation:T32 Cause:T34 Effect:T31
+E11	Motivation:T32 Cause:T34 Effect:T18
 A13	Degree E11 Facilitate
 T34	Argument 3628 3701	the longstanding presidential order banning a U.S. role in assassinations
 T33	NonCausal 3853 3861	required
@@ -136,3 +136,4 @@ E28	Purpose:T84 Cause:T85 Effect:T24
 A32	Degree E28 Facilitate
 T85	Argument 2626 2698	develop a clear and appropriate policy to help the country in the future
 T24	Argument 2609 2622	work together
+T18	Argument 3568 3615	how the U.S. might operate during foreign coups

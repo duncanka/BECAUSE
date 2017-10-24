@@ -43,7 +43,7 @@ A13	Degree E10 Facilitate
 A14	Temporal E10
 T27	Argument 2103 2113	on the job
 T28	Argument 2029 2064	employees or owners had been robbed
-T29	Consequence 2182 2192	the reason
+T29	Consequence 2186 2192	reason
 E11	Consequence:T29 Cause:T30 Effect:T31
 A15	Degree E11 Facilitate
 T30	Argument 2172 2177	Crime

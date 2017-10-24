@@ -655,11 +655,11 @@ T405	Motivation 42224 42226	So
 E119	Motivation:T405 Effect:T406
 A119	Degree E119 Facilitate
 T406	Argument 42227 42311	my hope would be that the Congress would begin soon to think hard about these issues
-T351	Motivation 38589 38603;38612 38614	in recognition of
+T351	Motivation 38589 38591	in
 E139	Motivation:T351 Cause:T408 Effect:T409
 A139	Degree E139 Facilitate
 T408	Argument 38465 38588	we should be moving to empower the Federal Reserve to have regulatory authority over a wide range of financial institutions
-T409	Argument 38615 38831	the fact that they have a systemic impact and that the current situation puts the Fed in an untenable position of being given a set of expectations to respond when it doesn't have the full panoply of tools to respond
+T409	Argument 38592 38603;38612 38831	recognition of the fact that they have a systemic impact and that the current situation puts the Fed in an untenable position of being given a set of expectations to respond when it doesn't have the full panoply of tools to respond
 #1	AnnotatorNotes E12	Ambiguous: could be discourse
 T233	Argument 420 477	Chairman Bernanke will be before this committee next week
 T326	Motivation 478 481	for
@@ -1039,7 +1039,7 @@ E203	NonCausal:T584 Arg1:T586 Arg0:T585
 A214	Temporal E203
 T585	Argument 29775 29831	the near collapse of the Bear Stearns companies in March
 T586	Argument 29833 30172	the Federal Reserve has been working closely with the Securities and Exchange Commission, which is the functional supervisor of each of the primary dealers and the consolidated supervisor of the four large investment banks, to help ensure that those firms have the financial strength needed to withstand conditions of extreme market stress
-T587	Purpose 30403 30424	with the objective of
+T587	Purpose 30403 30407;30412 30424	with objective of
 E204	Purpose:T587 Cause:T588 Effect:T589
 A239	Degree E204 Facilitate
 T588	Argument 30425 30459	addressing the near-term situation

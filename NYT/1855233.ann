@@ -76,7 +76,7 @@ E15	Consequence:T42 Cause:T43 Effect:T44
 A20	Degree E15 Facilitate
 T43	Argument 5902 5934	sophisticated American diplomacy
 T44	Argument 5949 6024	broker an agreement that gradually shifted power from the army to civilians
-T45	Consequence 6165 6177	avoidance of
+T45	Consequence 6165 6174	avoidance
 E16	Consequence:T45 Effect:T46 Cause:T47
 A21	Degree E16 Inhibit
 T46	Argument 6178 6188	a solution

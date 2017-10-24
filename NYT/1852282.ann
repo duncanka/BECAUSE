@@ -25,7 +25,7 @@ E5	Motivation:T13 Cause:T14 Effect:T15
 A7	Degree E5 Facilitate
 T14	Argument 846 914	The guest list, a subject of negotiations for the past several weeks
 T15	Argument 923 943;947 1127	some British Muslims complain that the conference was shaped to lend support for Mr. Blair's policies on Iraq and Afghanistan and to affirm government support for some British Muslim groups over others
-T16	Motivation 1176 1195	on the grounds that
+T16	Motivation 1176 1178;1183 1195	on grounds that
 E6	Motivation:T16 Effect:T17 Cause:T18
 A8	Degree E6 Facilitate
 T17	Argument 1159 1175	have been chosen

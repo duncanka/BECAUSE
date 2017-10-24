@@ -43,10 +43,10 @@ T42	Argument 4064 4068;4087 4122	that we will want to look at much harder
 T43	Purpose 4123 4125	to
 E17	Purpose:T43 Cause:T41 Effect:T42
 A17	Degree E17 Facilitate
-T44	Purpose 4653 4669	in the hope that
+T44	Purpose 4653 4655	in
 E18	Purpose:T44 Cause:T45 Effect:T46
 A18	Degree E18 Facilitate
-T45	Argument 4670 4778	we will make a clearer statement about when private equity can come in and add capital to the banking system
+T45	Argument 4656 4778	the hope that we will make a clearer statement about when private equity can come in and add capital to the banking system
 T46	Argument 4620 4652	We are currently looking at that
 T47	Argument 5429 5490	the emergency powers or extraordinary powers or change powers
 T48	Argument 5491 5495	that

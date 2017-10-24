@@ -327,7 +327,7 @@ T259	Argument 23013 23023	the school
 T260	Argument 22982 23008	This one will be auctioned
 T263	Argument 23297 23300;23301 23372	all they have to do is come every day, come on time every day and work hard
 T267	Argument 7988 7990	he
-T62	Consequence 8913 8922	Only then
+T62	Consequence 8918 8922	then
 E22	Consequence:T62 Effect:T63
 A24	Degree E22 Facilitate
 T63	Argument 8923 8988;8989 8995	will New Jersey voters be able to decide Torricelli's fitness for office

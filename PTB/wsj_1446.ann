@@ -14,7 +14,7 @@ A3	Degree E3 Facilitate
 A4	Temporal E3
 T8	Argument 1219 1269	a caller reaches Telelawyer by dialing 900-TELELAW
 T9	Argument 1271 1325	a receptionist refers the call to one of six attorneys
-T10	Purpose 1327 1342	In an effort to
+T10	Purpose 1327 1329;1333 1342	In effort to
 E4	Purpose:T10 Cause:T11 Effect:T12
 A5	Degree E4 Facilitate
 T11	Argument 1343 1387	determine whether a caller has reason to sue

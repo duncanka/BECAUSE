@@ -46,7 +46,7 @@ T27	Motivation 2860 2863;2869 2875	For reason
 E10	Motivation:T27 Effect:T28 Cause:T53
 A14	Degree E10 Facilitate
 T28	Argument 2902 3005	he supports stem cell research on new and existing lines, in both private and federally funded settings
-T29	Consequence 3312 3330	opened the door to
+T29	Consequence 3312 3318;3323 3330	opened door to
 E11	Consequence:T29 Cause:T30 Effect:T32
 A15	Degree E11 Facilitate
 T30	Argument 3251 3255	that

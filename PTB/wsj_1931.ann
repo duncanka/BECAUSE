@@ -15,7 +15,7 @@ A4	Degree E3 Facilitate
 A5	Temporal E3
 T8	Argument 1680 1716	Friday's dive in stock market prices
 T9	Argument 1718 1854	the Fed has injected reserves into the banking system in an effort to calm the markets and avert a repeat of 1987's stock market debacle
-T10	Purpose 1772 1787	in an effort to
+T10	Purpose 1772 1774;1778 1787	in effort to
 E4	Purpose:T10 Cause:T11 Effect:T12
 A6	Degree E4 Facilitate
 T11	Argument 1788 1854	calm the markets and avert a repeat of 1987's stock market debacle

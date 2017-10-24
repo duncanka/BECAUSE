@@ -73,7 +73,7 @@ T50	Note 754 762	allowing
 #4	AnnotatorNotes T50	Different sense of "allow" (grant / allow to have)
 T51	Note 1442 1455	it turned out
 #5	AnnotatorNotes T51	Parenthetical like "he said" that actually applies to the whole sentence
-T5	Consequence 1466 1485	opening the door to
+T5	Consequence 1466 1473;1478 1485	opening door to
 E2	Consequence:T5 Effect:T6 Cause:T12
 A2	Degree E2 Facilitate
 T6	Argument 1486 1506	communist domination
