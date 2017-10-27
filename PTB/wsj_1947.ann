@@ -15,7 +15,7 @@ A6	Degree E4 Facilitate
 A7	Temporal E4
 T11	Argument 1507 1521	oil is shipped
 T12	Argument 1523 1549	no one can tell its source
-T13	Consequence 1778 1787	result of
+T13	Consequence 1778 1784	result
 E5	Consequence:T13 Effect:T14 Cause:T15
 A8	Degree E5 Facilitate
 T14	Argument 1724 1760	The spot dislocations that showed up
