@@ -75,7 +75,7 @@ A14	Degree E15 Facilitate
 T48	Consequence 3441 3446;3537 3539	allow to
 E16	Consequence:T48 Cause:T45 Effect:T49
 A15	Degree E16 Facilitate
-T49	Argument 3540 3567;3568 3632;3633 3692	look for signs--such as the development of functioning eyelids and creases in the skin--that coincide with the onset of a functioning respiratory system
+T49	Argument 3447 3454;3540 3567;3568 3632;3633 3692	doctors look for signs--such as the development of functioning eyelids and creases in the skin--that coincide with the onset of a functioning respiratory system
 T50	Argument 3778 3811	important Supreme Court decisions
 T51	Argument 3818 3822	1973
 T52	NonCausal 3812 3817	since

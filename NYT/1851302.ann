@@ -61,7 +61,7 @@ T40	Consequence 650 655;761 763	allow to
 E14	Consequence:T40 Effect:T41 Cause:T5
 A22	Degree E14 Facilitate
 A23	Obligation-permission E14
-T41	Argument 656 660;764 826	them travel back home and to have an immensely better everyday life
+T41	Argument 656 660;764 780	them travel back home
 T45	Note 1990 1996	before
 #4	AnnotatorNotes T45	Add as non-causal
 T42	Argument 656 660;788 826	them have an immensely better everyday life

@@ -60,7 +60,7 @@ T34	Consequence 3296 3304;3349 3351	allowing to
 E12	Consequence:T34 Cause:T32 Effect:T35
 A15	Degree E12 Facilitate
 A16	Obligation-permission E12
-T35	Argument 3352 3469	push for more permanent status by paying fines and having the heads of households return to their countries of origin
+T35	Argument 3305 3309;3352 3469	them push for more permanent status by paying fines and having the heads of households return to their countries of origin
 T37	NonCausal 3810 3818	creating
 E13	NonCausal:T37 Arg1:T38
 A17	Creation-termination E13
