@@ -10,12 +10,16 @@ All annotations are in `.ann` files formatted for [brat](http://brat.nlplab.org/
 
 * **CongressionalHearings**: Three partial documents from the [2014 NLP Unshared Task in PoliInformatics](https://sites.google.com/site/unsharedtask2014/). These documents are freely available, but for ease of processing, some header information was stripped from the text files. We also annotated only portions of these files, not complete transcripts. To allow for others to use our annotation offsets, then, we have included the preprocessed text files alongside the annotations.
 
-* **NYT**: 59 randomly selected documents from the year 2007 of the Washington section of the [New York Times Annotated Corpus](https://catalog.ldc.upenn.edu/ldc2008t19) (Sandhaus, 2008). Each `.ann` file shares its name with the corresponding raw NYT article. An LDC subscription is required to obtain the raw files. To turn the raw XML into the plain text files that the annotation offsets correspond to, you will need to run [`extract_nyt_txt.py`](scripts/extract_nyt_txt.py) on a system with access to `sed`. The script depends on NLTK.
+* **NYT**: 59 randomly selected documents from the year 2007 of the Washington section of the [New York Times Annotated Corpus](https://catalog.ldc.upenn.edu/ldc2008t19) (Sandhaus, 2008). Each `.ann` file shares its name with the corresponding raw NYT article. An LDC subscription is required to obtain the raw files.
+
+  To turn the raw XML into the plain text files that the annotation offsets correspond to, you will need to run [`extract_nyt_txt.py`](scripts/extract_nyt_txt.py) on a system with access to `sed`. The script depends on NLTK.
 
 * **PTB**: 47 documents randomly selected from sections 2-23 of the Penn Treebank (Marcus et al., 1994). We excluded WSJ documents that were either earnings reports or corporate leadership/structure announcements, as both
 tended to be merely short lists of names/numbers. Again, we provide offset annotations named to match the raw PTB files, but the raw files require an LDC subscription.
 
-Note that we are currently working on an enhanced and further expanded version of this corpus. That version will include about 20% more documents, and the annotations will be made more consistent for treatment of edge cases. The future release will also include annotations for instances where causal language overlaps with about 7 different other types of relations. (These cases are not handled fully consistently in this release.)
+  To turn the PTB `.mrg` files into the plain text files that the annotation offsets correspond to, you will need to run [`extract_wsj_txt.py`](scripts/extract_wsj_txt.py). The script depends on NLTK.
+
+Note that there is an enhanced and further expanded version of this corpus, available from the master branch of this repository. That version includes about 20% more documents, and the annotations are more consistent for treatment of edge cases. That release also includes annotations for instances where causal language overlaps with about 7 different other types of relations. (These cases are not handled fully consistently in the 1.0 release.)
 
 
 #### Citations
