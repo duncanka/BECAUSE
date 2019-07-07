@@ -17,7 +17,14 @@ All annotations are in `.ann` files formatted for [brat](http://brat.nlplab.org/
 * **PTB**: 47 documents randomly selected from sections 2-23 of the Penn Treebank (Marcus et al., 1994). We excluded WSJ documents that were either earnings reports or corporate leadership/structure announcements, as both
 tended to be merely short lists of names/numbers. Again, we provide offset annotations named to match the raw PTB files, but the raw files require an LDC subscription.
 
-  To turn the PTB `.mrg` files into the plain text files that the annotation offsets correspond to, you will need to run [`extract_wsj_txt.py`](scripts/extract_wsj_txt.py). The script depends on NLTK.
+  To place the original plain-text of the PTB files alongside their corresponding annotations, run the following script (assuming BECAUSE is saved in `$BECAUSE_DIR` and the PTB CD has been extracted into `PTB_DIR`):
+  ```bash
+  for ANN_FILE in $BECAUSE_DIR/PTB/*.ann; do
+      BASE_FILE=$(basename $ANN_FILE)
+      DIGITS=$(echo $BASE_FILE | cut -d'_' -f2)
+      cp $PTB_DIR/raw/${DIGITS:0:2}/${BASE_FILE%.*}.txt $BECAUSE_DIR/PTB/
+  done
+  ```
 
 Note that there is an enhanced and further expanded version of this corpus, available from the master branch of this repository. That version includes about 20% more documents, and the annotations are more consistent for treatment of edge cases. That release also includes annotations for instances where causal language overlaps with about 7 different other types of relations. (These cases are not handled fully consistently in the 1.0 release.)
 
