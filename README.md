@@ -12,22 +12,15 @@ All annotations are in `.ann` files formatted for [brat](http://brat.nlplab.org/
 
 * **NYT**: 59 randomly selected documents from the year 2007 of the Washington section of the [New York Times Annotated Corpus](https://catalog.ldc.upenn.edu/ldc2008t19) (Sandhaus, 2008). Each `.ann` file shares its name with the corresponding raw NYT article. An LDC subscription is required to obtain the raw files.
 
-  To turn the raw XML into the plain text files that the annotation offsets correspond to, you will need to run [`extract_nyt_txt.py`](scripts/extract_nyt_txt.py) on a system with access to `sed`. The script depends on NLTK.
-
 * **PTB**: 47 documents randomly selected from sections 2-23 of the Penn Treebank (Marcus et al., 1994). We excluded WSJ documents that were either earnings reports or corporate leadership/structure announcements, as both tended to be merely short lists of names/numbers. Again, we provide offset annotations named to match the raw PTB files, but the raw files require an LDC subscription.
-
-  To place the original plain-text of the PTB files alongside their corresponding annotations, run the following script (assuming BECAUSE is saved in `$BECAUSE_DIR` and the PTB CD has been extracted into `PTB_DIR`):
-  ```bash
-  for ANN_FILE in $BECAUSE_DIR/PTB/*.ann; do
-      BASE_FILE=$(basename $ANN_FILE)
-      DIGITS=$(echo $BASE_FILE | cut -d'_' -f2)
-      cp $PTB_DIR/raw/${DIGITS:0:2}/${BASE_FILE%.*}.txt $BECAUSE_DIR/PTB/
-  done
-  ```
 
 * **MASC**: 10 newspaper documents (Wall Street Journal and New York Times articles, totalling 547 sentences) and 2 journal documents (82 sentences) from the Manually Annotated Sub-Corpus (MASC; Ide et al., 2010).
 
 The first three sets of documents are the same dataset that was annotated for BECAUSE 1.0.
+
+See the [Causeway documentation](https://github.com/duncanka/Causeway) (step 5) for instructions on how to reconstitute the corpus.
+
+For questions and usage issues, please contact jdunietz@cs.cmu.edu.
 
 <sub><a name="footnote1">[1]</a>: Prior to May 2017, the corpus was referred to with a different capitalization scheme (BECauSE). The official name for the corpus is now BECAUSE, but either format is fine for citation.</sub>
 
