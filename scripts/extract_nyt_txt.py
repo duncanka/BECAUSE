@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Usage: extract_nyt.py OUTPUT_PATH [NYT_XML_FILE]...
 
+from __future__ import print_function
 from nltk.corpus.reader import XMLCorpusReader
 import os
 import sys
@@ -75,7 +76,7 @@ def doc_path_to_dict(path):
 
 def main(argv):
     if len(argv) < 3:
-        print 'Usage: extract_nyt.py OUTPUT_PATH [NYT_XML_FILE]...'
+        print('Usage: extract_nyt.py OUTPUT_PATH [NYT_XML_FILE]...')
         exit(1)
 
     target_path = argv[1]
@@ -96,7 +97,7 @@ def main(argv):
         for f in files_written:
             os.remove(f + '.bak')
     else:
-        print "Could not run sed. Please replace all initial quotes in text files with `` instead of ''."
+        print("Could not run sed. Please replace all initial quotes in text files with `` instead of ''.")
 
 if __name__ == '__main__':
     main(sys.argv)
